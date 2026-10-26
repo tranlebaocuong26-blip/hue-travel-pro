@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-26T15:20:03.202Z",
+  "baseUrl": "https://cuonghoctrituenhantao.netlify.app",
+  "routes": {
+    "/": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 1066
+    },
+    "/ve-hue": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 662
+    },
+    "/kham-pha": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 323
+    },
+    "/an-uong": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 345
+    },
+    "/cam-nang": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 449
+    },
+    "/luu-tru": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 339
+    },
+    "/kham-pha/dai-noi-hue": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 402
+    },
+    "/cam-nang/thue-xe/hidibike-hue": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 432
+    },
+    "/luu-tru/lucia-homestay-coffee": {
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8",
+      "durationMs": 384
+    }
+  },
+  "responsive": {
+    "mobile_360x800": {
+      "name": "mobile_360x800",
+      "width": 360,
+      "height": 800,
+      "mobile": true
+    },
+    "iphone_390x844": {
+      "name": "iphone_390x844",
+      "width": 390,
+      "height": 844,
+      "mobile": true
+    },
+    "mobile_large_430x932": {
+      "name": "mobile_large_430x932",
+      "width": 430,
+      "height": 932,
+      "mobile": true
+    },
+    "tablet_768x1024": {
+      "name": "tablet_768x1024",
+      "width": 768,
+      "height": 1024,
+      "mobile": true
+    },
+    "laptop_1366x768": {
+      "name": "laptop_1366x768",
+      "width": 1366,
+      "height": 768,
+      "mobile": false
+    },
+    "laptop_1440x900": {
+      "name": "laptop_1440x900",
+      "width": 1440,
+      "height": 900,
+      "mobile": false
+    },
+    "desktop_1920x1080": {
+      "name": "desktop_1920x1080",
+      "width": 1920,
+      "height": 1080,
+      "mobile": false
+    },
+    "desktop_2560x1440": {
+      "name": "desktop_2560x1440",
+      "width": 2560,
+      "height": 1440,
+      "mobile": false
+    }
+  },
+  "networkErrors": [],
+  "consoleErrors": [],
+  "functionalChecks": {
+    "navigationTransition": {
+      "target": "/kham-pha",
+      "actual": "/kham-pha",
+      "success": true
+    },
+    "returnHomeTransition": {
+      "target": "/",
+      "actual": "/",
+      "success": true
+    }
+  },
+  "httpToHttps": {
+    "status": 301,
+    "location": "https://cuonghoctrituenhantao.netlify.app/"
+  }
+}
