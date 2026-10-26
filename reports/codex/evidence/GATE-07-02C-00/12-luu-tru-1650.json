@@ -1,0 +1,164 @@
+{
+  "doc": {
+    "client": 1635,
+    "height": 1978,
+    "scroll": 1635
+  },
+  "grids": [
+    {
+      "cols": "252.875px 252.891px 379.344px 252.875px",
+      "gap": "12px",
+      "h": 44,
+      "w": 1174,
+      "x": 358.5,
+      "y": 391
+    },
+    {
+      "cols": "233.594px 233.594px 233.609px 233.594px 233.609px",
+      "gap": "12px",
+      "h": 89,
+      "w": 1216,
+      "x": 337.5,
+      "y": 557
+    },
+    {
+      "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+      "gap": "32px",
+      "h": 1268,
+      "w": 1216,
+      "x": 337.5,
+      "y": 678
+    },
+    {
+      "cols": "390px 390px",
+      "gap": "20px",
+      "h": 1216,
+      "w": 800,
+      "x": 337.5,
+      "y": 730
+    },
+    {
+      "cols": "167px 167px",
+      "gap": "8px",
+      "h": 72,
+      "w": 342,
+      "x": 1190.5,
+      "y": 731
+    }
+  ],
+  "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+  "headings": [
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Gợi ý theo nhu cầu",
+      "w": 1216,
+      "x": 337.5,
+      "y": 525
+    },
+    {
+      "font": "20px",
+      "h": 28,
+      "text": "Danh sách lưu trú(8 cơ sở)",
+      "w": 260.375,
+      "x": 337.5,
+      "y": 678
+    },
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Tiện nghi phổ biến",
+      "w": 342,
+      "x": 1190.5,
+      "y": 699
+    },
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Kinh nghiệm đặt phòng ở Huế",
+      "w": 342,
+      "x": 1190.5,
+      "y": 869
+    }
+  ],
+  "hero": {
+    "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+    "h": 228,
+    "position": "100% 65%, 100% 65%",
+    "w": 1216,
+    "x": 337.5,
+    "y": 110
+  },
+  "images": [],
+  "overflow": [
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 294,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 256,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 308,
+      "tag": "SPAN",
+      "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 289,
+      "tag": "SPAN",
+      "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 264,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 230,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 297,
+      "tag": "SPAN",
+      "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 160,
+      "overflow": "hidden",
+      "scroll": 241,
+      "tag": "SPAN",
+      "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+    }
+  ],
+  "url": "http://192.168.1.12:3000/luu-tru",
+  "viewport": [
+    1650,
+    786
+  ]
+}

@@ -1,0 +1,13 @@
+diff --git a/reports/codex/evidence/GATE-07-02B-20261025/ve-hue.before.tsx b/src/app/ve-hue/page.tsx
+index 978d577..105b78f 100644
+--- a/reports/codex/evidence/GATE-07-02B-20261025/ve-hue.before.tsx
++++ b/src/app/ve-hue/page.tsx
+@@ -44,7 +44,7 @@ export default function VeHuePage() {
+       <div
+         className="relative rounded-2xl sm:rounded-3xl overflow-hidden min-h-[300px] sm:min-h-[360px] p-5 sm:p-8 md:p-12 flex flex-col justify-between text-white bg-cover bg-center shadow-lg"
+         style={{
+-          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.95) 0%, rgba(37, 28, 57, 0.75) 50%, rgba(37, 28, 57, 0.3) 100%), url('/images/heroes/hero_ve_hue.png')`,
++          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url('/images/heroes/hero_lich_su.png')`,
+           backgroundPosition: "right center",
+           backgroundSize: "cover",
+         }}

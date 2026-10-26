@@ -1,0 +1,202 @@
+[
+  {
+    "selects": [
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort",
+        "w": 488.5
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội",
+        "w": 488.5
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury",
+        "w": 488.5
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Tiện nghi lưu trú",
+        "text": "Bữa sáng / Quán cà phê",
+        "value": "coffee",
+        "w": 488.5
+      }
+    ],
+    "vp": [
+      1366,
+      768
+    ]
+  },
+  {
+    "selects": [
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort",
+        "w": 525.5
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội",
+        "w": 525.5
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury",
+        "w": 525.5
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Tiện nghi lưu trú",
+        "text": "Bữa sáng / Quán cà phê",
+        "value": "coffee",
+        "w": 525.5
+      }
+    ],
+    "vp": [
+      1440,
+      900
+    ]
+  },
+  {
+    "selects": [
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort",
+        "w": 252.875
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội",
+        "w": 252.890625
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury",
+        "w": 379.34375
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Tiện nghi lưu trú",
+        "text": "Bữa sáng / Quán cà phê",
+        "value": "coffee",
+        "w": 252.875
+      }
+    ],
+    "vp": [
+      1650,
+      786
+    ]
+  },
+  {
+    "selects": [
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort",
+        "w": 252.875
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội",
+        "w": 252.890625
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury",
+        "w": 379.34375
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Tiện nghi lưu trú",
+        "text": "Bữa sáng / Quán cà phê",
+        "value": "coffee",
+        "w": 252.875
+      }
+    ],
+    "vp": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "selects": [
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort",
+        "w": 281.328125
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội",
+        "w": 281.328125
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury",
+        "w": 281.328125
+      },
+      {
+        "family": "__beVietnamPro_6d36a9, __beVietnamPro_Fallback_6d36a9, \"Segoe UI\", Arial, sans-serif",
+        "h": 44,
+        "label": "Tiện nghi lưu trú",
+        "text": "Bữa sáng / Quán cà phê",
+        "value": "coffee",
+        "w": 281.328125
+      }
+    ],
+    "vp": [
+      390,
+      844
+    ]
+  }
+]

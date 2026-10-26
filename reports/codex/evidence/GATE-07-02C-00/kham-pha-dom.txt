@@ -1,0 +1,206 @@
+- generic "Thanh điều hướng thích nghi":
+  - link "Trang chủ":
+    - /url: /
+  - link "Lịch sử":
+    - /url: /ve-hue
+  - link "Khám phá":
+    - /url: /kham-pha
+  - link "Di chuyển":
+    - /url: /cam-nang
+  - link "Lưu trú":
+    - /url: /luu-tru
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - navigation "Thanh điều hướng sidebar":
+    - link "Trang chủ":
+      - /url: /
+      - generic: Trang chủ
+    - link "Lịch sử":
+      - /url: /ve-hue
+      - generic: Lịch sử
+    - link "Khám phá":
+      - /url: /kham-pha
+      - generic: Khám phá
+    - link "Di chuyển":
+      - /url: /cam-nang
+      - generic: Di chuyển
+    - link "Lưu trú":
+      - /url: /luu-tru
+      - generic: Lưu trú
+  - generic: Phiên bản V2.3
+- banner:
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - link "Tìm kiếm":
+    - /url: /tim-kiem
+- main:
+  - textbox "Tìm kiếm nội dung Huế":
+    - /placeholder: "Tìm địa điểm, món ăn, camping, bãi biển (VD: Đại Nội, dai noi)..."
+  - button "Tìm toàn site":
+    - generic: Tìm toàn site
+  - button "Yêu thích (tính năng đang phát triển)" [disabled]:
+  - generic "Huế Travel Pro":
+  - generic: KHÁM PHÁ
+  - heading "Khám phá Huế" [level=1]
+  - paragraph: Những điểm đến đẹp, thú vị và đáng trải nghiệm đang chờ bạn khám phá.
+  - generic: "Gợi ý tìm kiếm:"
+  - button "Đại Nội"
+  - button "dai noi"
+  - button "Chùa Thiên Mụ"
+  - button "Bãi biển Lăng Cô"
+  - button "Camping"
+  - button "Làng hương Thủy Xuân"
+  - button "Di tích & danh thắng Lăng tẩm, chùa chiền":
+    - heading "Di tích & danh thắng" [level=4]
+    - generic: Lăng tẩm, chùa chiền
+  - button "Camping & dã ngoại Thiên nhiên, trải nghiệm":
+    - heading "Camping & dã ngoại" [level=4]
+    - generic: Thiên nhiên, trải nghiệm
+  - button "Biển & nghỉ dưỡng Bãi biển đẹp, check-in":
+    - heading "Biển & nghỉ dưỡng" [level=4]
+    - generic: Bãi biển đẹp, check-in
+  - button "Check-in nổi bật Cầu Trường Tiền, làng hương":
+    - heading "Check-in nổi bật" [level=4]
+    - generic: Cầu Trường Tiền, làng hương
+  - combobox "Danh mục điểm đến":
+    - 'option "Danh mục: Tất cả danh mục" [selected]'
+    - option "Di tích & danh thắng"
+    - option "Camping & dã ngoại"
+    - option "Biển & nghỉ dưỡng"
+    - option "Check-in nổi bật"
+  - combobox "Khu vực":
+    - 'option "Khu vực: Tất cả khu vực" [selected]'
+    - option "Trung tâm TP. Huế / Kinh thành"
+    - option "Huyện Phú Lộc / Vịnh Lăng Cô"
+    - option "Xã Thủy Bằng / Đồi Thiên An"
+    - option "Phường Kim Long / Chùa Thiên Mụ"
+  - combobox "Ngân sách":
+    - 'option "Ngân sách: Tất cả mức giá" [selected]'
+    - option "Miễn phí tham quan (Đã xác minh)"
+    - option "Vé tham quan theo quy định di tích"
+    - option "Chưa rõ vé / Dã ngoại tự do"
+  - combobox "Đối tượng phù hợp":
+    - 'option "Phù hợp: Mọi đối tượng" [selected]'
+    - option "Đi Huế lần đầu (Must-visit)"
+    - option "Gia đình & Người lớn tuổi"
+    - option "Cặp đôi & Hoàng hôn"
+    - option "Nhóm bạn trẻ & Check-in"
+  - text: Hiển thị
+  - strong: "6"
+  - text: địa điểm phù hợp
+  - heading "Địa điểm phù hợp (6 địa điểm)" [level=2]:
+    - generic: Địa điểm phù hợp
+    - generic: (6 địa điểm)
+  - link "Di tích Theo biểu giá niêm yết tại quầy vé di tích":
+    - /url: /kham-pha/dai-noi-hue
+    - generic: Di tích
+    - generic: Theo biểu giá niêm yết tại quầy vé di tích
+  - link "Đại Nội Huế":
+    - /url: /kham-pha/dai-noi-hue
+  - generic: Trung tâm TP. Huế
+  - paragraph: Quần thể di tích cố đô, biểu tượng văn hóa và lịch sử của triều đại nhà Nguyễn suốt 143 năm.
+  - generic: Di sản UNESCO
+  - generic: Lịch sử triều Nguyễn
+  - link "Chi tiết":
+    - /url: /kham-pha/dai-noi-hue
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BA%A1i%20N%E1%BB%99i%20Hu%E1%BA%BF%20Hu%E1%BA%BF
+  - link "Check-in Miễn phí tham quan công cộng":
+    - /url: /kham-pha/cau-truong-tien
+    - generic: Check-in
+    - generic: Miễn phí tham quan công cộng
+  - link "Cầu Trường Tiền":
+    - /url: /kham-pha/cau-truong-tien
+  - generic: Sông Hương, TP. Huế
+  - paragraph: Biểu tượng bất hủ của Huế, đẹp nhất vào lúc hoàng hôn và buổi tối khi hệ thống đèn đổi màu bừng sáng.
+  - generic: Biểu tượng Huế
+  - generic: Ngắm hoàng hôn
+  - link "Chi tiết":
+    - /url: /kham-pha/cau-truong-tien
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/?api=1&query=C%E1%BA%A7u%20Tr%C6%B0%E1%BB%9Dng%20Ti%E1%BB%81n%20Hu%E1%BA%BF
+  - link "Camping Dã ngoại tự do / Tự túc trang bị đồ cá nhân":
+    - /url: /kham-pha/doi-thien-an
+    - generic: Camping
+    - generic: Dã ngoại tự do / Tự túc trang bị đồ cá nhân
+  - link "Đồi Thiên An":
+    - /url: /kham-pha/doi-thien-an
+  - generic: Thủy Bằng, TP. Huế
+  - paragraph: Rừng thông bạt ngàn, hồ nước thơ mộng và không gian khí hậu mát mẻ lý tưởng cho dã ngoại, chụp ảnh.
+  - generic: "CẢNH BÁO AN TOÀN & BẢO VỆ RỪNG: Rừng thông Thiên An thuộc diện quản lý lâm nghiệp; tuyệt đối cấm đốt lửa trại bừa bãi và đốt rác phòng chống cháy rừng. Đây là điểm dã ngoại tự túc, KHÔNG có đơn vị camping thương mại bán vé. Du khách có trách nhiệm dọn sạch toàn bộ rác trước khi rời đi."
+  - generic: Dã ngoại thiên nhiên
+  - generic: Rừng thông xanh
+  - link "Chi tiết":
+    - /url: /kham-pha/doi-thien-an
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BB%93i%20Thi%C3%AAn%20An%20Hu%E1%BA%BF
+  - link "Biển Tự do tham quan / Tắm biển công cộng":
+    - /url: /kham-pha/bai-bien-lang-co
+    - generic: Biển
+    - generic: Tự do tham quan / Tắm biển công cộng
+  - link "Bãi biển Lăng Cô":
+    - /url: /kham-pha/bai-bien-lang-co
+  - generic: Phú Lộc, Thừa Thiên Huế
+  - paragraph: Một trong những vịnh biển đẹp nhất thế giới với bờ cát trắng mịn, nước trong xanh và hải sản tươi ngon.
+  - generic: Chú ý an toàn sóng biển, không bơi lội quá xa bờ vào những ngày biển động hoặc có cờ cảnh báo cứu hộ.
+  - generic: Vịnh đẹp thế giới
+  - generic: Cát trắng mịn
+  - link "Chi tiết":
+    - /url: /kham-pha/bai-bien-lang-co
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/?api=1&query=B%C3%A3i%20bi%E1%BB%83n%20L%C4%83ng%20C%C3%B4%20Hu%E1%BA%BF
+  - link "Di tích Miễn phí viếng chùa":
+    - /url: /kham-pha/chua-thien-mu
+    - generic: Di tích
+    - generic: Miễn phí viếng chùa
+  - link "Chùa Thiên Mụ":
+    - /url: /kham-pha/chua-thien-mu
+  - generic: Đồi Hà Khê, Kim Long
+  - paragraph: Ngôi chùa cổ linh thiêng bậc nhất, biểu tượng tâm linh gắn liền với dòng sông Hương hiền hòa.
+  - generic: "Chốn thiền môn tôn nghiêm: Khách viếng chùa vui lòng mặc trang phục lịch sự kín đáo, giữ trật tự và không quay phim chụp ảnh trong khu vực chánh điện thờ tự."
+  - generic: Chùa cổ 1601
+  - generic: Tháp Phước Duyên
+  - link "Chi tiết":
+    - /url: /kham-pha/chua-thien-mu
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/?api=1&query=Ch%C3%B9a%20Thi%C3%AAn%20M%E1%BB%A5%20Hu%E1%BA%BF
+  - link "Check-in Chụp ảnh tự do / Dịch vụ thuê phục trang có phí riêng":
+    - /url: /kham-pha/lang-huong-thuy-xuan
+    - generic: Check-in
+    - generic: Chụp ảnh tự do / Dịch vụ thuê phục trang có phí riêng
+  - link "Làng hương Thủy Xuân":
+    - /url: /kham-pha/lang-huong-thuy-xuan
+  - generic: Đường Huyền Trân Công Chúa
+  - paragraph: Làng nghề thủ công truyền thống rực rỡ sắc màu, góc chụp ảnh văn hóa độc đáo không thể bỏ lỡ.
+  - generic: Làng nghề truyền thống
+  - generic: Sắc màu rực rỡ
+  - link "Chi tiết":
+    - /url: /kham-pha/lang-huong-thuy-xuan
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/?api=1&query=L%C3%A0ng%20h%C6%B0%C6%A1ng%20Th%E1%BB%A7y%20Xu%C3%A2n%20Hu%E1%BA%BF
+  - heading "Bản đồ địa điểm" [level=3]:
+    - generic: Bản đồ địa điểm
+  - link "Xem bản đồ lớn":
+    - /url: https://www.google.com/maps/search/dia+diem+du+lich+hue
+    - generic: Xem bản đồ lớn
+  - generic: "📍 Vùng tham quan Huế:"
+  - generic: Đại Nội · Chùa Thiên Mụ · Sông Hương · Lăng Cô
+  - link "Mở Google Maps":
+    - /url: https://www.google.com/maps/search/dia+diem+du+lich+hue
+    - generic: Mở Google Maps
+  - paragraph: "* Liên kết dẫn trực tiếp tới Google Maps theo toạ độ địa danh chính xác."
+  - heading "Gợi ý theo nhu cầu" [level=3]:
+    - generic: Gợi ý theo nhu cầu
+  - heading "Đi Huế lần đầu" [level=4]
+  - paragraph: Những điểm không thể bỏ lỡ
+  - heading "Chill cuối tuần" [level=4]
+  - paragraph: Thiên nhiên & thư giãn
+  - heading "Đi cùng gia đình" [level=4]
+  - paragraph: An toàn, phù hợp mọi lứa tuổi
+  - heading "Check-in sống ảo" [level=4]
+  - paragraph: Góc chụp ảnh đẹp nhất xứ Huế
+- alert

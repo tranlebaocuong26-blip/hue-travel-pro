@@ -1,0 +1,682 @@
+{
+  "actions": [
+    {
+      "detailFragments": [
+        {
+          "bottom": 1295.5,
+          "h": 12,
+          "right": 276.171875,
+          "w": 17.546875,
+          "x": 258.625,
+          "y": 1283.5
+        },
+        {
+          "bottom": 1312,
+          "h": 12,
+          "right": 277.25,
+          "w": 18.625,
+          "x": 258.625,
+          "y": 1300
+        }
+      ],
+      "detailRect": {
+        "bottom": 1318.5,
+        "h": 41,
+        "right": 299.34375,
+        "w": 50.71875,
+        "x": 248.625,
+        "y": 1277.5
+      },
+      "font": "11px",
+      "footerClient": 305,
+      "footerRect": {
+        "bottom": 1318.5,
+        "h": 54,
+        "right": 340,
+        "w": 305,
+        "x": 35,
+        "y": 1264.5
+      },
+      "footerScroll": 305,
+      "groupRect": {
+        "bottom": 1318.5,
+        "h": 41,
+        "right": 340,
+        "w": 91.375,
+        "x": 248.625,
+        "y": 1277.5
+      },
+      "href": "/cam-nang/thue-xe/dong-xanh-motorbike",
+      "mapFragments": [
+        {
+          "bottom": 1295.5,
+          "h": 12,
+          "right": 317.859375,
+          "w": 10.515625,
+          "x": 307.34375,
+          "y": 1283.5
+        },
+        {
+          "bottom": 1312,
+          "h": 12,
+          "right": 319.453125,
+          "w": 12.109375,
+          "x": 307.34375,
+          "y": 1300
+        }
+      ],
+      "mapHref": "https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BB%93ng%20Xanh%20Motorbike%20Rental%20Hu%E1%BA%BF",
+      "mapRect": {
+        "bottom": 1314.5,
+        "h": 33,
+        "right": 340,
+        "w": 32.65625,
+        "x": 307.34375,
+        "y": 1281.5
+      },
+      "source": "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)",
+      "sourceClient": [
+        214,
+        33
+      ],
+      "sourceRect": {
+        "bottom": 1314.5,
+        "h": 33,
+        "right": 248.625,
+        "w": 213.625,
+        "x": 35,
+        "y": 1281.5
+      },
+      "sourceScroll": [
+        214,
+        33
+      ],
+      "whiteSpace": "normal"
+    },
+    {
+      "detailFragments": [
+        {
+          "bottom": 1754.5,
+          "h": 12,
+          "right": 276.171875,
+          "w": 17.546875,
+          "x": 258.625,
+          "y": 1742.5
+        },
+        {
+          "bottom": 1771,
+          "h": 12,
+          "right": 277.25,
+          "w": 18.625,
+          "x": 258.625,
+          "y": 1759
+        }
+      ],
+      "detailRect": {
+        "bottom": 1777.5,
+        "h": 41,
+        "right": 299.34375,
+        "w": 50.71875,
+        "x": 248.625,
+        "y": 1736.5
+      },
+      "font": "11px",
+      "footerClient": 305,
+      "footerRect": {
+        "bottom": 1777.5,
+        "h": 54,
+        "right": 340,
+        "w": 305,
+        "x": 35,
+        "y": 1723.5
+      },
+      "footerScroll": 305,
+      "groupRect": {
+        "bottom": 1777.5,
+        "h": 41,
+        "right": 340,
+        "w": 91.375,
+        "x": 248.625,
+        "y": 1736.5
+      },
+      "href": "/cam-nang/thue-xe/kevin-motorbike",
+      "mapFragments": [
+        {
+          "bottom": 1754.5,
+          "h": 12,
+          "right": 317.859375,
+          "w": 10.515625,
+          "x": 307.34375,
+          "y": 1742.5
+        },
+        {
+          "bottom": 1771,
+          "h": 12,
+          "right": 319.453125,
+          "w": 12.109375,
+          "x": 307.34375,
+          "y": 1759
+        }
+      ],
+      "mapHref": "https://www.google.com/maps/search/?api=1&query=Kevin%20Motorbike%20Hu%E1%BA%BF",
+      "mapRect": {
+        "bottom": 1773.5,
+        "h": 33,
+        "right": 340,
+        "w": 32.65625,
+        "x": 307.34375,
+        "y": 1740.5
+      },
+      "source": "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)",
+      "sourceClient": [
+        214,
+        33
+      ],
+      "sourceRect": {
+        "bottom": 1773.5,
+        "h": 33,
+        "right": 248.625,
+        "w": 213.625,
+        "x": 35,
+        "y": 1740.5
+      },
+      "sourceScroll": [
+        214,
+        33
+      ],
+      "whiteSpace": "normal"
+    },
+    {
+      "detailFragments": [
+        {
+          "bottom": 2152.5,
+          "h": 12,
+          "right": 276.171875,
+          "w": 17.546875,
+          "x": 258.625,
+          "y": 2140.5
+        },
+        {
+          "bottom": 2169,
+          "h": 12,
+          "right": 277.25,
+          "w": 18.625,
+          "x": 258.625,
+          "y": 2157
+        }
+      ],
+      "detailRect": {
+        "bottom": 2175.5,
+        "h": 41,
+        "right": 299.34375,
+        "w": 50.71875,
+        "x": 248.625,
+        "y": 2134.5
+      },
+      "font": "11px",
+      "footerClient": 305,
+      "footerRect": {
+        "bottom": 2175.5,
+        "h": 54,
+        "right": 340,
+        "w": 305,
+        "x": 35,
+        "y": 2121.5
+      },
+      "footerScroll": 305,
+      "groupRect": {
+        "bottom": 2175.5,
+        "h": 41,
+        "right": 340,
+        "w": 91.375,
+        "x": 248.625,
+        "y": 2134.5
+      },
+      "href": "/cam-nang/thue-xe/hidibike-hue",
+      "mapFragments": [
+        {
+          "bottom": 2152.5,
+          "h": 12,
+          "right": 317.859375,
+          "w": 10.515625,
+          "x": 307.34375,
+          "y": 2140.5
+        },
+        {
+          "bottom": 2169,
+          "h": 12,
+          "right": 319.453125,
+          "w": 12.109375,
+          "x": 307.34375,
+          "y": 2157
+        }
+      ],
+      "mapHref": "https://www.google.com/maps/search/?api=1&query=Hidibike%20Hu%E1%BA%BF",
+      "mapRect": {
+        "bottom": 2171.5,
+        "h": 33,
+        "right": 340,
+        "w": 32.65625,
+        "x": 307.34375,
+        "y": 2138.5
+      },
+      "source": "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)",
+      "sourceClient": [
+        214,
+        33
+      ],
+      "sourceRect": {
+        "bottom": 2171.5,
+        "h": 33,
+        "right": 248.625,
+        "w": 213.625,
+        "x": 35,
+        "y": 2138.5
+      },
+      "sourceScroll": [
+        214,
+        33
+      ],
+      "whiteSpace": "normal"
+    },
+    {
+      "detailFragments": [
+        {
+          "bottom": 2581.5,
+          "h": 12,
+          "right": 276.171875,
+          "w": 17.546875,
+          "x": 258.625,
+          "y": 2569.5
+        },
+        {
+          "bottom": 2598,
+          "h": 12,
+          "right": 277.25,
+          "w": 18.625,
+          "x": 258.625,
+          "y": 2586
+        }
+      ],
+      "detailRect": {
+        "bottom": 2604.5,
+        "h": 41,
+        "right": 299.34375,
+        "w": 50.71875,
+        "x": 248.625,
+        "y": 2563.5
+      },
+      "font": "11px",
+      "footerClient": 305,
+      "footerRect": {
+        "bottom": 2604.5,
+        "h": 54,
+        "right": 340,
+        "w": 305,
+        "x": 35,
+        "y": 2550.5
+      },
+      "footerScroll": 305,
+      "groupRect": {
+        "bottom": 2604.5,
+        "h": 41,
+        "right": 340,
+        "w": 91.375,
+        "x": 248.625,
+        "y": 2563.5
+      },
+      "href": "/cam-nang/thue-xe/thue-xe-hanh-thao",
+      "mapFragments": [
+        {
+          "bottom": 2581.5,
+          "h": 12,
+          "right": 317.859375,
+          "w": 10.515625,
+          "x": 307.34375,
+          "y": 2569.5
+        },
+        {
+          "bottom": 2598,
+          "h": 12,
+          "right": 319.453125,
+          "w": 12.109375,
+          "x": 307.34375,
+          "y": 2586
+        }
+      ],
+      "mapHref": "https://www.google.com/maps/search/?api=1&query=Thu%C3%AA%20xe%20m%C3%A1y%20H%E1%BA%A1nh%20Th%E1%BA%A3o%20Hu%E1%BA%BF",
+      "mapRect": {
+        "bottom": 2600.5,
+        "h": 33,
+        "right": 340,
+        "w": 32.65625,
+        "x": 307.34375,
+        "y": 2567.5
+      },
+      "source": "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)",
+      "sourceClient": [
+        214,
+        33
+      ],
+      "sourceRect": {
+        "bottom": 2600.5,
+        "h": 33,
+        "right": 248.625,
+        "w": 213.625,
+        "x": 35,
+        "y": 2567.5
+      },
+      "sourceScroll": [
+        214,
+        33
+      ],
+      "whiteSpace": "normal"
+    },
+    {
+      "detailFragments": [
+        {
+          "bottom": 2994.5,
+          "h": 12,
+          "right": 276.171875,
+          "w": 17.546875,
+          "x": 258.625,
+          "y": 2982.5
+        },
+        {
+          "bottom": 3011,
+          "h": 12,
+          "right": 277.25,
+          "w": 18.625,
+          "x": 258.625,
+          "y": 2999
+        }
+      ],
+      "detailRect": {
+        "bottom": 3017.5,
+        "h": 41,
+        "right": 299.34375,
+        "w": 50.71875,
+        "x": 248.625,
+        "y": 2976.5
+      },
+      "font": "11px",
+      "footerClient": 305,
+      "footerRect": {
+        "bottom": 3017.5,
+        "h": 54,
+        "right": 340,
+        "w": 305,
+        "x": 35,
+        "y": 2963.5
+      },
+      "footerScroll": 305,
+      "groupRect": {
+        "bottom": 3017.5,
+        "h": 41,
+        "right": 340,
+        "w": 91.375,
+        "x": 248.625,
+        "y": 2976.5
+      },
+      "href": "/cam-nang/thue-xe/thue-xe-nam-thanh",
+      "mapFragments": [
+        {
+          "bottom": 2994.5,
+          "h": 12,
+          "right": 317.859375,
+          "w": 10.515625,
+          "x": 307.34375,
+          "y": 2982.5
+        },
+        {
+          "bottom": 3011,
+          "h": 12,
+          "right": 319.453125,
+          "w": 12.109375,
+          "x": 307.34375,
+          "y": 2999
+        }
+      ],
+      "mapHref": "https://www.google.com/maps/search/?api=1&query=Thu%C3%AA%20xe%20m%C3%A1y%20Nam%20Thanh%20Hu%E1%BA%BF",
+      "mapRect": {
+        "bottom": 3013.5,
+        "h": 33,
+        "right": 340,
+        "w": 32.65625,
+        "x": 307.34375,
+        "y": 2980.5
+      },
+      "source": "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)",
+      "sourceClient": [
+        214,
+        33
+      ],
+      "sourceRect": {
+        "bottom": 3013.5,
+        "h": 33,
+        "right": 248.625,
+        "w": 213.625,
+        "x": 35,
+        "y": 2980.5
+      },
+      "sourceScroll": [
+        214,
+        33
+      ],
+      "whiteSpace": "normal"
+    },
+    {
+      "detailFragments": [
+        {
+          "bottom": 3422.5,
+          "h": 12,
+          "right": 276.171875,
+          "w": 17.546875,
+          "x": 258.625,
+          "y": 3410.5
+        },
+        {
+          "bottom": 3439,
+          "h": 12,
+          "right": 277.25,
+          "w": 18.625,
+          "x": 258.625,
+          "y": 3427
+        }
+      ],
+      "detailRect": {
+        "bottom": 3445.5,
+        "h": 41,
+        "right": 299.34375,
+        "w": 50.71875,
+        "x": 248.625,
+        "y": 3404.5
+      },
+      "font": "11px",
+      "footerClient": 305,
+      "footerRect": {
+        "bottom": 3445.5,
+        "h": 54,
+        "right": 340,
+        "w": 305,
+        "x": 35,
+        "y": 3391.5
+      },
+      "footerScroll": 305,
+      "groupRect": {
+        "bottom": 3445.5,
+        "h": 41,
+        "right": 340,
+        "w": 91.375,
+        "x": 248.625,
+        "y": 3404.5
+      },
+      "href": "/cam-nang/thue-xe/thue-xe-chi-chi",
+      "mapFragments": [
+        {
+          "bottom": 3422.5,
+          "h": 12,
+          "right": 317.859375,
+          "w": 10.515625,
+          "x": 307.34375,
+          "y": 3410.5
+        },
+        {
+          "bottom": 3439,
+          "h": 12,
+          "right": 319.453125,
+          "w": 12.109375,
+          "x": 307.34375,
+          "y": 3427
+        }
+      ],
+      "mapHref": "https://www.google.com/maps/search/?api=1&query=Thu%C3%AA%20xe%20m%C3%A1y%20Ch%E1%BB%8B%20Chi%20Hu%E1%BA%BF",
+      "mapRect": {
+        "bottom": 3441.5,
+        "h": 33,
+        "right": 340,
+        "w": 32.65625,
+        "x": 307.34375,
+        "y": 3408.5
+      },
+      "source": "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)",
+      "sourceClient": [
+        214,
+        33
+      ],
+      "sourceRect": {
+        "bottom": 3441.5,
+        "h": 33,
+        "right": 248.625,
+        "w": 213.625,
+        "x": 35,
+        "y": 3408.5
+      },
+      "sourceScroll": [
+        214,
+        33
+      ],
+      "whiteSpace": "normal"
+    }
+  ],
+  "filterRect": {
+    "bottom": 734,
+    "h": 152,
+    "right": 344,
+    "w": 313,
+    "x": 31,
+    "y": 582
+  },
+  "filters": [
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Loại xe",
+      "options": [
+        {
+          "text": "Loại xe: Tất cả",
+          "value": "all"
+        },
+        {
+          "text": "Xe ga (Vision, Air Blade)",
+          "value": "Xe ga"
+        },
+        {
+          "text": "Xe số (Wave, Sirius)",
+          "value": "Xe số"
+        },
+        {
+          "text": "Xe côn tay phượt",
+          "value": "Xe côn tay"
+        }
+      ],
+      "rect": {
+        "bottom": 626,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 582
+      },
+      "scroll": 311,
+      "text": "Loại xe: Tất cả",
+      "value": "all"
+    },
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Khu vực nhận xe",
+      "options": [
+        {
+          "text": "Khu vực nhận xe: Tất cả",
+          "value": "all"
+        },
+        {
+          "text": "Trung tâm TP. Huế",
+          "value": "TP. Huế"
+        },
+        {
+          "text": "Khu vực Ga tàu Huế",
+          "value": "Ga Huế"
+        },
+        {
+          "text": "Khu phố Tây",
+          "value": "Khu phố Tây"
+        },
+        {
+          "text": "Sân bay Phú Bài",
+          "value": "Phú Bài"
+        }
+      ],
+      "rect": {
+        "bottom": 680,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 636
+      },
+      "scroll": 311,
+      "text": "Khu vực nhận xe: Tất cả",
+      "value": "all"
+    },
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Khoảng giá thuê xe",
+      "options": [
+        {
+          "text": "Khoảng giá: Tham khảo chung theo dòng xe",
+          "value": "all"
+        },
+        {
+          "text": "Dưới 150.000đ/ngày (Cần kiểm chứng)",
+          "value": "under-150k"
+        },
+        {
+          "text": "Giá theo thỏa thuận (Chưa xác minh riêng)",
+          "value": "contact"
+        }
+      ],
+      "rect": {
+        "bottom": 734,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 690
+      },
+      "scroll": 311,
+      "text": "Khoảng giá: Tham khảo chung theo dòng xe",
+      "value": "all"
+    }
+  ],
+  "fonts": "loaded",
+  "url": "http://192.168.1.12:3000/cam-nang",
+  "viewport": {
+    "client": 375,
+    "height": 844,
+    "scroll": 375,
+    "width": 390
+  }
+}

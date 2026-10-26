@@ -1,0 +1,138 @@
+[
+  {
+    "links": [
+      {
+        "active": null,
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "active": null,
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "active": null,
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "active": "page",
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "active": null,
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/cam-nang",
+    "width": [
+      375,
+      375
+    ]
+  },
+  {
+    "links": [
+      {
+        "active": null,
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "active": "page",
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "active": null,
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "active": null,
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "active": null,
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/ve-hue",
+    "width": [
+      375,
+      375
+    ]
+  },
+  {
+    "links": [
+      {
+        "active": null,
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "active": null,
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "active": "page",
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "active": null,
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "active": null,
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/kham-pha",
+    "width": [
+      375,
+      375
+    ]
+  },
+  {
+    "links": [
+      {
+        "active": null,
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "active": null,
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "active": null,
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "active": null,
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "active": "page",
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "width": [
+      375,
+      375
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "details": 3,
+    "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+    "values": [
+      "homestay",
+      "Trung tâm",
+      "all",
+      "all"
+    ]
+  },
+  {
+    "details": 3,
+    "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+    "values": [
+      "hotel",
+      "all",
+      "all",
+      "all"
+    ]
+  },
+  {
+    "details": 2,
+    "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+    "values": [
+      "all",
+      "sông Hương",
+      "all",
+      "all"
+    ]
+  },
+  {
+    "details": 6,
+    "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+    "values": [
+      "all",
+      "all",
+      "all",
+      "wifi"
+    ]
+  },
+  {
+    "details": 1,
+    "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+    "values": [
+      "resort",
+      "all",
+      "all",
+      "all"
+    ]
+  }
+]

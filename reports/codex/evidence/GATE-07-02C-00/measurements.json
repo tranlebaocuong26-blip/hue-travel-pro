@@ -1,0 +1,2187 @@
+[
+  {
+    "doc": {
+      "client": 1351,
+      "height": 1344,
+      "scroll": 1351
+    },
+    "grids": [
+      {
+        "cols": "239.75px 239.75px 239.75px 239.75px",
+        "gap": "24px",
+        "h": 285.5,
+        "w": 1031,
+        "x": 288,
+        "y": 536.5
+      },
+      {
+        "cols": "56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px",
+        "gap": "32px",
+        "h": 458.125,
+        "w": 1031,
+        "x": 288,
+        "y": 854
+      },
+      {
+        "cols": "140.656px 140.672px 140.656px 140.672px",
+        "gap": "16px",
+        "h": 272.125,
+        "w": 610.65625,
+        "x": 321,
+        "y": 1007
+      }
+    ],
+    "h1": "Lịch sử Huế",
+    "headings": [
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Lịch sử hình thành",
+        "w": 189.75,
+        "x": 313,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Di sản văn hóa",
+        "w": 189.75,
+        "x": 576.75,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Huế ngày nay",
+        "w": 189.75,
+        "x": 840.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Con người & nhịp sống",
+        "w": 189.75,
+        "x": 1104.25,
+        "y": 625.5
+      },
+      {
+        "font": "24px",
+        "h": 32,
+        "text": "Hành trình lịch sử của Huế",
+        "w": 610.65625,
+        "x": 321,
+        "y": 907
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Nét đẹp cố đô Huế",
+        "w": 272.328125,
+        "x": 1021.65625,
+        "y": 1071
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+      "h": 394.5,
+      "position": "100% 50%, 100% 50%",
+      "w": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/ve-hue",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "doc": {
+      "client": 1351,
+      "height": 2175,
+      "scroll": 1351
+    },
+    "grids": [
+      {
+        "cols": "245.75px 245.75px 245.75px 245.75px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1031,
+        "x": 288,
+        "y": 434
+      },
+      {
+        "cols": "238.25px 238.25px 238.25px 238.25px",
+        "gap": "12px",
+        "h": 44,
+        "w": 989,
+        "x": 309,
+        "y": 561
+      },
+      {
+        "cols": "56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px",
+        "gap": "32px",
+        "h": 1447.5,
+        "w": 1031,
+        "x": 288,
+        "y": 695
+      },
+      {
+        "cols": "328.328px 328.328px",
+        "gap": "20px",
+        "h": 1395.5,
+        "w": 676.65625,
+        "x": 288,
+        "y": 747
+      }
+    ],
+    "h1": "Khám phá Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Địa điểm phù hợp(6 địa điểm)",
+        "w": 275.03125,
+        "x": 288,
+        "y": 695
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Bản đồ địa điểm",
+        "w": 134.8125,
+        "x": 1017.65625,
+        "y": 716
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 280.328125,
+        "x": 1017.65625,
+        "y": 1043
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+      "h": 292,
+      "position": "100% 20%, 100% 20%",
+      "w": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/kham-pha",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "doc": {
+      "client": 1351,
+      "height": 2376,
+      "scroll": 1351
+    },
+    "grids": [
+      {
+        "cols": "245.75px 245.75px 245.75px 245.75px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1031,
+        "x": 288,
+        "y": 402
+      },
+      {
+        "cols": "56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px",
+        "gap": "32px",
+        "h": 1681,
+        "w": 1031,
+        "x": 288,
+        "y": 663
+      },
+      {
+        "cols": "328.328px 328.328px",
+        "gap": "20px",
+        "h": 1394,
+        "w": 676.65625,
+        "x": 288,
+        "y": 715
+      },
+      {
+        "cols": "160.156px 160.172px 160.156px 160.172px",
+        "gap": "12px",
+        "h": 147,
+        "w": 676.65625,
+        "x": 288,
+        "y": 2197
+      }
+    ],
+    "h1": "Di chuyển ở Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Đơn vị thuê xe tham khảo(6 cơ sở)",
+        "w": 337.109375,
+        "x": 288,
+        "y": 663
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Kinh nghiệm & lưu ý quan trọng",
+        "w": 676.65625,
+        "x": 288,
+        "y": 2157
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Checklist thuê xe an toàn",
+        "w": 199.9375,
+        "x": 1017.65625,
+        "y": 684
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý hướng di chuyển",
+        "w": 280.328125,
+        "x": 1017.65625,
+        "y": 1028
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+      "h": 260,
+      "position": "100% 90%, 100% 90%",
+      "w": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/cam-nang",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "doc": {
+      "client": 1351,
+      "height": 2059,
+      "scroll": 1351
+    },
+    "grids": [
+      {
+        "cols": "488.5px 488.5px",
+        "gap": "12px",
+        "h": 100,
+        "w": 989,
+        "x": 309,
+        "y": 391
+      },
+      {
+        "cols": "196.594px 196.594px 196.609px 196.594px 196.609px",
+        "gap": "12px",
+        "h": 89,
+        "w": 1031,
+        "x": 288,
+        "y": 613
+      },
+      {
+        "cols": "56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px 56.5781px",
+        "gap": "32px",
+        "h": 1293,
+        "w": 1031,
+        "x": 288,
+        "y": 734
+      },
+      {
+        "cols": "328.328px 328.328px",
+        "gap": "20px",
+        "h": 1241,
+        "w": 676.65625,
+        "x": 288,
+        "y": 786
+      },
+      {
+        "cols": "136.156px 136.172px",
+        "gap": "8px",
+        "h": 88,
+        "w": 280.328125,
+        "x": 1017.65625,
+        "y": 787
+      }
+    ],
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "headings": [
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 1031,
+        "x": 288,
+        "y": 581
+      },
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Danh sách lưu trú(8 cơ sở)",
+        "w": 260.375,
+        "x": 288,
+        "y": 734
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Tiện nghi phổ biến",
+        "w": 280.328125,
+        "x": 1017.65625,
+        "y": 755
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Kinh nghiệm đặt phòng ở Huế",
+        "w": 280.328125,
+        "x": 1017.65625,
+        "y": 941
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+      "h": 228,
+      "position": "100% 65%, 100% 65%",
+      "w": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 294,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 256,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 308,
+        "tag": "SPAN",
+        "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 289,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 264,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 230,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 297,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 241,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "doc": {
+      "client": 1425,
+      "height": 1291,
+      "scroll": 1425
+    },
+    "grids": [
+      {
+        "cols": "258.25px 258.25px 258.25px 258.25px",
+        "gap": "24px",
+        "h": 266,
+        "w": 1105,
+        "x": 288,
+        "y": 536.5
+      },
+      {
+        "cols": "62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px",
+        "gap": "32px",
+        "h": 424.25,
+        "w": 1105,
+        "x": 288,
+        "y": 834.5
+      },
+      {
+        "cols": "153px 153px 153px 153px",
+        "gap": "16px",
+        "h": 238.25,
+        "w": 660,
+        "x": 321,
+        "y": 987.5
+      }
+    ],
+    "h1": "Lịch sử Huế",
+    "headings": [
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Lịch sử hình thành",
+        "w": 208.25,
+        "x": 313,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Di sản văn hóa",
+        "w": 208.25,
+        "x": 595.25,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Huế ngày nay",
+        "w": 208.25,
+        "x": 877.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Con người & nhịp sống",
+        "w": 208.25,
+        "x": 1159.75,
+        "y": 625.5
+      },
+      {
+        "font": "24px",
+        "h": 32,
+        "text": "Hành trình lịch sử của Huế",
+        "w": 660,
+        "x": 321,
+        "y": 887.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Nét đẹp cố đô Huế",
+        "w": 297,
+        "x": 1071,
+        "y": 1051.5
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+      "h": 394.5,
+      "position": "100% 50%, 100% 50%",
+      "w": 1105,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/ve-hue",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "doc": {
+      "client": 1425,
+      "height": 2110,
+      "scroll": 1425
+    },
+    "grids": [
+      {
+        "cols": "264.25px 264.25px 264.25px 264.25px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1105,
+        "x": 288,
+        "y": 434
+      },
+      {
+        "cols": "256.75px 256.75px 256.75px 256.75px",
+        "gap": "12px",
+        "h": 44,
+        "w": 1063,
+        "x": 309,
+        "y": 561
+      },
+      {
+        "cols": "62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px",
+        "gap": "32px",
+        "h": 1382.5,
+        "w": 1105,
+        "x": 288,
+        "y": 695
+      },
+      {
+        "cols": "353px 353px",
+        "gap": "20px",
+        "h": 1330.5,
+        "w": 726,
+        "x": 288,
+        "y": 747
+      }
+    ],
+    "h1": "Khám phá Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Địa điểm phù hợp(6 địa điểm)",
+        "w": 275.03125,
+        "x": 288,
+        "y": 695
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Bản đồ địa điểm",
+        "w": 134.8125,
+        "x": 1067,
+        "y": 716
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 305,
+        "x": 1067,
+        "y": 1043
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+      "h": 292,
+      "position": "100% 20%, 100% 20%",
+      "w": 1105,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/kham-pha",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "doc": {
+      "client": 1425,
+      "height": 2298,
+      "scroll": 1425
+    },
+    "grids": [
+      {
+        "cols": "264.25px 264.25px 264.25px 264.25px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1105,
+        "x": 288,
+        "y": 402
+      },
+      {
+        "cols": "62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px",
+        "gap": "32px",
+        "h": 1602.75,
+        "w": 1105,
+        "x": 288,
+        "y": 663
+      },
+      {
+        "cols": "353px 353px",
+        "gap": "20px",
+        "h": 1332,
+        "w": 726,
+        "x": 288,
+        "y": 715
+      },
+      {
+        "cols": "172.5px 172.5px 172.5px 172.5px",
+        "gap": "12px",
+        "h": 130.75,
+        "w": 726,
+        "x": 288,
+        "y": 2135
+      }
+    ],
+    "h1": "Di chuyển ở Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Đơn vị thuê xe tham khảo(6 cơ sở)",
+        "w": 337.109375,
+        "x": 288,
+        "y": 663
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Kinh nghiệm & lưu ý quan trọng",
+        "w": 726,
+        "x": 288,
+        "y": 2095
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Checklist thuê xe an toàn",
+        "w": 199.9375,
+        "x": 1067,
+        "y": 684
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý hướng di chuyển",
+        "w": 305,
+        "x": 1067,
+        "y": 986
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+      "h": 260,
+      "position": "100% 90%, 100% 90%",
+      "w": 1105,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/cam-nang",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "doc": {
+      "client": 1425,
+      "height": 2059,
+      "scroll": 1425
+    },
+    "grids": [
+      {
+        "cols": "525.5px 525.5px",
+        "gap": "12px",
+        "h": 100,
+        "w": 1063,
+        "x": 309,
+        "y": 391
+      },
+      {
+        "cols": "211.391px 211.406px 211.391px 211.406px 211.391px",
+        "gap": "12px",
+        "h": 89,
+        "w": 1105,
+        "x": 288,
+        "y": 613
+      },
+      {
+        "cols": "62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px 62.75px",
+        "gap": "32px",
+        "h": 1293,
+        "w": 1105,
+        "x": 288,
+        "y": 734
+      },
+      {
+        "cols": "353px 353px",
+        "gap": "20px",
+        "h": 1241,
+        "w": 726,
+        "x": 288,
+        "y": 786
+      },
+      {
+        "cols": "148.5px 148.5px",
+        "gap": "8px",
+        "h": 88,
+        "w": 305,
+        "x": 1067,
+        "y": 787
+      }
+    ],
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "headings": [
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 1105,
+        "x": 288,
+        "y": 581
+      },
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Danh sách lưu trú(8 cơ sở)",
+        "w": 260.375,
+        "x": 288,
+        "y": 734
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Tiện nghi phổ biến",
+        "w": 305,
+        "x": 1067,
+        "y": 755
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Kinh nghiệm đặt phòng ở Huế",
+        "w": 305,
+        "x": 1067,
+        "y": 941
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+      "h": 228,
+      "position": "100% 65%, 100% 65%",
+      "w": 1105,
+      "x": 288,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 294,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 256,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 308,
+        "tag": "SPAN",
+        "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 289,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 264,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 230,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 297,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 241,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "doc": {
+      "client": 1635,
+      "height": 1289,
+      "scroll": 1635
+    },
+    "grids": [
+      {
+        "cols": "286px 286px 286px 286px",
+        "gap": "24px",
+        "h": 266,
+        "w": 1216,
+        "x": 337.5,
+        "y": 536.5
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 422.375,
+        "w": 1216,
+        "x": 337.5,
+        "y": 834.5
+      },
+      {
+        "cols": "171.5px 171.5px 171.5px 171.5px",
+        "gap": "16px",
+        "h": 236.375,
+        "w": 734,
+        "x": 370.5,
+        "y": 987.5
+      }
+    ],
+    "h1": "Lịch sử Huế",
+    "headings": [
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Lịch sử hình thành",
+        "w": 236,
+        "x": 362.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Di sản văn hóa",
+        "w": 236,
+        "x": 672.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Huế ngày nay",
+        "w": 236,
+        "x": 982.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Con người & nhịp sống",
+        "w": 236,
+        "x": 1292.5,
+        "y": 625.5
+      },
+      {
+        "font": "24px",
+        "h": 32,
+        "text": "Hành trình lịch sử của Huế",
+        "w": 734,
+        "x": 370.5,
+        "y": 887.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Nét đẹp cố đô Huế",
+        "w": 334,
+        "x": 1194.5,
+        "y": 1051.5
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+      "h": 394.5,
+      "position": "100% 50%, 100% 50%",
+      "w": 1216,
+      "x": 337.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/ve-hue",
+    "viewport": [
+      1650,
+      786
+    ]
+  },
+  {
+    "doc": {
+      "client": 1635,
+      "height": 2077,
+      "scroll": 1635
+    },
+    "grids": [
+      {
+        "cols": "292px 292px 292px 292px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1216,
+        "x": 337.5,
+        "y": 434
+      },
+      {
+        "cols": "284.5px 284.5px 284.5px 284.5px",
+        "gap": "12px",
+        "h": 44,
+        "w": 1174,
+        "x": 358.5,
+        "y": 561
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 1350,
+        "w": 1216,
+        "x": 337.5,
+        "y": 695
+      },
+      {
+        "cols": "390px 390px",
+        "gap": "20px",
+        "h": 1298,
+        "w": 800,
+        "x": 337.5,
+        "y": 747
+      }
+    ],
+    "h1": "Khám phá Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Địa điểm phù hợp(6 địa điểm)",
+        "w": 275.03125,
+        "x": 337.5,
+        "y": 695
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Bản đồ địa điểm",
+        "w": 134.8125,
+        "x": 1190.5,
+        "y": 716
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 342,
+        "x": 1190.5,
+        "y": 1043
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+      "h": 292,
+      "position": "100% 20%, 100% 20%",
+      "w": 1216,
+      "x": 337.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/kham-pha",
+    "viewport": [
+      1650,
+      786
+    ]
+  },
+  {
+    "doc": {
+      "client": 1635,
+      "height": 2131,
+      "scroll": 1635
+    },
+    "grids": [
+      {
+        "cols": "292px 292px 292px 292px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1216,
+        "x": 337.5,
+        "y": 402
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 1435.75,
+        "w": 1216,
+        "x": 337.5,
+        "y": 663
+      },
+      {
+        "cols": "390px 390px",
+        "gap": "20px",
+        "h": 1165,
+        "w": 800,
+        "x": 337.5,
+        "y": 715
+      },
+      {
+        "cols": "191px 191px 191px 191px",
+        "gap": "12px",
+        "h": 130.75,
+        "w": 800,
+        "x": 337.5,
+        "y": 1968
+      }
+    ],
+    "h1": "Di chuyển ở Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Đơn vị thuê xe tham khảo(6 cơ sở)",
+        "w": 337.109375,
+        "x": 337.5,
+        "y": 663
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Kinh nghiệm & lưu ý quan trọng",
+        "w": 800,
+        "x": 337.5,
+        "y": 1928
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Checklist thuê xe an toàn",
+        "w": 199.9375,
+        "x": 1190.5,
+        "y": 684
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý hướng di chuyển",
+        "w": 342,
+        "x": 1190.5,
+        "y": 972
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+      "h": 260,
+      "position": "100% 90%, 100% 90%",
+      "w": 1216,
+      "x": 337.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/cam-nang",
+    "viewport": [
+      1650,
+      786
+    ]
+  },
+  {
+    "doc": {
+      "client": 1635,
+      "height": 1978,
+      "scroll": 1635
+    },
+    "grids": [
+      {
+        "cols": "252.875px 252.891px 379.344px 252.875px",
+        "gap": "12px",
+        "h": 44,
+        "w": 1174,
+        "x": 358.5,
+        "y": 391
+      },
+      {
+        "cols": "233.594px 233.594px 233.609px 233.594px 233.609px",
+        "gap": "12px",
+        "h": 89,
+        "w": 1216,
+        "x": 337.5,
+        "y": 557
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 1268,
+        "w": 1216,
+        "x": 337.5,
+        "y": 678
+      },
+      {
+        "cols": "390px 390px",
+        "gap": "20px",
+        "h": 1216,
+        "w": 800,
+        "x": 337.5,
+        "y": 730
+      },
+      {
+        "cols": "167px 167px",
+        "gap": "8px",
+        "h": 72,
+        "w": 342,
+        "x": 1190.5,
+        "y": 731
+      }
+    ],
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "headings": [
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 1216,
+        "x": 337.5,
+        "y": 525
+      },
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Danh sách lưu trú(8 cơ sở)",
+        "w": 260.375,
+        "x": 337.5,
+        "y": 678
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Tiện nghi phổ biến",
+        "w": 342,
+        "x": 1190.5,
+        "y": 699
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Kinh nghiệm đặt phòng ở Huế",
+        "w": 342,
+        "x": 1190.5,
+        "y": 869
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+      "h": 228,
+      "position": "100% 65%, 100% 65%",
+      "w": 1216,
+      "x": 337.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 294,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 256,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 308,
+        "tag": "SPAN",
+        "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 289,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 264,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 230,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 297,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 241,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "viewport": [
+      1650,
+      786
+    ]
+  },
+  {
+    "doc": {
+      "client": 1905,
+      "height": 1289,
+      "scroll": 1905
+    },
+    "grids": [
+      {
+        "cols": "286px 286px 286px 286px",
+        "gap": "24px",
+        "h": 266,
+        "w": 1216,
+        "x": 472.5,
+        "y": 536.5
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 422.375,
+        "w": 1216,
+        "x": 472.5,
+        "y": 834.5
+      },
+      {
+        "cols": "171.5px 171.5px 171.5px 171.5px",
+        "gap": "16px",
+        "h": 236.375,
+        "w": 734,
+        "x": 505.5,
+        "y": 987.5
+      }
+    ],
+    "h1": "Lịch sử Huế",
+    "headings": [
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Lịch sử hình thành",
+        "w": 236,
+        "x": 497.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Di sản văn hóa",
+        "w": 236,
+        "x": 807.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Huế ngày nay",
+        "w": 236,
+        "x": 1117.5,
+        "y": 625.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Con người & nhịp sống",
+        "w": 236,
+        "x": 1427.5,
+        "y": 625.5
+      },
+      {
+        "font": "24px",
+        "h": 32,
+        "text": "Hành trình lịch sử của Huế",
+        "w": 734,
+        "x": 505.5,
+        "y": 887.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Nét đẹp cố đô Huế",
+        "w": 334,
+        "x": 1329.5,
+        "y": 1051.5
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+      "h": 394.5,
+      "position": "100% 50%, 100% 50%",
+      "w": 1216,
+      "x": 472.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/ve-hue",
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "doc": {
+      "client": 1905,
+      "height": 2077,
+      "scroll": 1905
+    },
+    "grids": [
+      {
+        "cols": "292px 292px 292px 292px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1216,
+        "x": 472.5,
+        "y": 434
+      },
+      {
+        "cols": "284.5px 284.5px 284.5px 284.5px",
+        "gap": "12px",
+        "h": 44,
+        "w": 1174,
+        "x": 493.5,
+        "y": 561
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 1350,
+        "w": 1216,
+        "x": 472.5,
+        "y": 695
+      },
+      {
+        "cols": "390px 390px",
+        "gap": "20px",
+        "h": 1298,
+        "w": 800,
+        "x": 472.5,
+        "y": 747
+      }
+    ],
+    "h1": "Khám phá Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Địa điểm phù hợp(6 địa điểm)",
+        "w": 275.03125,
+        "x": 472.5,
+        "y": 695
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Bản đồ địa điểm",
+        "w": 134.8125,
+        "x": 1325.5,
+        "y": 716
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 342,
+        "x": 1325.5,
+        "y": 1043
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+      "h": 292,
+      "position": "100% 20%, 100% 20%",
+      "w": 1216,
+      "x": 472.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/kham-pha",
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "doc": {
+      "client": 1905,
+      "height": 2131,
+      "scroll": 1905
+    },
+    "grids": [
+      {
+        "cols": "292px 292px 292px 292px",
+        "gap": "16px",
+        "h": 74,
+        "w": 1216,
+        "x": 472.5,
+        "y": 402
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 1435.75,
+        "w": 1216,
+        "x": 472.5,
+        "y": 663
+      },
+      {
+        "cols": "390px 390px",
+        "gap": "20px",
+        "h": 1165,
+        "w": 800,
+        "x": 472.5,
+        "y": 715
+      },
+      {
+        "cols": "191px 191px 191px 191px",
+        "gap": "12px",
+        "h": 130.75,
+        "w": 800,
+        "x": 472.5,
+        "y": 1968
+      }
+    ],
+    "h1": "Di chuyển ở Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Đơn vị thuê xe tham khảo(6 cơ sở)",
+        "w": 337.109375,
+        "x": 472.5,
+        "y": 663
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Kinh nghiệm & lưu ý quan trọng",
+        "w": 800,
+        "x": 472.5,
+        "y": 1928
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Checklist thuê xe an toàn",
+        "w": 199.9375,
+        "x": 1325.5,
+        "y": 684
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý hướng di chuyển",
+        "w": 342,
+        "x": 1325.5,
+        "y": 972
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+      "h": 260,
+      "position": "100% 90%, 100% 90%",
+      "w": 1216,
+      "x": 472.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/cam-nang",
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "doc": {
+      "client": 1905,
+      "height": 1978,
+      "scroll": 1905
+    },
+    "grids": [
+      {
+        "cols": "252.875px 252.891px 379.344px 252.875px",
+        "gap": "12px",
+        "h": 44,
+        "w": 1174,
+        "x": 493.5,
+        "y": 391
+      },
+      {
+        "cols": "233.594px 233.594px 233.609px 233.594px 233.609px",
+        "gap": "12px",
+        "h": 89,
+        "w": 1216,
+        "x": 472.5,
+        "y": 557
+      },
+      {
+        "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+        "gap": "32px",
+        "h": 1268,
+        "w": 1216,
+        "x": 472.5,
+        "y": 678
+      },
+      {
+        "cols": "390px 390px",
+        "gap": "20px",
+        "h": 1216,
+        "w": 800,
+        "x": 472.5,
+        "y": 730
+      },
+      {
+        "cols": "167px 167px",
+        "gap": "8px",
+        "h": 72,
+        "w": 342,
+        "x": 1325.5,
+        "y": 731
+      }
+    ],
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "headings": [
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 1216,
+        "x": 472.5,
+        "y": 525
+      },
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Danh sách lưu trú(8 cơ sở)",
+        "w": 260.375,
+        "x": 472.5,
+        "y": 678
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Tiện nghi phổ biến",
+        "w": 342,
+        "x": 1325.5,
+        "y": 699
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Kinh nghiệm đặt phòng ở Huế",
+        "w": 342,
+        "x": 1325.5,
+        "y": 869
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+      "h": 228,
+      "position": "100% 65%, 100% 65%",
+      "w": 1216,
+      "x": 472.5,
+      "y": 110
+    },
+    "images": [],
+    "overflow": [
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 294,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 256,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 308,
+        "tag": "SPAN",
+        "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 289,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 264,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 230,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 297,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 160,
+        "overflow": "hidden",
+        "scroll": 241,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "doc": {
+      "client": 375,
+      "height": 2842,
+      "scroll": 375
+    },
+    "grids": [
+      {
+        "cols": "347px",
+        "gap": "16px",
+        "h": 975.5,
+        "w": 347,
+        "x": 14,
+        "y": 422
+      },
+      {
+        "cols": "347px",
+        "gap": "32px",
+        "h": 1300,
+        "w": 347,
+        "x": 14,
+        "y": 1429.5
+      },
+      {
+        "cols": "297px",
+        "gap": "16px",
+        "h": 681.5,
+        "w": 297,
+        "x": 39,
+        "y": 1614.5
+      }
+    ],
+    "h1": "Lịch sử Huế",
+    "headings": [
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Lịch sử hình thành",
+        "w": 297,
+        "x": 39,
+        "y": 511
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Di sản văn hóa",
+        "w": 297,
+        "x": 39,
+        "y": 754
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Huế ngày nay",
+        "w": 297,
+        "x": 39,
+        "y": 997
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Con người & nhịp sống",
+        "w": 297,
+        "x": 39,
+        "y": 1259.5
+      },
+      {
+        "font": "24px",
+        "h": 64,
+        "text": "Hành trình lịch sử của Huế",
+        "w": 297,
+        "x": 39,
+        "y": 1474.5
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Nét đẹp cố đô Huế",
+        "w": 297,
+        "x": 39,
+        "y": 2570
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+      "h": 300,
+      "position": "100% 50%, 100% 50%",
+      "w": 347,
+      "x": 14,
+      "y": 90
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/ve-hue",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "doc": {
+      "client": 375,
+      "height": 4341,
+      "scroll": 375
+    },
+    "grids": [
+      {
+        "cols": "168.5px 168.5px",
+        "gap": "10px",
+        "h": 204,
+        "w": 347,
+        "x": 14,
+        "y": 377
+      },
+      {
+        "cols": "313px",
+        "gap": "12px",
+        "h": 212,
+        "w": 313,
+        "x": 31,
+        "y": 622
+      },
+      {
+        "cols": "347px",
+        "gap": "32px",
+        "h": 3317,
+        "w": 347,
+        "x": 14,
+        "y": 912
+      },
+      {
+        "cols": "347px",
+        "gap": "20px",
+        "h": 2572,
+        "w": 347,
+        "x": 14,
+        "y": 964
+      }
+    ],
+    "h1": "Khám phá Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Địa điểm phù hợp(6 địa điểm)",
+        "w": 275.03125,
+        "x": 14,
+        "y": 912
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Bản đồ địa điểm",
+        "w": 134.8125,
+        "x": 35,
+        "y": 3589
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 305,
+        "x": 35,
+        "y": 3916
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+      "h": 271,
+      "position": "100% 20%, 100% 20%",
+      "w": 347,
+      "x": 14,
+      "y": 82
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/kham-pha",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "doc": {
+      "client": 375,
+      "height": 4889,
+      "scroll": 375
+    },
+    "grids": [
+      {
+        "cols": "168.5px 168.5px",
+        "gap": "10px",
+        "h": 204,
+        "w": 347,
+        "x": 14,
+        "y": 329
+      },
+      {
+        "cols": "347px",
+        "gap": "32px",
+        "h": 3917,
+        "w": 347,
+        "x": 14,
+        "y": 860
+      },
+      {
+        "cols": "347px",
+        "gap": "20px",
+        "h": 2626.5,
+        "w": 347,
+        "x": 14,
+        "y": 912
+      },
+      {
+        "cols": "347px",
+        "gap": "12px",
+        "h": 506.5,
+        "w": 347,
+        "x": 14,
+        "y": 3626.5
+      }
+    ],
+    "h1": "Di chuyển ở Huế",
+    "headings": [
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Đơn vị thuê xe tham khảo(6 cơ sở)",
+        "w": 337.109375,
+        "x": 14,
+        "y": 860
+      },
+      {
+        "font": "16px",
+        "h": 24,
+        "text": "Kinh nghiệm & lưu ý quan trọng",
+        "w": 347,
+        "x": 14,
+        "y": 3586.5
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Checklist thuê xe an toàn",
+        "w": 199.9375,
+        "x": 35,
+        "y": 4186
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý hướng di chuyển",
+        "w": 305,
+        "x": 35,
+        "y": 4488
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+      "h": 207,
+      "position": "100% 90%, 100% 90%",
+      "w": 347,
+      "x": 14,
+      "y": 90
+    },
+    "images": [],
+    "overflow": [],
+    "url": "http://192.168.1.12:3000/cam-nang",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "doc": {
+      "client": 375,
+      "height": 4135,
+      "scroll": 375
+    },
+    "grids": [
+      {
+        "cols": "313px",
+        "gap": "10px",
+        "h": 206,
+        "w": 313,
+        "x": 31,
+        "y": 413
+      },
+      {
+        "cols": "167.5px 167.5px",
+        "gap": "12px",
+        "h": 291,
+        "w": 347,
+        "x": 14,
+        "y": 777
+      },
+      {
+        "cols": "347px",
+        "gap": "32px",
+        "h": 2923,
+        "w": 347,
+        "x": 14,
+        "y": 1100
+      },
+      {
+        "cols": "347px",
+        "gap": "20px",
+        "h": 2427,
+        "w": 347,
+        "x": 14,
+        "y": 1152
+      },
+      {
+        "cols": "148.5px 148.5px",
+        "gap": "8px",
+        "h": 88,
+        "w": 305,
+        "x": 35,
+        "y": 3664
+      }
+    ],
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "headings": [
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Gợi ý theo nhu cầu",
+        "w": 347,
+        "x": 14,
+        "y": 745
+      },
+      {
+        "font": "20px",
+        "h": 28,
+        "text": "Danh sách lưu trú(8 cơ sở)",
+        "w": 260.375,
+        "x": 14,
+        "y": 1100
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Tiện nghi phổ biến",
+        "w": 305,
+        "x": 35,
+        "y": 3632
+      },
+      {
+        "font": "14px",
+        "h": 20,
+        "text": "Kinh nghiệm đặt phòng ở Huế",
+        "w": 305,
+        "x": 35,
+        "y": 3818
+      }
+    ],
+    "hero": {
+      "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+      "h": 274,
+      "position": "100% 65%, 100% 65%",
+      "w": 347,
+      "x": 14,
+      "y": 90
+    },
+    "images": [],
+    "overflow": [
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 294,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 256,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 308,
+        "tag": "SPAN",
+        "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 289,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 264,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 230,
+        "tag": "SPAN",
+        "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 297,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+      },
+      {
+        "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+        "client": 120,
+        "overflow": "hidden",
+        "scroll": 241,
+        "tag": "SPAN",
+        "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "viewport": [
+      390,
+      844
+    ]
+  }
+]

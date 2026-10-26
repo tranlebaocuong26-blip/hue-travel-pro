@@ -1,0 +1,730 @@
+{
+  "390": {
+    "viewport": {
+      "name": "390",
+      "label": "Mobile 390x844",
+      "w": 390,
+      "h": 844
+    },
+    "scroll": {
+      "scrollH": 1389,
+      "clientH": 844,
+      "hasVerticalScroll": true,
+      "scrollW": 390,
+      "clientW": 390,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 374,
+      "h": 1313,
+      "top": 68
+    },
+    "nav": {
+      "top": "61px",
+      "left": "calc(50% - 247.5px)",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 0,
+      "h": 0,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "75.2px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "35.2px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "27.2px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 318,
+        "h": 170
+      },
+      {
+        "href": "/kham-pha",
+        "w": 318,
+        "h": 170
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 318,
+        "h": 170
+      }
+    ]
+  },
+  "768": {
+    "viewport": {
+      "name": "768",
+      "label": "Tablet 768x1024",
+      "w": 768,
+      "h": 1024
+    },
+    "scroll": {
+      "scrollH": 1024,
+      "clientH": 1024,
+      "hasVerticalScroll": false,
+      "scrollW": 768,
+      "clientW": 768,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 736,
+      "h": 1000,
+      "top": 8
+    },
+    "nav": {
+      "top": "61px",
+      "left": "136.5px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "91.2px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "43.2px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "33.6px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 322,
+        "h": 176
+      },
+      {
+        "href": "/kham-pha",
+        "w": 322,
+        "h": 176
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 322,
+        "h": 176
+      }
+    ]
+  },
+  "1366": {
+    "viewport": {
+      "name": "1366",
+      "label": "Laptop 1366x768",
+      "w": 1366,
+      "h": 768
+    },
+    "scroll": {
+      "scrollH": 768,
+      "clientH": 768,
+      "hasVerticalScroll": false,
+      "scrollW": 1366,
+      "clientW": 1366,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 1318,
+      "h": 736,
+      "top": 16
+    },
+    "nav": {
+      "top": "61px",
+      "left": "435.5px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "94.4px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "43.2px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "33.6px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 274,
+        "h": 148
+      },
+      {
+        "href": "/kham-pha",
+        "w": 274,
+        "h": 148
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 274,
+        "h": 148
+      }
+    ]
+  },
+  "1440": {
+    "viewport": {
+      "name": "1440",
+      "label": "Laptop lớn 1440x900",
+      "w": 1440,
+      "h": 900
+    },
+    "scroll": {
+      "scrollH": 900,
+      "clientH": 900,
+      "hasVerticalScroll": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 1392,
+      "h": 868,
+      "top": 16
+    },
+    "nav": {
+      "top": "61px",
+      "left": "472.5px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "110.4px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "51.2px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "39.2px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 291,
+        "h": 164
+      },
+      {
+        "href": "/kham-pha",
+        "w": 292,
+        "h": 164
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 291,
+        "h": 164
+      }
+    ]
+  },
+  "1600": {
+    "viewport": {
+      "name": "1600",
+      "label": "Desktop 1600x900",
+      "w": 1600,
+      "h": 900
+    },
+    "scroll": {
+      "scrollH": 983,
+      "clientH": 900,
+      "hasVerticalScroll": true,
+      "scrollW": 1585,
+      "clientW": 1585,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 1521,
+      "h": 943,
+      "top": 20
+    },
+    "nav": {
+      "top": "61px",
+      "left": "545px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "121.6px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "57.6px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "44px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 314,
+        "h": 190
+      },
+      {
+        "href": "/kham-pha",
+        "w": 314,
+        "h": 190
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 314,
+        "h": 190
+      }
+    ]
+  },
+  "1650": {
+    "viewport": {
+      "name": "1650",
+      "label": "Màn hình rộng thấp 1650x786",
+      "w": 1650,
+      "h": 786
+    },
+    "scroll": {
+      "scrollH": 794,
+      "clientH": 786,
+      "hasVerticalScroll": true,
+      "scrollW": 1635,
+      "clientW": 1635,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 1571,
+      "h": 754,
+      "top": 20
+    },
+    "nav": {
+      "top": "61px",
+      "left": "570px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "94.4px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "43.2px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "33.6px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 325,
+        "h": 148
+      },
+      {
+        "href": "/kham-pha",
+        "w": 325,
+        "h": 148
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 325,
+        "h": 148
+      }
+    ]
+  },
+  "1920": {
+    "viewport": {
+      "name": "1920",
+      "label": "Full HD 1920x1080",
+      "w": 1920,
+      "h": 1080
+    },
+    "scroll": {
+      "scrollH": 1088,
+      "clientH": 1080,
+      "hasVerticalScroll": true,
+      "scrollW": 1905,
+      "clientW": 1905,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 1720,
+      "h": 1048,
+      "top": 20
+    },
+    "nav": {
+      "top": "61px",
+      "left": "705px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "121.6px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "57.6px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "44px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 360,
+        "h": 190
+      },
+      {
+        "href": "/kham-pha",
+        "w": 360,
+        "h": 190
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 360,
+        "h": 190
+      }
+    ]
+  },
+  "2560": {
+    "viewport": {
+      "name": "2560",
+      "label": "Desktop QHD 27 inch 2560x1440",
+      "w": 2560,
+      "h": 1440
+    },
+    "scroll": {
+      "scrollH": 1448,
+      "clientH": 1440,
+      "hasVerticalScroll": true,
+      "scrollW": 2545,
+      "clientW": 2545,
+      "hasHorizontalScroll": false
+    },
+    "landingPanel": {
+      "w": 1720,
+      "h": 1408,
+      "top": 20
+    },
+    "nav": {
+      "top": "61px",
+      "left": "1025px",
+      "width": "495px",
+      "height": "52px",
+      "items": [
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 64,
+      "h": 64,
+      "hueFont": "31px",
+      "travelFont": "12.5px"
+    },
+    "typography": {
+      "hueH1": {
+        "text": "HUẾ",
+        "fontSize": "121.6px",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", serif"
+      },
+      "travelPro": {
+        "text": "TRAVEL PRO",
+        "fontSize": "57.6px",
+        "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif"
+      },
+      "tagline": {
+        "text": "Huế có chi hay?",
+        "fontSize": "44px",
+        "fontFamily": "\"Noto Serif\", __notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+        "letterSpacing": "normal"
+      }
+    },
+    "ctas": {
+      "primary": {
+        "text": "Khám phá",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      "foodEntry": {
+        "text": "Ăn uống & Quán ngon",
+        "href": "/tim-kiem?q=ăn+uống",
+        "bg": "rgba(255, 255, 255, 0.1)"
+      }
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ],
+    "cardBounds": [
+      {
+        "href": "/kham-pha",
+        "w": 360,
+        "h": 190
+      },
+      {
+        "href": "/kham-pha",
+        "w": 360,
+        "h": 190
+      },
+      {
+        "href": "/tim-kiem?q=ẩm+thực",
+        "w": 360,
+        "h": 190
+      }
+    ]
+  }
+}

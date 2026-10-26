@@ -1,0 +1,106 @@
+[
+  {
+    "result": "Hiển thị 1 cơ sở lưu trú",
+    "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+    "values": [
+      {
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort"
+      },
+      {
+        "label": "Khu vực lưu trú",
+        "text": "Khu vực: Tất cả",
+        "value": "all"
+      },
+      {
+        "label": "Khoảng giá phòng",
+        "text": "Khoảng giá: Tham khảo chung theo mùa",
+        "value": "all"
+      },
+      {
+        "label": "Tiện nghi lưu trú",
+        "text": "Tiện nghi: Tất cả",
+        "value": "all"
+      }
+    ]
+  },
+  {
+    "result": "Hiển thị 0 cơ sở lưu trú",
+    "url": "http://192.168.1.12:3000/luu-tru?type=resort&area=%C4%90%E1%BA%A1i+N%E1%BB%99i",
+    "values": [
+      {
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort"
+      },
+      {
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội"
+      },
+      {
+        "label": "Khoảng giá phòng",
+        "text": "Khoảng giá: Tham khảo chung theo mùa",
+        "value": "all"
+      },
+      {
+        "label": "Tiện nghi lưu trú",
+        "text": "Tiện nghi: Tất cả",
+        "value": "all"
+      }
+    ]
+  },
+  {
+    "result": "Hiển thị 0 cơ sở lưu trú",
+    "url": "http://192.168.1.12:3000/luu-tru?type=resort&area=%C4%90%E1%BA%A1i+N%E1%BB%99i&budget=budget-luxury",
+    "values": [
+      {
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort"
+      },
+      {
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội"
+      },
+      {
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury"
+      },
+      {
+        "label": "Tiện nghi lưu trú",
+        "text": "Tiện nghi: Tất cả",
+        "value": "all"
+      }
+    ]
+  },
+  {
+    "result": "Hiển thị 0 cơ sở lưu trú",
+    "url": "http://192.168.1.12:3000/luu-tru?type=resort&area=%C4%90%E1%BA%A1i+N%E1%BB%99i&amenity=coffee&budget=budget-luxury",
+    "values": [
+      {
+        "label": "Loại hình lưu trú",
+        "text": "Khu nghỉ dưỡng (Resort)",
+        "value": "resort"
+      },
+      {
+        "label": "Khu vực lưu trú",
+        "text": "Gần Đại Nội / Thành Nội",
+        "value": "Đại Nội"
+      },
+      {
+        "label": "Khoảng giá phòng",
+        "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+        "value": "budget-luxury"
+      },
+      {
+        "label": "Tiện nghi lưu trú",
+        "text": "Bữa sáng / Quán cà phê",
+        "value": "coffee"
+      }
+    ]
+  }
+]

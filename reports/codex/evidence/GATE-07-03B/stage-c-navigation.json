@@ -1,0 +1,38 @@
+[
+  {
+    "h1": "Lịch sử Huế",
+    "morph": "sidebar",
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "morph": "sidebar",
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "h1": "Lịch sử Huế",
+    "morph": "sidebar",
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "morph": "capsule",
+    "url": "http://192.168.1.12:3000/"
+  },
+  {
+    "h1": "HUẾ",
+    "morph": "capsule",
+    "url": "http://192.168.1.12:3000/"
+  },
+  {
+    "morph": "capsule",
+    "url": "http://192.168.1.12:3000/"
+  },
+  {
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "morph": "sidebar",
+    "url": "http://192.168.1.12:3000/luu-tru"
+  },
+  {
+    "morph": "sidebar",
+    "url": "http://192.168.1.12:3000/luu-tru"
+  }
+]

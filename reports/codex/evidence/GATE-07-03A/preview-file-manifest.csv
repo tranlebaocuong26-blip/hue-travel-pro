@@ -1,0 +1,23 @@
+﻿File,Bytes,SHA256,Source
+bevietnampro-METADATA.pb,7961,2EF4A8F6B3A18698C70D2E3ADF0CF45DEBC71A4220941CCDF8280DB7D1D567F4,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/METADATA.pb
+bevietnampro-OFL.txt,4397,6B7F8F73609A25EA78C891E34CF37B06F8A676B7EA986E941E43B009110F2A85,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/OFL.txt
+build_preview.py,11658,47F69F0CF9F0D462D112316746A8C7E229C118CB527C80B175AA625C965E2DC0,Generated isolated preview / evidence; no production import
+corpus.json,5157,0EB404F24B6CD1FCCFB531720DE29CF8E52BBD199E2E9F92F1020CAD9D80C456,Generated isolated preview / evidence; no production import
+fonts/BeVietnamPro-Bold.ttf,140300,7F738FE5C43C8872807B20E2D30D42163618DE8A4DAF7F48A939ADAC32C16847,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Bold.ttf
+fonts/BeVietnamPro-Italic.ttf,137244,A33EBB3F68E0E260A7D3874D64259AD309971A2DAF969E7CE5F444D70BCE535F,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Italic.ttf
+fonts/BeVietnamPro-Medium.ttf,135980,B60832BFA0FCD015158112C64D7E3FDAD3B0C6287D1823F85A3103636E845268,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Medium.ttf
+fonts/BeVietnamPro-Regular.ttf,132948,CD1EF6E9D7DB28AD5CDB88A65CCBE693870E60D340B791F349D248342B4FE4C3,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Regular.ttf
+fonts/BeVietnamPro-SemiBold.ttf,136736,BD8E27EB02720B9D91E59E4F10A90878643219F25CE6A8D9A4F06A8A88D3BB71,https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-SemiBold.ttf
+fonts/GeistVF.woff,66268,296FAFAFD41304F7C992079054B8AF914DBBD865F32DE97C66D0F613B55755D6,local exact copy: src/app/fonts/GeistVF.woff
+fonts/NotoSans-Italic-VF.ttf,2322640,58E6E0EBD1931B29A365AA2D3E2EE9A9E831A3AF7CF3AD1462D4E72154F0B291,"https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/NotoSans-Italic%5Bwdth,wght%5D.ttf"
+fonts/NotoSans-VF.ttf,2049096,BFB7BB691513F12E734DC346C03A03F784912432D7E3FA8E56EFCF906FE86B3D,"https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/NotoSans%5Bwdth,wght%5D.ttf"
+fonts/NotoSerif-Italic-VF.ttf,2448496,E87ACBC6C0EFD0D9A20D6A8CBBDA2B266C14BE3A3A6F5AF8EC9D7B2460570AD1,"https://raw.githubusercontent.com/google/fonts/main/ofl/notoserif/NotoSerif-Italic%5Bwdth,wght%5D.ttf"
+fonts/NotoSerif-VF.ttf,1887192,4D8E6761424656867019081A1A01336F3CB086982682698714054FC33F782713,"https://raw.githubusercontent.com/google/fonts/main/ofl/notoserif/NotoSerif%5Bwdth,wght%5D.ttf"
+index.html,22091,178B7EEE335C272A482AF3608CED72122880426CA6737871ADD36F8211746544,Generated isolated preview / evidence; no production import
+notosans-METADATA.pb,32340,9FD9566184E9833AE3A33B8950E2782A8ABB1F0A9D6FB2C51B3FB615F2D78CFE,https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/METADATA.pb
+notosans-OFL.txt,4396,CEE9892F9F0CC8FE882C9E9537EE6A89621D86EE7CEAF70B02E2B2B1C25C061A,https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/OFL.txt
+notoserif-METADATA.pb,29397,659CF6A2475EABFA3E3BBB92E3ED15C604E6FB035B3B1057D469CC88E67357BB,https://raw.githubusercontent.com/google/fonts/main/ofl/notoserif/METADATA.pb
+notoserif-OFL.txt,4396,CEE9892F9F0CC8FE882C9E9537EE6A89621D86EE7CEAF70B02E2B2B1C25C061A,https://raw.githubusercontent.com/google/fonts/main/ofl/notoserif/OFL.txt
+preview.js,2190,90C90FF70D2E70D9FB476389B1087141EF8C8D0D2FD3A61B458F50BF9595B69B,Generated isolated preview / evidence; no production import
+README.md,1536,5909E474E682547A83F2DFBCE03780403EDABBA988C8FB097EE3909964C6428D,Generated isolated preview / evidence; no production import
+styles.css,4606,8E11CF71780E060965A0161330F3216B8092E7B54F7DC5C7B15DA6C06DC88504,Generated isolated preview / evidence; no production import

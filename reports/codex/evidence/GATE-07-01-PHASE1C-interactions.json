@@ -1,0 +1,54 @@
+[
+  {
+    "test": "Home → Về Huế → Home",
+    "result": "PASS",
+    "homeState": "capsule"
+  },
+  {
+    "test": "Home → Khám phá (navigation)",
+    "result": "PASS"
+  },
+  {
+    "test": "Di tích Đại Nội Huế Di tích - Lịch sử Khám phá dấu ấn triều Nguyễn",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Chùa Thiên Mụ Văn hoá - Tâm linh Chạm vào hồn cốt xứ Huế",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Đang chờ tư liệu ảnh Ẩm thực Cố Đô (Đợt 1) Ẩm thực Huế Tinh hoa hương vị cố đô",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Mobile drawer: mở, chọn Về Huế",
+    "result": "PASS",
+    "url": "http://localhost:3000/ve-hue"
+  },
+  {
+    "test": "Mobile bottom navigation → Trang chủ",
+    "result": "PASS"
+  },
+  {
+    "test": "Mobile drawer mở/đóng",
+    "result": "PASS"
+  },
+  {
+    "test": "Mobile CTA Khám phá Huế ngay",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Search dai noi / category all",
+    "url": "http://localhost:3000/kham-pha?q=dai+noi",
+    "result": "PASS"
+  },
+  {
+    "test": "Search dai noi / category camping",
+    "url": "http://localhost:3000/kham-pha?q=dai+noi&category=camping",
+    "result": "PASS"
+  }
+]

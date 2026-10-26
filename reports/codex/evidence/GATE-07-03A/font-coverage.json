@@ -1,0 +1,1979 @@
+[
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\BeVietnamPro-Bold.ttf",
+    "bytes": 140300,
+    "sha256": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847",
+    "names": [
+      "Be Vietnam Pro",
+      "Bold",
+      "Be Vietnam Pro Bold",
+      "BeVietnamPro-Bold"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 459,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\BeVietnamPro-Italic.ttf",
+    "bytes": 137244,
+    "sha256": "a33ebb3f68e0e260a7d3874d64259ad309971a2daf969e7ce5f444d70bce535f",
+    "names": [
+      "Be Vietnam Pro",
+      "Italic",
+      "Be Vietnam Pro Italic",
+      "BeVietnamPro-Italic"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 459,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\BeVietnamPro-Medium.ttf",
+    "bytes": 135980,
+    "sha256": "b60832bfa0fcd015158112c64d7e3fdad3b0c6287d1823f85a3103636e845268",
+    "names": [
+      "Be Vietnam Pro Medium",
+      "Regular",
+      "BeVietnamPro-Medium"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 459,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\BeVietnamPro-Regular.ttf",
+    "bytes": 132948,
+    "sha256": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3",
+    "names": [
+      "Be Vietnam Pro",
+      "Regular",
+      "Be Vietnam Pro Regular",
+      "BeVietnamPro-Regular"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 459,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\BeVietnamPro-SemiBold.ttf",
+    "bytes": 136736,
+    "sha256": "bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71",
+    "names": [
+      "Be Vietnam Pro SemiBold",
+      "Regular",
+      "BeVietnamPro-SemiBold"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 459,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\GeistVF.woff",
+    "bytes": 66268,
+    "sha256": "296fafafd41304f7c992079054b8af914dbbd865f32de97c66d0f613b55755d6",
+    "names": [
+      "Geist",
+      "Regular",
+      "Geist-Regular"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    ],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 645,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [
+      {
+        "cp": "U+01A0",
+        "char": "Ơ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN"
+      },
+      {
+        "cp": "U+01A1",
+        "char": "ơ",
+        "name": "LATIN SMALL LETTER O WITH HORN"
+      },
+      {
+        "cp": "U+01AF",
+        "char": "Ư",
+        "name": "LATIN CAPITAL LETTER U WITH HORN"
+      },
+      {
+        "cp": "U+01B0",
+        "char": "ư",
+        "name": "LATIN SMALL LETTER U WITH HORN"
+      },
+      {
+        "cp": "U+1EA0",
+        "char": "Ạ",
+        "name": "LATIN CAPITAL LETTER A WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EA1",
+        "char": "ạ",
+        "name": "LATIN SMALL LETTER A WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EA2",
+        "char": "Ả",
+        "name": "LATIN CAPITAL LETTER A WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA3",
+        "char": "ả",
+        "name": "LATIN SMALL LETTER A WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA4",
+        "char": "Ấ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EA5",
+        "char": "ấ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EA6",
+        "char": "Ầ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EA7",
+        "char": "ầ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EA8",
+        "char": "Ẩ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA9",
+        "char": "ẩ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EAA",
+        "char": "Ẫ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EAB",
+        "char": "ẫ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EAC",
+        "char": "Ậ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EAD",
+        "char": "ậ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EAE",
+        "char": "Ắ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND ACUTE"
+      },
+      {
+        "cp": "U+1EAF",
+        "char": "ắ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND ACUTE"
+      },
+      {
+        "cp": "U+1EB0",
+        "char": "Ằ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND GRAVE"
+      },
+      {
+        "cp": "U+1EB1",
+        "char": "ằ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND GRAVE"
+      },
+      {
+        "cp": "U+1EB2",
+        "char": "Ẳ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EB3",
+        "char": "ẳ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EB4",
+        "char": "Ẵ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND TILDE"
+      },
+      {
+        "cp": "U+1EB5",
+        "char": "ẵ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND TILDE"
+      },
+      {
+        "cp": "U+1EB6",
+        "char": "Ặ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EB7",
+        "char": "ặ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EB8",
+        "char": "Ẹ",
+        "name": "LATIN CAPITAL LETTER E WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EB9",
+        "char": "ẹ",
+        "name": "LATIN SMALL LETTER E WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EBA",
+        "char": "Ẻ",
+        "name": "LATIN CAPITAL LETTER E WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EBB",
+        "char": "ẻ",
+        "name": "LATIN SMALL LETTER E WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EBE",
+        "char": "Ế",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EBF",
+        "char": "ế",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EC0",
+        "char": "Ề",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EC1",
+        "char": "ề",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EC2",
+        "char": "Ể",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC3",
+        "char": "ể",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC4",
+        "char": "Ễ",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EC5",
+        "char": "ễ",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EC6",
+        "char": "Ệ",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EC7",
+        "char": "ệ",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EC8",
+        "char": "Ỉ",
+        "name": "LATIN CAPITAL LETTER I WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC9",
+        "char": "ỉ",
+        "name": "LATIN SMALL LETTER I WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ECA",
+        "char": "Ị",
+        "name": "LATIN CAPITAL LETTER I WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECB",
+        "char": "ị",
+        "name": "LATIN SMALL LETTER I WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECC",
+        "char": "Ọ",
+        "name": "LATIN CAPITAL LETTER O WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECD",
+        "char": "ọ",
+        "name": "LATIN SMALL LETTER O WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECE",
+        "char": "Ỏ",
+        "name": "LATIN CAPITAL LETTER O WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ECF",
+        "char": "ỏ",
+        "name": "LATIN SMALL LETTER O WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED0",
+        "char": "Ố",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1ED1",
+        "char": "ố",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1ED2",
+        "char": "Ồ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1ED3",
+        "char": "ồ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1ED4",
+        "char": "Ổ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED5",
+        "char": "ổ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED6",
+        "char": "Ỗ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1ED7",
+        "char": "ỗ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1ED8",
+        "char": "Ộ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1ED9",
+        "char": "ộ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EDA",
+        "char": "Ớ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EDB",
+        "char": "ớ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EDC",
+        "char": "Ờ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EDD",
+        "char": "ờ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EDE",
+        "char": "Ở",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EDF",
+        "char": "ở",
+        "name": "LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE0",
+        "char": "Ỡ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EE1",
+        "char": "ỡ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EE2",
+        "char": "Ợ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EE3",
+        "char": "ợ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EE4",
+        "char": "Ụ",
+        "name": "LATIN CAPITAL LETTER U WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EE5",
+        "char": "ụ",
+        "name": "LATIN SMALL LETTER U WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EE6",
+        "char": "Ủ",
+        "name": "LATIN CAPITAL LETTER U WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE7",
+        "char": "ủ",
+        "name": "LATIN SMALL LETTER U WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE8",
+        "char": "Ứ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EE9",
+        "char": "ứ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EEA",
+        "char": "Ừ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EEB",
+        "char": "ừ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EEC",
+        "char": "Ử",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EED",
+        "char": "ử",
+        "name": "LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EEE",
+        "char": "Ữ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EEF",
+        "char": "ữ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EF0",
+        "char": "Ự",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EF1",
+        "char": "ự",
+        "name": "LATIN SMALL LETTER U WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EF4",
+        "char": "Ỵ",
+        "name": "LATIN CAPITAL LETTER Y WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EF5",
+        "char": "ỵ",
+        "name": "LATIN SMALL LETTER Y WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EF6",
+        "char": "Ỷ",
+        "name": "LATIN CAPITAL LETTER Y WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EF7",
+        "char": "ỷ",
+        "name": "LATIN SMALL LETTER Y WITH HOOK ABOVE"
+      }
+    ],
+    "nfd_missing": [
+      {
+        "cp": "U+0309",
+        "char": "̉",
+        "name": "COMBINING HOOK ABOVE"
+      },
+      {
+        "cp": "U+031B",
+        "char": "̛",
+        "name": "COMBINING HORN"
+      },
+      {
+        "cp": "U+0323",
+        "char": "̣",
+        "name": "COMBINING DOT BELOW"
+      }
+    ],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\NotoSans-Italic-VF.ttf",
+    "bytes": 2322640,
+    "sha256": "58e6e0ebd1931b29a365aa2d3e2ee9a9e831a3af7cf3ad1462d4e72154f0b291",
+    "names": [
+      "Noto Sans",
+      "Italic",
+      "Noto Sans Italic",
+      "NotoSans-Italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      },
+      {
+        "tag": "wdth",
+        "min": 62.5,
+        "default": 100.0,
+        "max": 100.0
+      }
+    ],
+    "cmap_formats": [
+      4,
+      12
+    ],
+    "coverage_count": 3091,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\NotoSans-VF.ttf",
+    "bytes": 2049096,
+    "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d",
+    "names": [
+      "Noto Sans",
+      "Regular",
+      "Noto Sans Regular",
+      "NotoSans-Regular"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      },
+      {
+        "tag": "wdth",
+        "min": 62.5,
+        "default": 100.0,
+        "max": 100.0
+      }
+    ],
+    "cmap_formats": [
+      4,
+      12
+    ],
+    "coverage_count": 3094,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\NotoSerif-Italic-VF.ttf",
+    "bytes": 2448496,
+    "sha256": "e87acbc6c0efd0d9a20d6a8cbbda2b266c14be3a3a6f5af8ec9d7b2460570ad1",
+    "names": [
+      "Noto Serif",
+      "Italic",
+      "Noto Serif Italic",
+      "NotoSerif-Italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      },
+      {
+        "tag": "wdth",
+        "min": 62.5,
+        "default": 100.0,
+        "max": 100.0
+      }
+    ],
+    "cmap_formats": [
+      4,
+      12
+    ],
+    "coverage_count": 2964,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\reports\\codex\\typography-preview\\fonts\\NotoSerif-VF.ttf",
+    "bytes": 1887192,
+    "sha256": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713",
+    "names": [
+      "Noto Serif",
+      "Regular",
+      "Noto Serif Regular",
+      "NotoSerif-Regular"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      },
+      {
+        "tag": "wdth",
+        "min": 62.5,
+        "default": 100.0,
+        "max": 100.0
+      }
+    ],
+    "cmap_formats": [
+      4,
+      12
+    ],
+    "coverage_count": 2965,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "A:\\trí tuệ nhân tạo\\BAI_3\\hue-travel-pro\\src\\app\\fonts\\GeistMonoVF.woff",
+    "bytes": 67864,
+    "sha256": "e8b65928f551b17e3d67c3f709721b952c39842d14b00701f9232057fde73608",
+    "names": [
+      "Geist Mono",
+      "Regular",
+      "GeistMono-Regular"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    ],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 648,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [
+      {
+        "cp": "U+01A0",
+        "char": "Ơ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN"
+      },
+      {
+        "cp": "U+01A1",
+        "char": "ơ",
+        "name": "LATIN SMALL LETTER O WITH HORN"
+      },
+      {
+        "cp": "U+01AF",
+        "char": "Ư",
+        "name": "LATIN CAPITAL LETTER U WITH HORN"
+      },
+      {
+        "cp": "U+01B0",
+        "char": "ư",
+        "name": "LATIN SMALL LETTER U WITH HORN"
+      },
+      {
+        "cp": "U+1EA0",
+        "char": "Ạ",
+        "name": "LATIN CAPITAL LETTER A WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EA1",
+        "char": "ạ",
+        "name": "LATIN SMALL LETTER A WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EA2",
+        "char": "Ả",
+        "name": "LATIN CAPITAL LETTER A WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA3",
+        "char": "ả",
+        "name": "LATIN SMALL LETTER A WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA4",
+        "char": "Ấ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EA5",
+        "char": "ấ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EA6",
+        "char": "Ầ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EA7",
+        "char": "ầ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EA8",
+        "char": "Ẩ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA9",
+        "char": "ẩ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EAA",
+        "char": "Ẫ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EAB",
+        "char": "ẫ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EAC",
+        "char": "Ậ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EAD",
+        "char": "ậ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EAE",
+        "char": "Ắ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND ACUTE"
+      },
+      {
+        "cp": "U+1EAF",
+        "char": "ắ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND ACUTE"
+      },
+      {
+        "cp": "U+1EB0",
+        "char": "Ằ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND GRAVE"
+      },
+      {
+        "cp": "U+1EB1",
+        "char": "ằ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND GRAVE"
+      },
+      {
+        "cp": "U+1EB2",
+        "char": "Ẳ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EB3",
+        "char": "ẳ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EB4",
+        "char": "Ẵ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND TILDE"
+      },
+      {
+        "cp": "U+1EB5",
+        "char": "ẵ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND TILDE"
+      },
+      {
+        "cp": "U+1EB6",
+        "char": "Ặ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EB7",
+        "char": "ặ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EB8",
+        "char": "Ẹ",
+        "name": "LATIN CAPITAL LETTER E WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EB9",
+        "char": "ẹ",
+        "name": "LATIN SMALL LETTER E WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EBA",
+        "char": "Ẻ",
+        "name": "LATIN CAPITAL LETTER E WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EBB",
+        "char": "ẻ",
+        "name": "LATIN SMALL LETTER E WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EBE",
+        "char": "Ế",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EBF",
+        "char": "ế",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EC0",
+        "char": "Ề",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EC1",
+        "char": "ề",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EC2",
+        "char": "Ể",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC3",
+        "char": "ể",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC4",
+        "char": "Ễ",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EC5",
+        "char": "ễ",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EC6",
+        "char": "Ệ",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EC7",
+        "char": "ệ",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EC8",
+        "char": "Ỉ",
+        "name": "LATIN CAPITAL LETTER I WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC9",
+        "char": "ỉ",
+        "name": "LATIN SMALL LETTER I WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ECA",
+        "char": "Ị",
+        "name": "LATIN CAPITAL LETTER I WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECB",
+        "char": "ị",
+        "name": "LATIN SMALL LETTER I WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECC",
+        "char": "Ọ",
+        "name": "LATIN CAPITAL LETTER O WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECD",
+        "char": "ọ",
+        "name": "LATIN SMALL LETTER O WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECE",
+        "char": "Ỏ",
+        "name": "LATIN CAPITAL LETTER O WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ECF",
+        "char": "ỏ",
+        "name": "LATIN SMALL LETTER O WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED0",
+        "char": "Ố",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1ED1",
+        "char": "ố",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1ED2",
+        "char": "Ồ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1ED3",
+        "char": "ồ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1ED4",
+        "char": "Ổ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED5",
+        "char": "ổ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED6",
+        "char": "Ỗ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1ED7",
+        "char": "ỗ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1ED8",
+        "char": "Ộ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1ED9",
+        "char": "ộ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EDA",
+        "char": "Ớ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EDB",
+        "char": "ớ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EDC",
+        "char": "Ờ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EDD",
+        "char": "ờ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EDE",
+        "char": "Ở",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EDF",
+        "char": "ở",
+        "name": "LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE0",
+        "char": "Ỡ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EE1",
+        "char": "ỡ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EE2",
+        "char": "Ợ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EE3",
+        "char": "ợ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EE4",
+        "char": "Ụ",
+        "name": "LATIN CAPITAL LETTER U WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EE5",
+        "char": "ụ",
+        "name": "LATIN SMALL LETTER U WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EE6",
+        "char": "Ủ",
+        "name": "LATIN CAPITAL LETTER U WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE7",
+        "char": "ủ",
+        "name": "LATIN SMALL LETTER U WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE8",
+        "char": "Ứ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EE9",
+        "char": "ứ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EEA",
+        "char": "Ừ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EEB",
+        "char": "ừ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EEC",
+        "char": "Ử",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EED",
+        "char": "ử",
+        "name": "LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EEE",
+        "char": "Ữ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EEF",
+        "char": "ữ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EF0",
+        "char": "Ự",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EF1",
+        "char": "ự",
+        "name": "LATIN SMALL LETTER U WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EF4",
+        "char": "Ỵ",
+        "name": "LATIN CAPITAL LETTER Y WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EF5",
+        "char": "ỵ",
+        "name": "LATIN SMALL LETTER Y WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EF6",
+        "char": "Ỷ",
+        "name": "LATIN CAPITAL LETTER Y WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EF7",
+        "char": "ỷ",
+        "name": "LATIN SMALL LETTER Y WITH HOOK ABOVE"
+      }
+    ],
+    "nfd_missing": [
+      {
+        "cp": "U+0309",
+        "char": "̉",
+        "name": "COMBINING HOOK ABOVE"
+      },
+      {
+        "cp": "U+031B",
+        "char": "̛",
+        "name": "COMBINING HORN"
+      },
+      {
+        "cp": "U+0323",
+        "char": "̣",
+        "name": "COMBINING DOT BELOW"
+      }
+    ],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "C:\\Windows\\Fonts\\segoeui.ttf",
+    "bytes": 960076,
+    "sha256": "704eada12961a27fd271f7d3b09e2066520e758390c1776744eff430fee30f6e",
+    "names": [
+      "Segoe UI",
+      "Regular",
+      "SegoeUI",
+      "Normal",
+      "obyčejné",
+      "normal",
+      "Standard",
+      "Κανονικά",
+      "Normaali",
+      "Normál",
+      "Normale",
+      "Standaard",
+      "Normalny",
+      "Обычный",
+      "Normálne",
+      "Navadno",
+      "Arrunta"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 3998,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "C:\\Windows\\Fonts\\segoeuib.ttf",
+    "bytes": 947364,
+    "sha256": "b169e636719880976a97e94e3b1cb3dbe5f4a38eabc037bf9f2a9165154c3ad2",
+    "names": [
+      "Segoe UI",
+      "Bold",
+      "Segoe UI Bold",
+      "SegoeUI-Bold",
+      "Negreta",
+      "Segoe UI Negreta",
+      "Tučné",
+      "Segoe UI Tučné",
+      "Fed",
+      "Segoe UI Fed",
+      "Fett",
+      "Segoe UI Fett",
+      "Έντονα",
+      "Segoe UI Έντονα",
+      "Negrita",
+      "Segoe UI Negrita",
+      "Lihavoitu",
+      "Segoe UI Lihavoitu",
+      "Gras",
+      "Segoe UI Gras",
+      "Félkövér",
+      "Segoe UI Félkövér",
+      "Grassetto",
+      "Segoe UI Grassetto",
+      "Vet",
+      "Segoe UI Vet",
+      "Halvfet",
+      "Segoe UI Halvfet",
+      "Pogrubiony",
+      "Segoe UI Pogrubiony",
+      "Negrito",
+      "Segoe UI Negrito",
+      "Полужирный",
+      "Segoe UI Полужирный",
+      "Fet",
+      "Segoe UI Fet",
+      "Kalın",
+      "Segoe UI Kalın",
+      "Krepko",
+      "Segoe UI Krepko",
+      "Đậm",
+      "Segoe UI Đậm",
+      "Lodia",
+      "Segoe UI Lodia"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 3995,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "C:\\Windows\\Fonts\\arial.ttf",
+    "bytes": 1045720,
+    "sha256": "b3658eadae55e682b5f69eb64c439c1ecc8f196c0bb8d4756d145d13bc86476a",
+    "names": [
+      "Arial",
+      "Regular",
+      "ArialMT",
+      "Normal",
+      "obyčejné",
+      "normal",
+      "Standard",
+      "Κανονικά",
+      "Normaali",
+      "Normál",
+      "Normale",
+      "Standaard",
+      "Normalny",
+      "Обычный",
+      "Normálne",
+      "Navadno",
+      "thường",
+      "Arrunta"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4,
+      12
+    ],
+    "coverage_count": 3506,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "C:\\Windows\\Fonts\\georgia.ttf",
+    "bytes": 219712,
+    "sha256": "38dffcaf1fac89492f7c56c600a14daf36ae42f7c21985cd4134ae113124a58f",
+    "names": [
+      "Georgia",
+      "Regular",
+      "Normal",
+      "obyčejné",
+      "normal",
+      "Standard",
+      "Κανονικά",
+      "Normaali",
+      "Normál",
+      "Normale",
+      "Standaard",
+      "Normalny",
+      "Обычный",
+      "Normálne",
+      "Navadno",
+      "Arrunta"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 619,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [
+      {
+        "cp": "U+01A0",
+        "char": "Ơ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN"
+      },
+      {
+        "cp": "U+01A1",
+        "char": "ơ",
+        "name": "LATIN SMALL LETTER O WITH HORN"
+      },
+      {
+        "cp": "U+01AF",
+        "char": "Ư",
+        "name": "LATIN CAPITAL LETTER U WITH HORN"
+      },
+      {
+        "cp": "U+01B0",
+        "char": "ư",
+        "name": "LATIN SMALL LETTER U WITH HORN"
+      },
+      {
+        "cp": "U+1EA0",
+        "char": "Ạ",
+        "name": "LATIN CAPITAL LETTER A WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EA1",
+        "char": "ạ",
+        "name": "LATIN SMALL LETTER A WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EA2",
+        "char": "Ả",
+        "name": "LATIN CAPITAL LETTER A WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA3",
+        "char": "ả",
+        "name": "LATIN SMALL LETTER A WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA4",
+        "char": "Ấ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EA5",
+        "char": "ấ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EA6",
+        "char": "Ầ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EA7",
+        "char": "ầ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EA8",
+        "char": "Ẩ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EA9",
+        "char": "ẩ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EAA",
+        "char": "Ẫ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EAB",
+        "char": "ẫ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EAC",
+        "char": "Ậ",
+        "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EAD",
+        "char": "ậ",
+        "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EAE",
+        "char": "Ắ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND ACUTE"
+      },
+      {
+        "cp": "U+1EAF",
+        "char": "ắ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND ACUTE"
+      },
+      {
+        "cp": "U+1EB0",
+        "char": "Ằ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND GRAVE"
+      },
+      {
+        "cp": "U+1EB1",
+        "char": "ằ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND GRAVE"
+      },
+      {
+        "cp": "U+1EB2",
+        "char": "Ẳ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EB3",
+        "char": "ẳ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EB4",
+        "char": "Ẵ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND TILDE"
+      },
+      {
+        "cp": "U+1EB5",
+        "char": "ẵ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND TILDE"
+      },
+      {
+        "cp": "U+1EB6",
+        "char": "Ặ",
+        "name": "LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EB7",
+        "char": "ặ",
+        "name": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EB8",
+        "char": "Ẹ",
+        "name": "LATIN CAPITAL LETTER E WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EB9",
+        "char": "ẹ",
+        "name": "LATIN SMALL LETTER E WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EBA",
+        "char": "Ẻ",
+        "name": "LATIN CAPITAL LETTER E WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EBB",
+        "char": "ẻ",
+        "name": "LATIN SMALL LETTER E WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EBC",
+        "char": "Ẽ",
+        "name": "LATIN CAPITAL LETTER E WITH TILDE"
+      },
+      {
+        "cp": "U+1EBD",
+        "char": "ẽ",
+        "name": "LATIN SMALL LETTER E WITH TILDE"
+      },
+      {
+        "cp": "U+1EBE",
+        "char": "Ế",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EBF",
+        "char": "ế",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1EC0",
+        "char": "Ề",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EC1",
+        "char": "ề",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1EC2",
+        "char": "Ể",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC3",
+        "char": "ể",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC4",
+        "char": "Ễ",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EC5",
+        "char": "ễ",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1EC6",
+        "char": "Ệ",
+        "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EC7",
+        "char": "ệ",
+        "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EC8",
+        "char": "Ỉ",
+        "name": "LATIN CAPITAL LETTER I WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EC9",
+        "char": "ỉ",
+        "name": "LATIN SMALL LETTER I WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ECA",
+        "char": "Ị",
+        "name": "LATIN CAPITAL LETTER I WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECB",
+        "char": "ị",
+        "name": "LATIN SMALL LETTER I WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECC",
+        "char": "Ọ",
+        "name": "LATIN CAPITAL LETTER O WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECD",
+        "char": "ọ",
+        "name": "LATIN SMALL LETTER O WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1ECE",
+        "char": "Ỏ",
+        "name": "LATIN CAPITAL LETTER O WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ECF",
+        "char": "ỏ",
+        "name": "LATIN SMALL LETTER O WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED0",
+        "char": "Ố",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1ED1",
+        "char": "ố",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE"
+      },
+      {
+        "cp": "U+1ED2",
+        "char": "Ồ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1ED3",
+        "char": "ồ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE"
+      },
+      {
+        "cp": "U+1ED4",
+        "char": "Ổ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED5",
+        "char": "ổ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1ED6",
+        "char": "Ỗ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1ED7",
+        "char": "ỗ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE"
+      },
+      {
+        "cp": "U+1ED8",
+        "char": "Ộ",
+        "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1ED9",
+        "char": "ộ",
+        "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EDA",
+        "char": "Ớ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EDB",
+        "char": "ớ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EDC",
+        "char": "Ờ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EDD",
+        "char": "ờ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EDE",
+        "char": "Ở",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EDF",
+        "char": "ở",
+        "name": "LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE0",
+        "char": "Ỡ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EE1",
+        "char": "ỡ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EE2",
+        "char": "Ợ",
+        "name": "LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EE3",
+        "char": "ợ",
+        "name": "LATIN SMALL LETTER O WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EE4",
+        "char": "Ụ",
+        "name": "LATIN CAPITAL LETTER U WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EE5",
+        "char": "ụ",
+        "name": "LATIN SMALL LETTER U WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EE6",
+        "char": "Ủ",
+        "name": "LATIN CAPITAL LETTER U WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE7",
+        "char": "ủ",
+        "name": "LATIN SMALL LETTER U WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EE8",
+        "char": "Ứ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EE9",
+        "char": "ứ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND ACUTE"
+      },
+      {
+        "cp": "U+1EEA",
+        "char": "Ừ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EEB",
+        "char": "ừ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND GRAVE"
+      },
+      {
+        "cp": "U+1EEC",
+        "char": "Ử",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EED",
+        "char": "ử",
+        "name": "LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EEE",
+        "char": "Ữ",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EEF",
+        "char": "ữ",
+        "name": "LATIN SMALL LETTER U WITH HORN AND TILDE"
+      },
+      {
+        "cp": "U+1EF0",
+        "char": "Ự",
+        "name": "LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EF1",
+        "char": "ự",
+        "name": "LATIN SMALL LETTER U WITH HORN AND DOT BELOW"
+      },
+      {
+        "cp": "U+1EF4",
+        "char": "Ỵ",
+        "name": "LATIN CAPITAL LETTER Y WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EF5",
+        "char": "ỵ",
+        "name": "LATIN SMALL LETTER Y WITH DOT BELOW"
+      },
+      {
+        "cp": "U+1EF6",
+        "char": "Ỷ",
+        "name": "LATIN CAPITAL LETTER Y WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EF7",
+        "char": "ỷ",
+        "name": "LATIN SMALL LETTER Y WITH HOOK ABOVE"
+      },
+      {
+        "cp": "U+1EF8",
+        "char": "Ỹ",
+        "name": "LATIN CAPITAL LETTER Y WITH TILDE"
+      },
+      {
+        "cp": "U+1EF9",
+        "char": "ỹ",
+        "name": "LATIN SMALL LETTER Y WITH TILDE"
+      }
+    ],
+    "nfd_missing": [
+      {
+        "cp": "U+0303",
+        "char": "̃",
+        "name": "COMBINING TILDE"
+      },
+      {
+        "cp": "U+0309",
+        "char": "̉",
+        "name": "COMBINING HOOK ABOVE"
+      },
+      {
+        "cp": "U+031B",
+        "char": "̛",
+        "name": "COMBINING HORN"
+      },
+      {
+        "cp": "U+0323",
+        "char": "̣",
+        "name": "COMBINING DOT BELOW"
+      }
+    ],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "C:\\Windows\\Fonts\\pala.ttf",
+    "bytes": 472284,
+    "sha256": "e47d594e2e2bc31b28f87b6f66483d32f925843ceb002f919c7a403aca48813d",
+    "names": [
+      "Palatino Linotype",
+      "Regular",
+      "PalatinoLinotype-Roman",
+      "Normal",
+      "obyčejné",
+      "normal",
+      "Standard",
+      "Κανονικά",
+      "Normaali",
+      "Normál",
+      "Normale",
+      "Standaard",
+      "Normalny",
+      "Обычный",
+      "Normálne",
+      "Navadno",
+      "thường",
+      "Arrunta"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 1063,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [
+      {
+        "cp": "U+0302",
+        "char": "̂",
+        "name": "COMBINING CIRCUMFLEX ACCENT"
+      },
+      {
+        "cp": "U+0306",
+        "char": "̆",
+        "name": "COMBINING BREVE"
+      },
+      {
+        "cp": "U+031B",
+        "char": "̛",
+        "name": "COMBINING HORN"
+      }
+    ],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  },
+  {
+    "file": "C:\\Windows\\Fonts\\times.ttf",
+    "bytes": 1190736,
+    "sha256": "931c5de5c70401d9324d5014c123802b4fb753000360ceb2f56c589403cd58c5",
+    "names": [
+      "Times New Roman",
+      "Regular",
+      "TimesNewRomanPSMT",
+      "Normal",
+      "obyčejné",
+      "normal",
+      "Standard",
+      "Κανονικά",
+      "Normaali",
+      "Normál",
+      "Normale",
+      "Standaard",
+      "Normalny",
+      "Обычный",
+      "Normálne",
+      "Navadno",
+      "thường",
+      "Arrunta"
+    ],
+    "axes": [],
+    "cmap_formats": [
+      4
+    ],
+    "coverage_count": 3678,
+    "nfc_total": 178,
+    "nfd_total": 54,
+    "nfc_missing": [],
+    "nfd_missing": [],
+    "GPOS": true,
+    "GSUB": true,
+    "parser": "stdlib WOFF/SFNT cmap4/12 nonzero glyph IDs; not a shaping engine"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "typecheck": {
+    "command": "pnpm exec tsc --noEmit --incremental false",
+    "exitCode": 0,
+    "status": "PASS"
+  },
+  "lint": {
+    "command": "pnpm lint",
+    "exitCode": 0,
+    "status": "PASS"
+  },
+  "build": {
+    "command": "pnpm build",
+    "firstAttempt": "EPERM cache mkdir, exit 1",
+    "hostPermissionRetryExitCode": 0,
+    "status": "PASS"
+  },
+  "fontToolsAvailable": false,
+  "realBrowserZoom100": "NOT VERIFIED",
+  "realBrowserZoom125_150": "NOT VERIFIED",
+  "CLS": "NOT VERIFIED"
+}

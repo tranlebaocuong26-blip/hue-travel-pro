@@ -1,0 +1,13 @@
+diff --git "a/A:\\tr\303\255 tu\341\273\207 nh\303\242n t\341\272\241o\\BAI_3\\hue-travel-pro\\reports\\codex\\backup\\GATE-07-01-PHASE1E-20261024-01\\Shell.tsx.before" b/src/components/layout/Shell.tsx
+index cce210e..8eb0cf3 100644
+--- "a/A:\\tr\303\255 tu\341\273\207 nh\303\242n t\341\272\241o\\BAI_3\\hue-travel-pro\\reports\\codex\\backup\\GATE-07-01-PHASE1E-20261024-01\\Shell.tsx.before"	
++++ b/src/components/layout/Shell.tsx
+@@ -24,7 +24,7 @@ export default function Shell({ children }: ShellProps) {
+       className={`min-h-screen flex flex-col transition-colors duration-350 ease-out relative ${
+         isSidebarVisual
+           ? "bg-[#F7F7FA] text-dark-ink"
+-          : "bg-[#C2C6FA] text-white p-2 sm:p-3 md:px-4 md:pb-4 md:pt-2 lg:px-6 lg:py-4"
++          : "bg-[#C2C6FA] bg-[linear-gradient(120deg,#9D99DD_0%,#C2B3DB_52%,#F2BC9D_100%)] text-white p-2 sm:p-3 md:px-4 md:pb-4 md:pt-2 lg:px-6 lg:py-4"
+       }`}
+     >
+       {/* Persistent Shared Adaptive Navigation */}

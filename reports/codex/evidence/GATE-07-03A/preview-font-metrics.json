@@ -1,0 +1,4706 @@
+{
+  "status": "loaded",
+  "faces": [
+    {
+      "family": "CurrentGeist",
+      "status": "loaded",
+      "weight": "100 900",
+      "style": "normal"
+    },
+    {
+      "family": "CurrentAdjustedArial",
+      "status": "loaded",
+      "weight": "normal",
+      "style": "normal"
+    },
+    {
+      "family": "BeVietnamPro",
+      "status": "loaded",
+      "weight": "400",
+      "style": "normal"
+    },
+    {
+      "family": "BeVietnamPro",
+      "status": "loaded",
+      "weight": "500",
+      "style": "normal"
+    },
+    {
+      "family": "BeVietnamPro",
+      "status": "loaded",
+      "weight": "600",
+      "style": "normal"
+    },
+    {
+      "family": "BeVietnamPro",
+      "status": "loaded",
+      "weight": "700",
+      "style": "normal"
+    },
+    {
+      "family": "BeVietnamPro",
+      "status": "loaded",
+      "weight": "400",
+      "style": "italic"
+    },
+    {
+      "family": "NotoSans",
+      "status": "loaded",
+      "weight": "100 900",
+      "style": "normal"
+    },
+    {
+      "family": "NotoSans",
+      "status": "loaded",
+      "weight": "100 900",
+      "style": "italic"
+    },
+    {
+      "family": "NotoSerif",
+      "status": "loaded",
+      "weight": "100 900",
+      "style": "normal"
+    },
+    {
+      "family": "NotoSerif",
+      "status": "loaded",
+      "weight": "100 900",
+      "style": "italic"
+    }
+  ],
+  "metrics": [
+    {
+      "family": "CurrentGeist",
+      "check": true,
+      "runs": [
+        {
+          "nfc": "a",
+          "nfd": "a",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "á",
+          "nfd": "á",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "à",
+          "nfd": "à",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ả",
+          "nfd": "ả",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "ã",
+          "nfd": "ã",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ạ",
+          "nfd": "ạ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 14,
+          "descent": 5
+        },
+        {
+          "nfc": "ă",
+          "nfd": "ă",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ắ",
+          "nfd": "ắ",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ằ",
+          "nfd": "ằ",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ẳ",
+          "nfd": "ẳ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "ẵ",
+          "nfd": "ẵ",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ặ",
+          "nfd": "ặ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 20,
+          "descent": 5
+        },
+        {
+          "nfc": "â",
+          "nfd": "â",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ấ",
+          "nfd": "ấ",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ầ",
+          "nfd": "ầ",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ẩ",
+          "nfd": "ẩ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "ẫ",
+          "nfd": "ẫ",
+          "widthNFC": 18.239990234375,
+          "widthNFD": 18.239990234375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ậ",
+          "nfd": "ậ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "e",
+          "nfd": "e",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "é",
+          "nfd": "é",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "è",
+          "nfd": "è",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ẻ",
+          "nfd": "ẻ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "ẽ",
+          "nfd": "ẽ",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ẹ",
+          "nfd": "ẹ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 14,
+          "descent": 5
+        },
+        {
+          "nfc": "ê",
+          "nfd": "ê",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ế",
+          "nfd": "ế",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ề",
+          "nfd": "ề",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ể",
+          "nfd": "ể",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "ễ",
+          "nfd": "ễ",
+          "widthNFC": 18.143997192382812,
+          "widthNFD": 18.143997192382812,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ệ",
+          "nfd": "ệ",
+          "widthNFC": 14.203125,
+          "widthNFD": 14.203125,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "i",
+          "nfd": "i",
+          "widthNFC": 7.8079986572265625,
+          "widthNFD": 7.8079986572265625,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "í",
+          "nfd": "í",
+          "widthNFC": 7.8079986572265625,
+          "widthNFD": 7.8079986572265625,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ì",
+          "nfd": "ì",
+          "widthNFC": 7.8079986572265625,
+          "widthNFD": 7.8079986572265625,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ỉ",
+          "nfd": "ỉ",
+          "widthNFC": 8.890625,
+          "widthNFD": 8.890625,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "ĩ",
+          "nfd": "ĩ",
+          "widthNFC": 7.8079986572265625,
+          "widthNFD": 7.8079986572265625,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ị",
+          "nfd": "ị",
+          "widthNFC": 8.890625,
+          "widthNFD": 8.890625,
+          "ascent": 22,
+          "descent": 5
+        },
+        {
+          "nfc": "o",
+          "nfd": "o",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "ó",
+          "nfd": "ó",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ò",
+          "nfd": "ò",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ỏ",
+          "nfd": "ỏ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "õ",
+          "nfd": "õ",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ọ",
+          "nfd": "ọ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 14,
+          "descent": 5
+        },
+        {
+          "nfc": "ô",
+          "nfd": "ô",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ố",
+          "nfd": "ố",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ồ",
+          "nfd": "ồ",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ổ",
+          "nfd": "ổ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "ỗ",
+          "nfd": "ỗ",
+          "widthNFC": 18.527999877929688,
+          "widthNFD": 18.527999877929688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ộ",
+          "nfd": "ộ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "ơ",
+          "nfd": "ơ",
+          "widthNFC": 16.921875,
+          "widthNFD": 16.921875,
+          "ascent": 15,
+          "descent": 0
+        },
+        {
+          "nfc": "ớ",
+          "nfd": "ớ",
+          "widthNFC": 16.921875,
+          "widthNFD": 16.921875,
+          "ascent": 21,
+          "descent": 0
+        },
+        {
+          "nfc": "ờ",
+          "nfd": "ờ",
+          "widthNFC": 16.921875,
+          "widthNFD": 16.921875,
+          "ascent": 21,
+          "descent": 0
+        },
+        {
+          "nfc": "ở",
+          "nfd": "ở",
+          "widthNFC": 16.921875,
+          "widthNFD": 16.921875,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "ỡ",
+          "nfd": "ỡ",
+          "widthNFC": 16.921875,
+          "widthNFD": 16.921875,
+          "ascent": 20,
+          "descent": 0
+        },
+        {
+          "nfc": "ợ",
+          "nfd": "ợ",
+          "widthNFC": 16.921875,
+          "widthNFD": 16.921875,
+          "ascent": 15,
+          "descent": 5
+        },
+        {
+          "nfc": "u",
+          "nfd": "u",
+          "widthNFC": 18.399993896484375,
+          "widthNFD": 18.399993896484375,
+          "ascent": 17,
+          "descent": 1
+        },
+        {
+          "nfc": "ú",
+          "nfd": "ú",
+          "widthNFC": 18.399993896484375,
+          "widthNFD": 18.399993896484375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ù",
+          "nfd": "ù",
+          "widthNFC": 18.399993896484375,
+          "widthNFD": 18.399993896484375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ủ",
+          "nfd": "ủ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "ũ",
+          "nfd": "ũ",
+          "widthNFC": 18.399993896484375,
+          "widthNFD": 18.399993896484375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ụ",
+          "nfd": "ụ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 14,
+          "descent": 5
+        },
+        {
+          "nfc": "ư",
+          "nfd": "ư",
+          "widthNFC": 17.34375,
+          "widthNFD": 17.34375,
+          "ascent": 15,
+          "descent": 0
+        },
+        {
+          "nfc": "ứ",
+          "nfd": "ứ",
+          "widthNFC": 17.34375,
+          "widthNFD": 17.34375,
+          "ascent": 21,
+          "descent": 0
+        },
+        {
+          "nfc": "ừ",
+          "nfd": "ừ",
+          "widthNFC": 17.34375,
+          "widthNFD": 17.34375,
+          "ascent": 21,
+          "descent": 0
+        },
+        {
+          "nfc": "ử",
+          "nfd": "ử",
+          "widthNFC": 17.34375,
+          "widthNFD": 17.34375,
+          "ascent": 22,
+          "descent": 0
+        },
+        {
+          "nfc": "ữ",
+          "nfd": "ữ",
+          "widthNFC": 17.34375,
+          "widthNFD": 17.34375,
+          "ascent": 20,
+          "descent": 0
+        },
+        {
+          "nfc": "ự",
+          "nfd": "ự",
+          "widthNFC": 17.34375,
+          "widthNFD": 17.34375,
+          "ascent": 15,
+          "descent": 5
+        },
+        {
+          "nfc": "y",
+          "nfd": "y",
+          "widthNFC": 17.183990478515625,
+          "widthNFD": 17.183990478515625,
+          "ascent": 17,
+          "descent": 5
+        },
+        {
+          "nfc": "ý",
+          "nfd": "ý",
+          "widthNFC": 17.183990478515625,
+          "widthNFD": 17.183990478515625,
+          "ascent": 24,
+          "descent": 5
+        },
+        {
+          "nfc": "ỳ",
+          "nfd": "ỳ",
+          "widthNFC": 17.183990478515625,
+          "widthNFD": 17.183990478515625,
+          "ascent": 24,
+          "descent": 5
+        },
+        {
+          "nfc": "ỷ",
+          "nfd": "ỷ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 22,
+          "descent": 7
+        },
+        {
+          "nfc": "ỹ",
+          "nfd": "ỹ",
+          "widthNFC": 17.183990478515625,
+          "widthNFD": 17.183990478515625,
+          "ascent": 24,
+          "descent": 5
+        },
+        {
+          "nfc": "ỵ",
+          "nfd": "ỵ",
+          "widthNFC": 16,
+          "widthNFD": 16,
+          "ascent": 14,
+          "descent": 7
+        },
+        {
+          "nfc": "A",
+          "nfd": "A",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Á",
+          "nfd": "Á",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "À",
+          "nfd": "À",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ả",
+          "nfd": "Ả",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ã",
+          "nfd": "Ã",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ạ",
+          "nfd": "Ạ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "Ă",
+          "nfd": "Ă",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ắ",
+          "nfd": "Ắ",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ằ",
+          "nfd": "Ằ",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẳ",
+          "nfd": "Ẳ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẵ",
+          "nfd": "Ẵ",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ặ",
+          "nfd": "Ặ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 27,
+          "descent": 5
+        },
+        {
+          "nfc": "Â",
+          "nfd": "Â",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ấ",
+          "nfd": "Ấ",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ầ",
+          "nfd": "Ầ",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẩ",
+          "nfd": "Ẩ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẫ",
+          "nfd": "Ẫ",
+          "widthNFC": 21.439987182617188,
+          "widthNFD": 21.439987182617188,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ậ",
+          "nfd": "Ậ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 5
+        },
+        {
+          "nfc": "E",
+          "nfd": "E",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "É",
+          "nfd": "É",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "È",
+          "nfd": "È",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẻ",
+          "nfd": "Ẻ",
+          "widthNFC": 19.546875,
+          "widthNFD": 19.546875,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẽ",
+          "nfd": "Ẽ",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẹ",
+          "nfd": "Ẹ",
+          "widthNFC": 19.546875,
+          "widthNFD": 19.546875,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "Ê",
+          "nfd": "Ê",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ế",
+          "nfd": "Ế",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ề",
+          "nfd": "Ề",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ể",
+          "nfd": "Ể",
+          "widthNFC": 19.546875,
+          "widthNFD": 19.546875,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ễ",
+          "nfd": "Ễ",
+          "widthNFC": 19.295989990234375,
+          "widthNFD": 19.295989990234375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ệ",
+          "nfd": "Ệ",
+          "widthNFC": 19.546875,
+          "widthNFD": 19.546875,
+          "ascent": 25,
+          "descent": 5
+        },
+        {
+          "nfc": "I",
+          "nfd": "I",
+          "widthNFC": 8.639999389648438,
+          "widthNFD": 8.639999389648438,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Í",
+          "nfd": "Í",
+          "widthNFC": 8.639999389648438,
+          "widthNFD": 8.639999389648438,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ì",
+          "nfd": "Ì",
+          "widthNFC": 8.639999389648438,
+          "widthNFD": 8.639999389648438,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỉ",
+          "nfd": "Ỉ",
+          "widthNFC": 10.65625,
+          "widthNFD": 10.65625,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ĩ",
+          "nfd": "Ĩ",
+          "widthNFC": 8.639999389648438,
+          "widthNFD": 8.639999389648438,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ị",
+          "nfd": "Ị",
+          "widthNFC": 10.65625,
+          "widthNFD": 10.65625,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "O",
+          "nfd": "O",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "Ó",
+          "nfd": "Ó",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ò",
+          "nfd": "Ò",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỏ",
+          "nfd": "Ỏ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Õ",
+          "nfd": "Õ",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ọ",
+          "nfd": "Ọ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "Ô",
+          "nfd": "Ô",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ố",
+          "nfd": "Ố",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ồ",
+          "nfd": "Ồ",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ổ",
+          "nfd": "Ổ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỗ",
+          "nfd": "Ỗ",
+          "widthNFC": 23.90399169921875,
+          "widthNFD": 23.90399169921875,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ộ",
+          "nfd": "Ộ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 5
+        },
+        {
+          "nfc": "Ơ",
+          "nfd": "Ơ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "Ớ",
+          "nfd": "Ớ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ờ",
+          "nfd": "Ờ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ở",
+          "nfd": "Ở",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỡ",
+          "nfd": "Ỡ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 27,
+          "descent": 0
+        },
+        {
+          "nfc": "Ợ",
+          "nfd": "Ợ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 24,
+          "descent": 5
+        },
+        {
+          "nfc": "U",
+          "nfd": "U",
+          "widthNFC": 22.047988891601562,
+          "widthNFD": 22.047988891601562,
+          "ascent": 23,
+          "descent": 1
+        },
+        {
+          "nfc": "Ú",
+          "nfd": "Ú",
+          "widthNFC": 22.047988891601562,
+          "widthNFD": 22.047988891601562,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ù",
+          "nfd": "Ù",
+          "widthNFC": 22.047988891601562,
+          "widthNFD": 22.047988891601562,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ủ",
+          "nfd": "Ủ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ũ",
+          "nfd": "Ũ",
+          "widthNFC": 22.047988891601562,
+          "widthNFD": 22.047988891601562,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ụ",
+          "nfd": "Ụ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 21,
+          "descent": 5
+        },
+        {
+          "nfc": "Ư",
+          "nfd": "Ư",
+          "widthNFC": 24.828125,
+          "widthNFD": 24.828125,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "Ứ",
+          "nfd": "Ứ",
+          "widthNFC": 24.828125,
+          "widthNFD": 24.828125,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ừ",
+          "nfd": "Ừ",
+          "widthNFC": 24.828125,
+          "widthNFD": 24.828125,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ử",
+          "nfd": "Ử",
+          "widthNFC": 24.828125,
+          "widthNFD": 24.828125,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ữ",
+          "nfd": "Ữ",
+          "widthNFC": 24.828125,
+          "widthNFD": 24.828125,
+          "ascent": 27,
+          "descent": 0
+        },
+        {
+          "nfc": "Ự",
+          "nfd": "Ự",
+          "widthNFC": 24.828125,
+          "widthNFD": 24.828125,
+          "ascent": 25,
+          "descent": 5
+        },
+        {
+          "nfc": "Y",
+          "nfd": "Y",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Ý",
+          "nfd": "Ý",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỳ",
+          "nfd": "Ỳ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỷ",
+          "nfd": "Ỷ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 28,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỹ",
+          "nfd": "Ỹ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỵ",
+          "nfd": "Ỵ",
+          "widthNFC": 23.109375,
+          "widthNFD": 23.109375,
+          "ascent": 21,
+          "descent": 5
+        }
+      ]
+    },
+    {
+      "family": "BeVietnamPro",
+      "check": true,
+      "runs": [
+        {
+          "nfc": "a",
+          "nfd": "a",
+          "widthNFC": 20.543991088867188,
+          "widthNFD": 20.543991088867188,
+          "ascent": 17,
+          "descent": 0
+        },
+        {
+          "nfc": "á",
+          "nfd": "á",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "à",
+          "nfd": "à",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ả",
+          "nfd": "ả",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "ã",
+          "nfd": "ã",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ạ",
+          "nfd": "ạ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 17,
+          "descent": 7
+        },
+        {
+          "nfc": "ă",
+          "nfd": "ă",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ắ",
+          "nfd": "ắ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "ằ",
+          "nfd": "ằ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "ẳ",
+          "nfd": "ẳ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "ẵ",
+          "nfd": "ẵ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ặ",
+          "nfd": "ặ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 24,
+          "descent": 7
+        },
+        {
+          "nfc": "â",
+          "nfd": "â",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ấ",
+          "nfd": "ấ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "ầ",
+          "nfd": "ầ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "ẩ",
+          "nfd": "ẩ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ẫ",
+          "nfd": "ẫ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ậ",
+          "nfd": "ậ",
+          "widthNFC": 20.89599609375,
+          "widthNFD": 20.89599609375,
+          "ascent": 25,
+          "descent": 7
+        },
+        {
+          "nfc": "e",
+          "nfd": "e",
+          "widthNFC": 19.167999267578125,
+          "widthNFD": 19.167999267578125,
+          "ascent": 17,
+          "descent": 0
+        },
+        {
+          "nfc": "é",
+          "nfd": "é",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "è",
+          "nfd": "è",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ẻ",
+          "nfd": "ẻ",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "ẽ",
+          "nfd": "ẽ",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ẹ",
+          "nfd": "ẹ",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 17,
+          "descent": 7
+        },
+        {
+          "nfc": "ê",
+          "nfd": "ê",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ế",
+          "nfd": "ế",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "ề",
+          "nfd": "ề",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "ể",
+          "nfd": "ể",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ễ",
+          "nfd": "ễ",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ệ",
+          "nfd": "ệ",
+          "widthNFC": 19.487991333007812,
+          "widthNFD": 19.487991333007812,
+          "ascent": 24,
+          "descent": 7
+        },
+        {
+          "nfc": "i",
+          "nfd": "i",
+          "widthNFC": 8.447998046875,
+          "widthNFD": 8.447998046875,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "í",
+          "nfd": "í",
+          "widthNFC": 8.831985473632812,
+          "widthNFD": 8.831985473632812,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ì",
+          "nfd": "ì",
+          "widthNFC": 8.831985473632812,
+          "widthNFD": 8.831985473632812,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ỉ",
+          "nfd": "ỉ",
+          "widthNFC": 8.831985473632812,
+          "widthNFD": 8.831985473632812,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "ĩ",
+          "nfd": "ĩ",
+          "widthNFC": 8.831985473632812,
+          "widthNFD": 8.831985473632812,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ị",
+          "nfd": "ị",
+          "widthNFC": 8.831985473632812,
+          "widthNFD": 8.831985473632812,
+          "ascent": 24,
+          "descent": 7
+        },
+        {
+          "nfc": "o",
+          "nfd": "o",
+          "widthNFC": 20.543991088867188,
+          "widthNFD": 20.543991088867188,
+          "ascent": 17,
+          "descent": 0
+        },
+        {
+          "nfc": "ó",
+          "nfd": "ó",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ò",
+          "nfd": "ò",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ỏ",
+          "nfd": "ỏ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "õ",
+          "nfd": "õ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ọ",
+          "nfd": "ọ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 17,
+          "descent": 7
+        },
+        {
+          "nfc": "ô",
+          "nfd": "ô",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ố",
+          "nfd": "ố",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "ồ",
+          "nfd": "ồ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "ổ",
+          "nfd": "ổ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ỗ",
+          "nfd": "ỗ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "ộ",
+          "nfd": "ộ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 25,
+          "descent": 7
+        },
+        {
+          "nfc": "ơ",
+          "nfd": "ơ",
+          "widthNFC": 20.543991088867188,
+          "widthNFD": 20.543991088867188,
+          "ascent": 20,
+          "descent": 0
+        },
+        {
+          "nfc": "ớ",
+          "nfd": "ớ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ờ",
+          "nfd": "ờ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ở",
+          "nfd": "ở",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "ỡ",
+          "nfd": "ỡ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ợ",
+          "nfd": "ợ",
+          "widthNFC": 20.863998413085938,
+          "widthNFD": 20.863998413085938,
+          "ascent": 20,
+          "descent": 7
+        },
+        {
+          "nfc": "u",
+          "nfd": "u",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 17,
+          "descent": 0
+        },
+        {
+          "nfc": "ú",
+          "nfd": "ú",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ù",
+          "nfd": "ù",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ủ",
+          "nfd": "ủ",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "ũ",
+          "nfd": "ũ",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ụ",
+          "nfd": "ụ",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 17,
+          "descent": 7
+        },
+        {
+          "nfc": "ư",
+          "nfd": "ư",
+          "widthNFC": 18.431991577148438,
+          "widthNFD": 18.431991577148438,
+          "ascent": 20,
+          "descent": 0
+        },
+        {
+          "nfc": "ứ",
+          "nfd": "ứ",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ừ",
+          "nfd": "ừ",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ử",
+          "nfd": "ử",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 26,
+          "descent": 0
+        },
+        {
+          "nfc": "ữ",
+          "nfd": "ữ",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "ự",
+          "nfd": "ự",
+          "widthNFC": 18.9119873046875,
+          "widthNFD": 18.9119873046875,
+          "ascent": 20,
+          "descent": 7
+        },
+        {
+          "nfc": "y",
+          "nfd": "y",
+          "widthNFC": 18.655990600585938,
+          "widthNFD": 18.655990600585938,
+          "ascent": 17,
+          "descent": 6
+        },
+        {
+          "nfc": "ý",
+          "nfd": "ý",
+          "widthNFC": 18.655990600585938,
+          "widthNFD": 18.655990600585938,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "ỳ",
+          "nfd": "ỳ",
+          "widthNFC": 18.655990600585938,
+          "widthNFD": 18.655990600585938,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "ỷ",
+          "nfd": "ỷ",
+          "widthNFC": 18.655990600585938,
+          "widthNFD": 18.655990600585938,
+          "ascent": 26,
+          "descent": 6
+        },
+        {
+          "nfc": "ỹ",
+          "nfd": "ỹ",
+          "widthNFC": 18.655990600585938,
+          "widthNFD": 18.655990600585938,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "ỵ",
+          "nfd": "ỵ",
+          "widthNFC": 18.655990600585938,
+          "widthNFD": 18.655990600585938,
+          "ascent": 17,
+          "descent": 7
+        },
+        {
+          "nfc": "A",
+          "nfd": "A",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Á",
+          "nfd": "Á",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "À",
+          "nfd": "À",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ả",
+          "nfd": "Ả",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ã",
+          "nfd": "Ã",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ạ",
+          "nfd": "Ạ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 23,
+          "descent": 7
+        },
+        {
+          "nfc": "Ă",
+          "nfd": "Ă",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ắ",
+          "nfd": "Ắ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 37,
+          "descent": 0
+        },
+        {
+          "nfc": "Ằ",
+          "nfd": "Ằ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 37,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẳ",
+          "nfd": "Ẳ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 38,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẵ",
+          "nfd": "Ẵ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ặ",
+          "nfd": "Ặ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 30,
+          "descent": 7
+        },
+        {
+          "nfc": "Â",
+          "nfd": "Â",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ấ",
+          "nfd": "Ấ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ầ",
+          "nfd": "Ầ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẩ",
+          "nfd": "Ẩ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 37,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẫ",
+          "nfd": "Ẫ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ậ",
+          "nfd": "Ậ",
+          "widthNFC": 23.551986694335938,
+          "widthNFD": 23.551986694335938,
+          "ascent": 31,
+          "descent": 7
+        },
+        {
+          "nfc": "E",
+          "nfd": "E",
+          "widthNFC": 19.839996337890625,
+          "widthNFD": 19.839996337890625,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "É",
+          "nfd": "É",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "È",
+          "nfd": "È",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẻ",
+          "nfd": "Ẻ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẽ",
+          "nfd": "Ẽ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẹ",
+          "nfd": "Ẹ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 23,
+          "descent": 7
+        },
+        {
+          "nfc": "Ê",
+          "nfd": "Ê",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ế",
+          "nfd": "Ế",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ề",
+          "nfd": "Ề",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ể",
+          "nfd": "Ể",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 37,
+          "descent": 0
+        },
+        {
+          "nfc": "Ễ",
+          "nfd": "Ễ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ệ",
+          "nfd": "Ệ",
+          "widthNFC": 20.159988403320312,
+          "widthNFD": 20.159988403320312,
+          "ascent": 31,
+          "descent": 7
+        },
+        {
+          "nfc": "I",
+          "nfd": "I",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Í",
+          "nfd": "Í",
+          "widthNFC": 8.89599609375,
+          "widthNFD": 8.89599609375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ì",
+          "nfd": "Ì",
+          "widthNFC": 8.89599609375,
+          "widthNFD": 8.89599609375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỉ",
+          "nfd": "Ỉ",
+          "widthNFC": 8.89599609375,
+          "widthNFD": 8.89599609375,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ĩ",
+          "nfd": "Ĩ",
+          "widthNFC": 8.89599609375,
+          "widthNFD": 8.89599609375,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ị",
+          "nfd": "Ị",
+          "widthNFC": 8.89599609375,
+          "widthNFD": 8.89599609375,
+          "ascent": 23,
+          "descent": 7
+        },
+        {
+          "nfc": "O",
+          "nfd": "O",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Ó",
+          "nfd": "Ó",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ò",
+          "nfd": "Ò",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỏ",
+          "nfd": "Ỏ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Õ",
+          "nfd": "Õ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ọ",
+          "nfd": "Ọ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 23,
+          "descent": 7
+        },
+        {
+          "nfc": "Ô",
+          "nfd": "Ô",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ố",
+          "nfd": "Ố",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ồ",
+          "nfd": "Ồ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 36,
+          "descent": 0
+        },
+        {
+          "nfc": "Ổ",
+          "nfd": "Ổ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 37,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỗ",
+          "nfd": "Ỗ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 37,
+          "descent": 0
+        },
+        {
+          "nfc": "Ộ",
+          "nfd": "Ộ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 31,
+          "descent": 7
+        },
+        {
+          "nfc": "Ơ",
+          "nfd": "Ơ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 27,
+          "descent": 0
+        },
+        {
+          "nfc": "Ớ",
+          "nfd": "Ớ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ờ",
+          "nfd": "Ờ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ở",
+          "nfd": "Ở",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỡ",
+          "nfd": "Ỡ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ợ",
+          "nfd": "Ợ",
+          "widthNFC": 26.431991577148438,
+          "widthNFD": 26.431991577148438,
+          "ascent": 27,
+          "descent": 7
+        },
+        {
+          "nfc": "U",
+          "nfd": "U",
+          "widthNFC": 23.199996948242188,
+          "widthNFD": 23.199996948242188,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Ú",
+          "nfd": "Ú",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ù",
+          "nfd": "Ù",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ủ",
+          "nfd": "Ủ",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ũ",
+          "nfd": "Ũ",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ụ",
+          "nfd": "Ụ",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 23,
+          "descent": 7
+        },
+        {
+          "nfc": "Ư",
+          "nfd": "Ư",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 27,
+          "descent": 0
+        },
+        {
+          "nfc": "Ứ",
+          "nfd": "Ứ",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ừ",
+          "nfd": "Ừ",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ử",
+          "nfd": "Ử",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ữ",
+          "nfd": "Ữ",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ự",
+          "nfd": "Ự",
+          "widthNFC": 23.839996337890625,
+          "widthNFD": 23.839996337890625,
+          "ascent": 27,
+          "descent": 7
+        },
+        {
+          "nfc": "Y",
+          "nfd": "Y",
+          "widthNFC": 21.279998779296875,
+          "widthNFD": 21.279998779296875,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Ý",
+          "nfd": "Ý",
+          "widthNFC": 21.279998779296875,
+          "widthNFD": 21.279998779296875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỳ",
+          "nfd": "Ỳ",
+          "widthNFC": 21.279998779296875,
+          "widthNFD": 21.279998779296875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỷ",
+          "nfd": "Ỷ",
+          "widthNFC": 21.279998779296875,
+          "widthNFD": 21.279998779296875,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỹ",
+          "nfd": "Ỹ",
+          "widthNFC": 21.279998779296875,
+          "widthNFD": 21.279998779296875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỵ",
+          "nfd": "Ỵ",
+          "widthNFC": 21.279998779296875,
+          "widthNFD": 21.279998779296875,
+          "ascent": 23,
+          "descent": 7
+        }
+      ]
+    },
+    {
+      "family": "NotoSans",
+      "check": true,
+      "runs": [
+        {
+          "nfc": "a",
+          "nfd": "a",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "á",
+          "nfd": "á",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "à",
+          "nfd": "à",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ả",
+          "nfd": "ả",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ã",
+          "nfd": "ã",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ạ",
+          "nfd": "ạ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ă",
+          "nfd": "ă",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ắ",
+          "nfd": "ắ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ằ",
+          "nfd": "ằ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ẳ",
+          "nfd": "ẳ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ẵ",
+          "nfd": "ẵ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ặ",
+          "nfd": "ặ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 24,
+          "descent": 6
+        },
+        {
+          "nfc": "â",
+          "nfd": "â",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ấ",
+          "nfd": "ấ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ầ",
+          "nfd": "ầ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ẩ",
+          "nfd": "ẩ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ẫ",
+          "nfd": "ẫ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ậ",
+          "nfd": "ậ",
+          "widthNFC": 17.951995849609375,
+          "widthNFD": 17.951995849609375,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "e",
+          "nfd": "e",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "é",
+          "nfd": "é",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "è",
+          "nfd": "è",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ẻ",
+          "nfd": "ẻ",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ẽ",
+          "nfd": "ẽ",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ẹ",
+          "nfd": "ẹ",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ê",
+          "nfd": "ê",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ế",
+          "nfd": "ế",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ề",
+          "nfd": "ề",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ể",
+          "nfd": "ể",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ễ",
+          "nfd": "ễ",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ệ",
+          "nfd": "ệ",
+          "widthNFC": 18.047988891601562,
+          "widthNFD": 18.047988891601562,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "i",
+          "nfd": "i",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "í",
+          "nfd": "í",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ì",
+          "nfd": "ì",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ỉ",
+          "nfd": "ỉ",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 27,
+          "descent": 0
+        },
+        {
+          "nfc": "ĩ",
+          "nfd": "ĩ",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ị",
+          "nfd": "ị",
+          "widthNFC": 8.255996704101562,
+          "widthNFD": 8.255996704101562,
+          "ascent": 24,
+          "descent": 6
+        },
+        {
+          "nfc": "o",
+          "nfd": "o",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "ó",
+          "nfd": "ó",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ò",
+          "nfd": "ò",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ỏ",
+          "nfd": "ỏ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "õ",
+          "nfd": "õ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ọ",
+          "nfd": "ọ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ô",
+          "nfd": "ô",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ố",
+          "nfd": "ố",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ồ",
+          "nfd": "ồ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ổ",
+          "nfd": "ổ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ỗ",
+          "nfd": "ỗ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ộ",
+          "nfd": "ộ",
+          "widthNFC": 19.360000610351562,
+          "widthNFD": 19.360000610351562,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "ơ",
+          "nfd": "ơ",
+          "widthNFC": 19.711990356445312,
+          "widthNFD": 19.711990356445312,
+          "ascent": 20,
+          "descent": 1
+        },
+        {
+          "nfc": "ớ",
+          "nfd": "ớ",
+          "widthNFC": 19.711990356445312,
+          "widthNFD": 19.711990356445312,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ờ",
+          "nfd": "ờ",
+          "widthNFC": 19.711990356445312,
+          "widthNFD": 19.711990356445312,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ở",
+          "nfd": "ở",
+          "widthNFC": 19.711990356445312,
+          "widthNFD": 19.711990356445312,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ỡ",
+          "nfd": "ỡ",
+          "widthNFC": 19.711990356445312,
+          "widthNFD": 19.711990356445312,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ợ",
+          "nfd": "ợ",
+          "widthNFC": 19.711990356445312,
+          "widthNFD": 19.711990356445312,
+          "ascent": 20,
+          "descent": 6
+        },
+        {
+          "nfc": "u",
+          "nfd": "u",
+          "widthNFC": 19.775985717773438,
+          "widthNFD": 19.775985717773438,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "ú",
+          "nfd": "ú",
+          "widthNFC": 19.775985717773438,
+          "widthNFD": 19.775985717773438,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ù",
+          "nfd": "ù",
+          "widthNFC": 19.775985717773438,
+          "widthNFD": 19.775985717773438,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ủ",
+          "nfd": "ủ",
+          "widthNFC": 19.775985717773438,
+          "widthNFD": 19.775985717773438,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ũ",
+          "nfd": "ũ",
+          "widthNFC": 19.775985717773438,
+          "widthNFD": 19.775985717773438,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ụ",
+          "nfd": "ụ",
+          "widthNFC": 19.775985717773438,
+          "widthNFD": 19.775985717773438,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ư",
+          "nfd": "ư",
+          "widthNFC": 21.5679931640625,
+          "widthNFD": 21.5679931640625,
+          "ascent": 20,
+          "descent": 1
+        },
+        {
+          "nfc": "ứ",
+          "nfd": "ứ",
+          "widthNFC": 21.5679931640625,
+          "widthNFD": 21.5679931640625,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ừ",
+          "nfd": "ừ",
+          "widthNFC": 21.5679931640625,
+          "widthNFD": 21.5679931640625,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ử",
+          "nfd": "ử",
+          "widthNFC": 21.5679931640625,
+          "widthNFD": 21.5679931640625,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ữ",
+          "nfd": "ữ",
+          "widthNFC": 21.5679931640625,
+          "widthNFD": 21.5679931640625,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ự",
+          "nfd": "ự",
+          "widthNFC": 21.5679931640625,
+          "widthNFD": 21.5679931640625,
+          "ascent": 20,
+          "descent": 6
+        },
+        {
+          "nfc": "y",
+          "nfd": "y",
+          "widthNFC": 16.319992065429688,
+          "widthNFD": 16.319992065429688,
+          "ascent": 18,
+          "descent": 8
+        },
+        {
+          "nfc": "ý",
+          "nfd": "ý",
+          "widthNFC": 16.319992065429688,
+          "widthNFD": 16.319992065429688,
+          "ascent": 25,
+          "descent": 8
+        },
+        {
+          "nfc": "ỳ",
+          "nfd": "ỳ",
+          "widthNFC": 16.319992065429688,
+          "widthNFD": 16.319992065429688,
+          "ascent": 25,
+          "descent": 8
+        },
+        {
+          "nfc": "ỷ",
+          "nfd": "ỷ",
+          "widthNFC": 16.319992065429688,
+          "widthNFD": 16.319992065429688,
+          "ascent": 27,
+          "descent": 8
+        },
+        {
+          "nfc": "ỹ",
+          "nfd": "ỹ",
+          "widthNFC": 16.319992065429688,
+          "widthNFD": 16.319992065429688,
+          "ascent": 24,
+          "descent": 8
+        },
+        {
+          "nfc": "ỵ",
+          "nfd": "ỵ",
+          "widthNFC": 16.319992065429688,
+          "widthNFD": 16.319992065429688,
+          "ascent": 18,
+          "descent": 8
+        },
+        {
+          "nfc": "A",
+          "nfd": "A",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Á",
+          "nfd": "Á",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "À",
+          "nfd": "À",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ả",
+          "nfd": "Ả",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ã",
+          "nfd": "Ã",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ạ",
+          "nfd": "Ạ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "Ă",
+          "nfd": "Ă",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ắ",
+          "nfd": "Ắ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ằ",
+          "nfd": "Ằ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẳ",
+          "nfd": "Ẳ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẵ",
+          "nfd": "Ẵ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ặ",
+          "nfd": "Ặ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 30,
+          "descent": 6
+        },
+        {
+          "nfc": "Â",
+          "nfd": "Â",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ấ",
+          "nfd": "Ấ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ầ",
+          "nfd": "Ầ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẩ",
+          "nfd": "Ẩ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẫ",
+          "nfd": "Ẫ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ậ",
+          "nfd": "Ậ",
+          "widthNFC": 20.447998046875,
+          "widthNFD": 20.447998046875,
+          "ascent": 31,
+          "descent": 6
+        },
+        {
+          "nfc": "E",
+          "nfd": "E",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "É",
+          "nfd": "É",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "È",
+          "nfd": "È",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẻ",
+          "nfd": "Ẻ",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẽ",
+          "nfd": "Ẽ",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẹ",
+          "nfd": "Ẹ",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "Ê",
+          "nfd": "Ê",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ế",
+          "nfd": "Ế",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ề",
+          "nfd": "Ề",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ể",
+          "nfd": "Ể",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ễ",
+          "nfd": "Ễ",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ệ",
+          "nfd": "Ệ",
+          "widthNFC": 17.7919921875,
+          "widthNFD": 17.7919921875,
+          "ascent": 31,
+          "descent": 6
+        },
+        {
+          "nfc": "I",
+          "nfd": "I",
+          "widthNFC": 10.847991943359375,
+          "widthNFD": 10.847991943359375,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Í",
+          "nfd": "Í",
+          "widthNFC": 10.847991943359375,
+          "widthNFD": 10.847991943359375,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ì",
+          "nfd": "Ì",
+          "widthNFC": 10.847991943359375,
+          "widthNFD": 10.847991943359375,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỉ",
+          "nfd": "Ỉ",
+          "widthNFC": 10.847991943359375,
+          "widthNFD": 10.847991943359375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ĩ",
+          "nfd": "Ĩ",
+          "widthNFC": 10.847991943359375,
+          "widthNFD": 10.847991943359375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ị",
+          "nfd": "Ị",
+          "widthNFC": 10.847991943359375,
+          "widthNFD": 10.847991943359375,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "O",
+          "nfd": "O",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "Ó",
+          "nfd": "Ó",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ò",
+          "nfd": "Ò",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỏ",
+          "nfd": "Ỏ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Õ",
+          "nfd": "Õ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ọ",
+          "nfd": "Ọ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 24,
+          "descent": 6
+        },
+        {
+          "nfc": "Ô",
+          "nfd": "Ô",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ố",
+          "nfd": "Ố",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ồ",
+          "nfd": "Ồ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ổ",
+          "nfd": "Ổ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 34,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỗ",
+          "nfd": "Ỗ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 34,
+          "descent": 1
+        },
+        {
+          "nfc": "Ộ",
+          "nfd": "Ộ",
+          "widthNFC": 24.991989135742188,
+          "widthNFD": 24.991989135742188,
+          "ascent": 31,
+          "descent": 6
+        },
+        {
+          "nfc": "Ơ",
+          "nfd": "Ơ",
+          "widthNFC": 25.087997436523438,
+          "widthNFD": 25.087997436523438,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "Ớ",
+          "nfd": "Ớ",
+          "widthNFC": 25.087997436523438,
+          "widthNFD": 25.087997436523438,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ờ",
+          "nfd": "Ờ",
+          "widthNFC": 25.087997436523438,
+          "widthNFD": 25.087997436523438,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ở",
+          "nfd": "Ở",
+          "widthNFC": 25.087997436523438,
+          "widthNFD": 25.087997436523438,
+          "ascent": 33,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỡ",
+          "nfd": "Ỡ",
+          "widthNFC": 25.087997436523438,
+          "widthNFD": 25.087997436523438,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ợ",
+          "nfd": "Ợ",
+          "widthNFC": 25.087997436523438,
+          "widthNFD": 25.087997436523438,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "U",
+          "nfd": "U",
+          "widthNFC": 23.391998291015625,
+          "widthNFD": 23.391998291015625,
+          "ascent": 23,
+          "descent": 1
+        },
+        {
+          "nfc": "Ú",
+          "nfd": "Ú",
+          "widthNFC": 23.391998291015625,
+          "widthNFD": 23.391998291015625,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ù",
+          "nfd": "Ù",
+          "widthNFC": 23.391998291015625,
+          "widthNFD": 23.391998291015625,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ủ",
+          "nfd": "Ủ",
+          "widthNFC": 23.391998291015625,
+          "widthNFD": 23.391998291015625,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ũ",
+          "nfd": "Ũ",
+          "widthNFC": 23.391998291015625,
+          "widthNFD": 23.391998291015625,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ụ",
+          "nfd": "Ụ",
+          "widthNFC": 23.391998291015625,
+          "widthNFD": 23.391998291015625,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "Ư",
+          "nfd": "Ư",
+          "widthNFC": 24.959991455078125,
+          "widthNFD": 24.959991455078125,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "Ứ",
+          "nfd": "Ứ",
+          "widthNFC": 24.959991455078125,
+          "widthNFD": 24.959991455078125,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ừ",
+          "nfd": "Ừ",
+          "widthNFC": 24.959991455078125,
+          "widthNFD": 24.959991455078125,
+          "ascent": 31,
+          "descent": 1
+        },
+        {
+          "nfc": "Ử",
+          "nfd": "Ử",
+          "widthNFC": 24.959991455078125,
+          "widthNFD": 24.959991455078125,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ữ",
+          "nfd": "Ữ",
+          "widthNFC": 24.959991455078125,
+          "widthNFD": 24.959991455078125,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ự",
+          "nfd": "Ự",
+          "widthNFC": 24.959991455078125,
+          "widthNFD": 24.959991455078125,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "Y",
+          "nfd": "Y",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Ý",
+          "nfd": "Ý",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỳ",
+          "nfd": "Ỳ",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 31,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỷ",
+          "nfd": "Ỷ",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỹ",
+          "nfd": "Ỹ",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỵ",
+          "nfd": "Ỵ",
+          "widthNFC": 18.11199951171875,
+          "widthNFD": 18.11199951171875,
+          "ascent": 23,
+          "descent": 6
+        }
+      ]
+    },
+    {
+      "family": "NotoSerif",
+      "check": true,
+      "runs": [
+        {
+          "nfc": "a",
+          "nfd": "a",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "á",
+          "nfd": "á",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "à",
+          "nfd": "à",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ả",
+          "nfd": "ả",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ã",
+          "nfd": "ã",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ạ",
+          "nfd": "ạ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ă",
+          "nfd": "ă",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ắ",
+          "nfd": "ắ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ằ",
+          "nfd": "ằ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ẳ",
+          "nfd": "ẳ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ẵ",
+          "nfd": "ẵ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ặ",
+          "nfd": "ặ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 24,
+          "descent": 6
+        },
+        {
+          "nfc": "â",
+          "nfd": "â",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ấ",
+          "nfd": "ấ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ầ",
+          "nfd": "ầ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ẩ",
+          "nfd": "ẩ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ẫ",
+          "nfd": "ẫ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ậ",
+          "nfd": "ậ",
+          "widthNFC": 18.0159912109375,
+          "widthNFD": 18.0159912109375,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "e",
+          "nfd": "e",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "é",
+          "nfd": "é",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "è",
+          "nfd": "è",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ẻ",
+          "nfd": "ẻ",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ẽ",
+          "nfd": "ẽ",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ẹ",
+          "nfd": "ẹ",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ê",
+          "nfd": "ê",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ế",
+          "nfd": "ế",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ề",
+          "nfd": "ề",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ể",
+          "nfd": "ể",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ễ",
+          "nfd": "ễ",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ệ",
+          "nfd": "ệ",
+          "widthNFC": 17.1199951171875,
+          "widthNFD": 17.1199951171875,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "i",
+          "nfd": "i",
+          "widthNFC": 10.239990234375,
+          "widthNFD": 10.239990234375,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "í",
+          "nfd": "í",
+          "widthNFC": 10.239990234375,
+          "widthNFD": 10.239990234375,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ì",
+          "nfd": "ì",
+          "widthNFC": 10.239990234375,
+          "widthNFD": 10.239990234375,
+          "ascent": 25,
+          "descent": 0
+        },
+        {
+          "nfc": "ỉ",
+          "nfd": "ỉ",
+          "widthNFC": 10.239990234375,
+          "widthNFD": 10.239990234375,
+          "ascent": 27,
+          "descent": 0
+        },
+        {
+          "nfc": "ĩ",
+          "nfd": "ĩ",
+          "widthNFC": 10.239990234375,
+          "widthNFD": 10.239990234375,
+          "ascent": 24,
+          "descent": 0
+        },
+        {
+          "nfc": "ị",
+          "nfd": "ị",
+          "widthNFC": 10.239990234375,
+          "widthNFD": 10.239990234375,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "o",
+          "nfd": "o",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "ó",
+          "nfd": "ó",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ò",
+          "nfd": "ò",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ỏ",
+          "nfd": "ỏ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "õ",
+          "nfd": "õ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ọ",
+          "nfd": "ọ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ô",
+          "nfd": "ô",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ố",
+          "nfd": "ố",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ồ",
+          "nfd": "ồ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 26,
+          "descent": 1
+        },
+        {
+          "nfc": "ổ",
+          "nfd": "ổ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 28,
+          "descent": 1
+        },
+        {
+          "nfc": "ỗ",
+          "nfd": "ỗ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "ộ",
+          "nfd": "ộ",
+          "widthNFC": 18.4639892578125,
+          "widthNFD": 18.4639892578125,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "ơ",
+          "nfd": "ơ",
+          "widthNFC": 19.423995971679688,
+          "widthNFD": 19.423995971679688,
+          "ascent": 20,
+          "descent": 1
+        },
+        {
+          "nfc": "ớ",
+          "nfd": "ớ",
+          "widthNFC": 19.423995971679688,
+          "widthNFD": 19.423995971679688,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ờ",
+          "nfd": "ờ",
+          "widthNFC": 19.423995971679688,
+          "widthNFD": 19.423995971679688,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ở",
+          "nfd": "ở",
+          "widthNFC": 19.423995971679688,
+          "widthNFD": 19.423995971679688,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ỡ",
+          "nfd": "ỡ",
+          "widthNFC": 19.423995971679688,
+          "widthNFD": 19.423995971679688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ợ",
+          "nfd": "ợ",
+          "widthNFC": 19.423995971679688,
+          "widthNFD": 19.423995971679688,
+          "ascent": 20,
+          "descent": 6
+        },
+        {
+          "nfc": "u",
+          "nfd": "u",
+          "widthNFC": 20.319992065429688,
+          "widthNFD": 20.319992065429688,
+          "ascent": 18,
+          "descent": 1
+        },
+        {
+          "nfc": "ú",
+          "nfd": "ú",
+          "widthNFC": 20.319992065429688,
+          "widthNFD": 20.319992065429688,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ù",
+          "nfd": "ù",
+          "widthNFC": 20.319992065429688,
+          "widthNFD": 20.319992065429688,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ủ",
+          "nfd": "ủ",
+          "widthNFC": 20.319992065429688,
+          "widthNFD": 20.319992065429688,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ũ",
+          "nfd": "ũ",
+          "widthNFC": 20.319992065429688,
+          "widthNFD": 20.319992065429688,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ụ",
+          "nfd": "ụ",
+          "widthNFC": 20.319992065429688,
+          "widthNFD": 20.319992065429688,
+          "ascent": 18,
+          "descent": 6
+        },
+        {
+          "nfc": "ư",
+          "nfd": "ư",
+          "widthNFC": 21.631988525390625,
+          "widthNFD": 21.631988525390625,
+          "ascent": 20,
+          "descent": 1
+        },
+        {
+          "nfc": "ứ",
+          "nfd": "ứ",
+          "widthNFC": 21.631988525390625,
+          "widthNFD": 21.631988525390625,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ừ",
+          "nfd": "ừ",
+          "widthNFC": 21.631988525390625,
+          "widthNFD": 21.631988525390625,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "ử",
+          "nfd": "ử",
+          "widthNFC": 21.631988525390625,
+          "widthNFD": 21.631988525390625,
+          "ascent": 27,
+          "descent": 1
+        },
+        {
+          "nfc": "ữ",
+          "nfd": "ữ",
+          "widthNFC": 21.631988525390625,
+          "widthNFD": 21.631988525390625,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "ự",
+          "nfd": "ự",
+          "widthNFC": 21.631988525390625,
+          "widthNFD": 21.631988525390625,
+          "ascent": 20,
+          "descent": 6
+        },
+        {
+          "nfc": "y",
+          "nfd": "y",
+          "widthNFC": 18.079986572265625,
+          "widthNFD": 18.079986572265625,
+          "ascent": 18,
+          "descent": 8
+        },
+        {
+          "nfc": "ý",
+          "nfd": "ý",
+          "widthNFC": 18.079986572265625,
+          "widthNFD": 18.079986572265625,
+          "ascent": 25,
+          "descent": 8
+        },
+        {
+          "nfc": "ỳ",
+          "nfd": "ỳ",
+          "widthNFC": 18.079986572265625,
+          "widthNFD": 18.079986572265625,
+          "ascent": 25,
+          "descent": 8
+        },
+        {
+          "nfc": "ỷ",
+          "nfd": "ỷ",
+          "widthNFC": 18.079986572265625,
+          "widthNFD": 18.079986572265625,
+          "ascent": 27,
+          "descent": 8
+        },
+        {
+          "nfc": "ỹ",
+          "nfd": "ỹ",
+          "widthNFC": 18.079986572265625,
+          "widthNFD": 18.079986572265625,
+          "ascent": 24,
+          "descent": 8
+        },
+        {
+          "nfc": "ỵ",
+          "nfd": "ỵ",
+          "widthNFC": 18.079986572265625,
+          "widthNFD": 18.079986572265625,
+          "ascent": 18,
+          "descent": 8
+        },
+        {
+          "nfc": "A",
+          "nfd": "A",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Á",
+          "nfd": "Á",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "À",
+          "nfd": "À",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ả",
+          "nfd": "Ả",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ã",
+          "nfd": "Ã",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "Ạ",
+          "nfd": "Ạ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "Ă",
+          "nfd": "Ă",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "Ắ",
+          "nfd": "Ắ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ằ",
+          "nfd": "Ằ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẳ",
+          "nfd": "Ẳ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẵ",
+          "nfd": "Ẵ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ặ",
+          "nfd": "Ặ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 29,
+          "descent": 6
+        },
+        {
+          "nfc": "Â",
+          "nfd": "Â",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ấ",
+          "nfd": "Ấ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ầ",
+          "nfd": "Ầ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẩ",
+          "nfd": "Ẩ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẫ",
+          "nfd": "Ẫ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ậ",
+          "nfd": "Ậ",
+          "widthNFC": 22.55999755859375,
+          "widthNFD": 22.55999755859375,
+          "ascent": 30,
+          "descent": 6
+        },
+        {
+          "nfc": "E",
+          "nfd": "E",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "É",
+          "nfd": "É",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "È",
+          "nfd": "È",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẻ",
+          "nfd": "Ẻ",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẽ",
+          "nfd": "Ẽ",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "Ẹ",
+          "nfd": "Ẹ",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "Ê",
+          "nfd": "Ê",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ế",
+          "nfd": "Ế",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ề",
+          "nfd": "Ề",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ể",
+          "nfd": "Ể",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 33,
+          "descent": 0
+        },
+        {
+          "nfc": "Ễ",
+          "nfd": "Ễ",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 34,
+          "descent": 0
+        },
+        {
+          "nfc": "Ệ",
+          "nfd": "Ệ",
+          "widthNFC": 19.935989379882812,
+          "widthNFD": 19.935989379882812,
+          "ascent": 30,
+          "descent": 6
+        },
+        {
+          "nfc": "I",
+          "nfd": "I",
+          "widthNFC": 11.743988037109375,
+          "widthNFD": 11.743988037109375,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Í",
+          "nfd": "Í",
+          "widthNFC": 11.743988037109375,
+          "widthNFD": 11.743988037109375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ì",
+          "nfd": "Ì",
+          "widthNFC": 11.743988037109375,
+          "widthNFD": 11.743988037109375,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỉ",
+          "nfd": "Ỉ",
+          "widthNFC": 11.743988037109375,
+          "widthNFD": 11.743988037109375,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ĩ",
+          "nfd": "Ĩ",
+          "widthNFC": 11.743988037109375,
+          "widthNFD": 11.743988037109375,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "Ị",
+          "nfd": "Ị",
+          "widthNFC": 11.743988037109375,
+          "widthNFD": 11.743988037109375,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "O",
+          "nfd": "O",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 24,
+          "descent": 1
+        },
+        {
+          "nfc": "Ó",
+          "nfd": "Ó",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ò",
+          "nfd": "Ò",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỏ",
+          "nfd": "Ỏ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Õ",
+          "nfd": "Õ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "Ọ",
+          "nfd": "Ọ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 24,
+          "descent": 6
+        },
+        {
+          "nfc": "Ô",
+          "nfd": "Ô",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ố",
+          "nfd": "Ố",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ồ",
+          "nfd": "Ồ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ổ",
+          "nfd": "Ổ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 33,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỗ",
+          "nfd": "Ỗ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 34,
+          "descent": 1
+        },
+        {
+          "nfc": "Ộ",
+          "nfd": "Ộ",
+          "widthNFC": 23.743988037109375,
+          "widthNFD": 23.743988037109375,
+          "ascent": 30,
+          "descent": 6
+        },
+        {
+          "nfc": "Ơ",
+          "nfd": "Ơ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "Ớ",
+          "nfd": "Ớ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ờ",
+          "nfd": "Ờ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ở",
+          "nfd": "Ở",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ỡ",
+          "nfd": "Ỡ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "Ợ",
+          "nfd": "Ợ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "U",
+          "nfd": "U",
+          "widthNFC": 22.944000244140625,
+          "widthNFD": 22.944000244140625,
+          "ascent": 23,
+          "descent": 1
+        },
+        {
+          "nfc": "Ú",
+          "nfd": "Ú",
+          "widthNFC": 22.944000244140625,
+          "widthNFD": 22.944000244140625,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ù",
+          "nfd": "Ù",
+          "widthNFC": 22.944000244140625,
+          "widthNFD": 22.944000244140625,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ủ",
+          "nfd": "Ủ",
+          "widthNFC": 22.944000244140625,
+          "widthNFD": 22.944000244140625,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ũ",
+          "nfd": "Ũ",
+          "widthNFC": 22.944000244140625,
+          "widthNFD": 22.944000244140625,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "Ụ",
+          "nfd": "Ụ",
+          "widthNFC": 22.944000244140625,
+          "widthNFD": 22.944000244140625,
+          "ascent": 23,
+          "descent": 6
+        },
+        {
+          "nfc": "Ư",
+          "nfd": "Ư",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 25,
+          "descent": 1
+        },
+        {
+          "nfc": "Ứ",
+          "nfd": "Ứ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ừ",
+          "nfd": "Ừ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 30,
+          "descent": 1
+        },
+        {
+          "nfc": "Ử",
+          "nfd": "Ử",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 32,
+          "descent": 1
+        },
+        {
+          "nfc": "Ữ",
+          "nfd": "Ữ",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 29,
+          "descent": 1
+        },
+        {
+          "nfc": "Ự",
+          "nfd": "Ự",
+          "widthNFC": 24.89599609375,
+          "widthNFD": 24.89599609375,
+          "ascent": 25,
+          "descent": 6
+        },
+        {
+          "nfc": "Y",
+          "nfd": "Y",
+          "widthNFC": 20,
+          "widthNFD": 20,
+          "ascent": 23,
+          "descent": 0
+        },
+        {
+          "nfc": "Ý",
+          "nfd": "Ý",
+          "widthNFC": 20,
+          "widthNFD": 20,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỳ",
+          "nfd": "Ỳ",
+          "widthNFC": 20,
+          "widthNFD": 20,
+          "ascent": 30,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỷ",
+          "nfd": "Ỷ",
+          "widthNFC": 20,
+          "widthNFD": 20,
+          "ascent": 32,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỹ",
+          "nfd": "Ỹ",
+          "widthNFC": 20,
+          "widthNFD": 20,
+          "ascent": 29,
+          "descent": 0
+        },
+        {
+          "nfc": "Ỵ",
+          "nfd": "Ỵ",
+          "widthNFC": 20,
+          "widthNFD": 20,
+          "ascent": 23,
+          "descent": 6
+        }
+      ]
+    }
+  ],
+  "note": "font.check và cmap không chứng minh per-glyph rendered face; canvas metrics không thay quan sát ink trên ảnh."
+}

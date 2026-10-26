@@ -1,0 +1,249 @@
+- generic "Thanh điều hướng thích nghi":
+  - link "Trang chủ":
+    - /url: /
+  - link "Lịch sử":
+    - /url: /ve-hue
+  - link "Khám phá":
+    - /url: /kham-pha
+  - link "Di chuyển":
+    - /url: /cam-nang
+  - link "Lưu trú":
+    - /url: /luu-tru
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - navigation "Thanh điều hướng sidebar":
+    - link "Trang chủ":
+      - /url: /
+      - generic: Trang chủ
+    - link "Lịch sử":
+      - /url: /ve-hue
+      - generic: Lịch sử
+    - link "Khám phá":
+      - /url: /kham-pha
+      - generic: Khám phá
+    - link "Di chuyển":
+      - /url: /cam-nang
+      - generic: Di chuyển
+    - link "Lưu trú":
+      - /url: /luu-tru
+      - generic: Lưu trú
+  - generic: Phiên bản V2.3
+- banner:
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - link "Tìm kiếm":
+    - /url: /tim-kiem
+- main:
+  - textbox "Tìm kiếm nội dung Huế":
+    - /placeholder: "Tìm homestay, khách sạn theo tên, khu vực (VD: Lucia, Tropikult, Mường Thanh, sông Hương)..."
+  - button "Tìm toàn site":
+    - generic: Tìm toàn site
+  - button "Yêu thích (tính năng đang phát triển)" [disabled]:
+  - generic "Huế Travel Pro":
+  - generic: LƯU TRÚ
+  - heading "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn." [level=1]
+  - button "Tất cả"
+  - button "Homestay"
+  - button "Khách sạn"
+  - button "Resort"
+  - combobox "Loại hình lưu trú":
+    - 'option "Loại hình: Tất cả" [selected]'
+    - option "Homestay mộc mạc"
+    - option "Khách sạn tiện nghi"
+    - option "Khu nghỉ dưỡng (Resort)"
+  - combobox "Khu vực lưu trú":
+    - 'option "Khu vực: Tất cả" [selected]'
+    - option "Trung tâm TP. Huế"
+    - option "Ven sông Hương"
+    - option "Gần Đại Nội / Thành Nội"
+    - option "Ngoại ô thanh bình"
+  - combobox "Khoảng giá phòng":
+    - 'option "Khoảng giá: Tham khảo chung theo mùa" [selected]'
+    - option "Phân khúc phổ thông (Cần kiểm chứng)"
+    - option "Phân khúc cao cấp & resort (Cần kiểm chứng)"
+    - option "Giá theo mùa & loại phòng"
+  - combobox "Tiện nghi lưu trú":
+    - 'option "Tiện nghi: Tất cả" [selected]'
+    - option "Có Wi-Fi tốc độ cao"
+    - option "Bữa sáng / Quán cà phê"
+    - option "Có hồ bơi"
+    - option "Bãi đỗ xe ô tô"
+  - text: Hiển thị
+  - strong: "8"
+  - text: cơ sở lưu trú
+  - generic: "* Đơn vị: VNĐ/phòng/đêm (Biến động theo thời điểm đặt)"
+  - heading "Gợi ý theo nhu cầu" [level=3]:
+    - generic: Gợi ý theo nhu cầu
+  - heading "Homestay trung tâm" [level=4]
+  - paragraph: Ấm cúng, giá tốt
+  - heading "Khách sạn 3–5 sao" [level=4]
+  - paragraph: Tiện nghi, view đẹp
+  - heading "Ven sông Hương" [level=4]
+  - paragraph: Thư giãn, thơ mộng
+  - heading "Cho gia đình" [level=4]
+  - paragraph: Phòng rộng, tiện nghi
+  - heading "Resort sinh thái" [level=4]
+  - paragraph: Không gian xanh
+  - heading "Danh sách lưu trú (8 cơ sở)" [level=2]:
+    - generic: Danh sách lưu trú
+    - generic: (8 cơ sở)
+  - link "Lucia Homestay & Coffee":
+    - /url: /luu-tru/lucia-homestay-coffee
+  - paragraph:
+    - generic: Trung tâm Huế
+  - generic: Homestay
+  - generic: Wi-Fi tốc độ cao
+  - generic: Quán cà phê sân vườn
+  - generic: Điều hòa nhiệt độ
+  - generic: Gần khu phố ẩm thực
+  - generic: "Giá tham khảo:"
+  - generic: Theo mùa & loại phòng (Chưa xác minh riêng)
+  - generic: "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+  - link "Chi tiết":
+    - /url: /luu-tru/lucia-homestay-coffee
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Lucia%20Homestay%20%26%20Coffee%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Tropikult Homestay":
+    - /url: /luu-tru/tropikult-homestay
+  - paragraph:
+    - generic: Trung tâm Huế
+  - generic: Homestay
+  - generic: Wi-Fi miễn phí
+  - generic: Sân vườn nhiệt đới
+  - generic: Bếp chung tự nấu
+  - generic: Khu sinh hoạt chung
+  - generic: "Giá tham khảo:"
+  - generic: Theo mùa & loại phòng (Chưa xác minh riêng)
+  - generic: "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+  - link "Chi tiết":
+    - /url: /luu-tru/tropikult-homestay
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Tropikult%20Homestay%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Mường Thanh Holiday Huế":
+    - /url: /luu-tru/muong-thanh-holiday-hue
+  - paragraph:
+    - generic: Gần sông Hương
+  - generic: Khách sạn
+  - generic: Hồ bơi ngoài trời
+  - generic: Nhà hàng ẩm thực Á - Âu
+  - generic: Phòng tập thể dục
+  - generic: Dịch vụ spa thư giãn
+  - generic: Wi-Fi toàn khuôn viên
+  - generic: "Giá tham khảo:"
+  - generic: Theo hạng phòng & thời điểm (Chưa xác minh riêng)
+  - generic: "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+  - link "Chi tiết":
+    - /url: /luu-tru/muong-thanh-holiday-hue
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=M%C6%B0%E1%BB%9Dng%20Thanh%20Holiday%20Hu%E1%BA%BF%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Indochine Palace":
+    - /url: /luu-tru/indochine-palace
+  - paragraph:
+    - generic: Trung tâm Huế
+  - generic: Khách sạn
+  - generic: Hồ bơi ngoài trời tiêu chuẩn
+  - generic: Le Spa & Sauna cao cấp
+  - generic: Trung tâm thể hình hiện đại
+  - generic: Nhà hàng La Brasserie ẩm thực cung đình
+  - generic: Phòng dạ tiệc & hội nghị lớn
+  - generic: "Giá tham khảo:"
+  - generic: Theo hạng phòng & thời điểm (Chưa xác minh riêng)
+  - generic: "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+  - link "Chi tiết":
+    - /url: /luu-tru/indochine-palace
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Indochine%20Palace%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Nam Mua Boutique":
+    - /url: /luu-tru/nam-mua-boutique
+  - paragraph:
+    - generic: Gần Đại Nội Huế
+  - generic: Homestay
+  - generic: Wi-Fi miễn phí
+  - generic: Kiến trúc nhà rường cổ
+  - generic: Khu thưởng trà thư thái
+  - generic: Điều hòa nhiệt độ
+  - generic: "Giá tham khảo:"
+  - generic: Theo mùa & loại phòng (Chưa xác minh riêng)
+  - generic: "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+  - link "Chi tiết":
+    - /url: /luu-tru/nam-mua-boutique
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Nam%20Mua%20Boutique%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "a-mâze house":
+    - /url: /luu-tru/a-maze-house
+  - paragraph:
+    - generic: Trung tâm Huế
+  - generic: Homestay
+  - generic: Wi-Fi tốc độ cao
+  - generic: Sân vườn ngập tràn cây xanh
+  - generic: Khu bếp sinh hoạt chung
+  - generic: Góc đọc sách và làm việc
+  - generic: "Giá tham khảo:"
+  - generic: Theo mùa & loại phòng (Chưa xác minh riêng)
+  - generic: "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+  - link "Chi tiết":
+    - /url: /luu-tru/a-maze-house
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=a-m%C3%A2ze%20house%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Senna Huế Hotel":
+    - /url: /luu-tru/senna-hue-hotel
+  - paragraph:
+    - generic: Gần sông Hương
+  - generic: Khách sạn
+  - generic: Hồ bơi ngoài trời phong cách Pháp
+  - generic: Nhà hàng ẩm thực Âu - Á
+  - generic: Quầy bar cà phê sang trọng
+  - generic: Phòng hội thảo tiện nghi
+  - generic: Wi-Fi miễn phí toàn khách sạn
+  - generic: "Giá tham khảo:"
+  - generic: Theo hạng phòng & thời điểm (Chưa xác minh riêng)
+  - generic: "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+  - link "Chi tiết":
+    - /url: /luu-tru/senna-hue-hotel
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Senna%20Hu%E1%BA%BF%20Hotel%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Pilgrimage Village Resort":
+    - /url: /luu-tru/pilgrimage-village
+  - paragraph:
+    - generic: Ngoại ô Huế
+  - generic: Resort
+  - generic: Hồ bơi vô cực lớn giữa thiên nhiên
+  - generic: Vedana Wellness & Spa thảo mộc
+  - generic: Lớp tập Yoga và Thiền buổi sáng
+  - generic: Nhà hàng Junrei ẩm thực cung đình & mộc mạc
+  - generic: Xe đưa đón miễn phí vào trung tâm
+  - generic: "Giá tham khảo:"
+  - generic: Theo hạng phòng & thời điểm (Chưa xác minh riêng)
+  - generic: "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+  - link "Chi tiết":
+    - /url: /luu-tru/pilgrimage-village
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Pilgrimage%20Village%20Resort%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - heading "Tiện nghi phổ biến" [level=3]
+  - button "Wi-Fi tốc độ cao":
+    - generic: Wi-Fi tốc độ cao
+  - button "Bữa sáng kèm phòng":
+    - generic: Bữa sáng kèm phòng
+  - button "Hồ bơi ngoài trời":
+    - generic: Hồ bơi ngoài trời
+  - button "Bãi đỗ xe ô tô":
+    - generic: Bãi đỗ xe ô tô
+  - heading "Kinh nghiệm đặt phòng ở Huế" [level=3]:
+    - generic: Kinh nghiệm đặt phòng ở Huế
+  - generic: Nên đặt sớm vào mùa cao điểm (tháng 3 – tháng 8 và các dịp Festival).
+  - generic: Ưu tiên cơ sở có hình ảnh thực tế và đánh giá minh bạch.
+  - generic: Kiểm tra chính sách hủy phòng và giờ nhận/trả phòng.
+  - generic: Liên hệ trực tiếp cơ sở để nhận giá ưu đãi khi ở dài ngày.
+- alert

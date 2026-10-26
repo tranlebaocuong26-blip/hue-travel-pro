@@ -1,0 +1,59 @@
+{
+  "homeLocks": {
+    "desktopBrand": {
+      "imgWidth": 48,
+      "imgHeight": 48,
+      "hueFontSize": null,
+      "travelFontSize": null
+    },
+    "displayLines": {
+      "h1Text": "HUẾ",
+      "h1Font": "\"Playfair Display\", Georgia, \"Times New Roman\", serif",
+      "travelProText": "TRAVEL PRO",
+      "travelProFont": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "hueCoChiHayText": "Huế có chi hay?",
+      "hueCoChiHayFont": "\"Playfair Display\", Georgia, \"Times New Roman\", cursive, serif"
+    },
+    "foodPlaceholder": {
+      "line1Text": null,
+      "line1Font": null,
+      "line1Size": null,
+      "line1Color": null,
+      "line2Text": null,
+      "line2Font": null,
+      "line2Size": null,
+      "line2Color": null
+    }
+  },
+  "subpageCheck": {
+    "sidebarBrand": {
+      "imgWidth": 44,
+      "imgHeight": 44,
+      "hueFontSize": "18px",
+      "travelFontSize": "10px"
+    },
+    "subpageH1": {
+      "text": "Lịch sử Huế",
+      "fontFamily": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif"
+    }
+  },
+  "t05": {
+    "sectionExists": true,
+    "rentalLinksCount": 12,
+    "sampleLink": "/cam-nang/thue-xe/dong-xanh-motorbike"
+  },
+  "t07": {
+    "categoryCount": 7,
+    "totalCards": 16
+  },
+  "a01": {
+    "activeTag": "A",
+    "hasOutlineOrRing": true
+  },
+  "mobileBrand": {
+    "imgWidth": 36,
+    "imgHeight": 36,
+    "hueFontSize": "16px",
+    "travelFontSize": "9px"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "src/app/page.tsx": {
+    "hash": "af4bb3b4bb0cdf61f6b9514e04fbee33b9be6b5d4f5151ab3d0ebbc5e2cbc4d8",
+    "bytes": 13696
+  },
+  "src/app/ve-hue/page.tsx": {
+    "hash": "000216141ddf9b3712446d08de8afc8401378118f85beacb8129a49579970318",
+    "bytes": 13928
+  },
+  "src/app/kham-pha/page.tsx": {
+    "hash": "ecdbe9147443089f325aa97456c923b762a36ec9279a38f7485799dd8fe02986",
+    "bytes": 34495
+  },
+  "src/app/an-uong/page.tsx": {
+    "hash": "ed0ae2b6878f7cc75234611ee255c9fa3cb035ed038b058e2df67b559448d723",
+    "bytes": 27862
+  },
+  "src/app/cam-nang/page.tsx": {
+    "hash": "ab6fc6f79d24a0c0fce5afeb631de25b065b937446a9846829ea2e26fbc00d51",
+    "bytes": 30325
+  },
+  "src/app/luu-tru/page.tsx": {
+    "hash": "9aacc13f4a35b12b977d73bdbdd147e8fa5d3dc8204f4b321801dcde718d2dc1",
+    "bytes": 31301
+  },
+  "src/app/layout.tsx": {
+    "hash": "afd53a690202fdf12ca38388bc6115bfba10b9bdf9fd38a1fd123463b39d8d30",
+    "bytes": 1869
+  },
+  "src/app/globals.css": {
+    "hash": "06f5c99683a2e9a77ffabc02f29a021f374e0ecd88d799a93d1623cc8115ab22",
+    "bytes": 1475
+  },
+  "src/components/layout/Shell.tsx": {
+    "hash": "e7120656768b22def68eda5120309daec8c08638c49dfb96e91898767b2907cb",
+    "bytes": 1740
+  },
+  "src/components/navigation/AdaptiveNavigation.tsx": {
+    "hash": "ac3b3f4d38d1c031050c4eda6fc8c0f53225854d9fe05bdfdbbc0ed187e0b405",
+    "bytes": 17063
+  },
+  "src/components/navigation/Header.tsx": {
+    "hash": "0595995142c2edbc9181782484f8dbbd43fa051999763ffdee3f0791d15b5cb1",
+    "bytes": 4329
+  },
+  "tailwind.config.ts": {
+    "hash": "c827ee33e39a44c5d05f1092cd1fe6916703034809af24b0491a4a9b27e23713",
+    "bytes": 1302
+  }
+}

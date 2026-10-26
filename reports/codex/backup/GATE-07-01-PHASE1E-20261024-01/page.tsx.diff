@@ -1,0 +1,239 @@
+diff --git "a/A:\\tr\303\255 tu\341\273\207 nh\303\242n t\341\272\241o\\BAI_3\\hue-travel-pro\\reports\\codex\\backup\\GATE-07-01-PHASE1E-20261024-01\\page.tsx.before" b/src/app/page.tsx
+index 622bf77..328d8b1 100644
+--- "a/A:\\tr\303\255 tu\341\273\207 nh\303\242n t\341\272\241o\\BAI_3\\hue-travel-pro\\reports\\codex\\backup\\GATE-07-01-PHASE1E-20261024-01\\page.tsx.before"	
++++ b/src/app/page.tsx
+@@ -2,9 +2,7 @@
+ 
+ import React from "react";
+ import Image from "next/image";
+-import Container from "@/components/layout/Container";
+ import Button from "@/components/common/Button";
+-import Card from "@/components/common/Card";
+ import { useTransition } from "@/context/TransitionContext";
+ import { ArrowRight, Sparkles, MapPin, Users, HeartHandshake } from "lucide-react";
+ 
+@@ -18,42 +16,51 @@ export default function HomePage() {
+ 
+   return (
+     <div
+-      className="relative flex-1 flex flex-col justify-between w-full mx-auto max-w-[1536px] rounded-[24px] sm:rounded-[32px] lg:rounded-[36px] overflow-hidden border border-white/20 shadow-2xl shadow-indigo-950/25 bg-no-repeat bg-right-top bg-cover min-h-[calc(100vh-1.25rem)] sm:min-h-[calc(100vh-1.75rem)] lg:min-h-[calc(100svh-2rem)] lg:flex-none p-4 sm:p-6 lg:p-7 pt-20 sm:pt-24 lg:pt-20 lg:[@media(max-height:820px)]:pt-[72px] lg:[@media(max-height:820px)]:pb-5 transition-all"
++      className="relative flex-1 flex flex-col w-full mx-auto max-w-[1536px] rounded-[24px] sm:rounded-[32px] lg:rounded-[36px] overflow-hidden border border-white/25 shadow-2xl shadow-indigo-950/25 bg-no-repeat bg-right-top bg-cover min-h-[calc(100vh-1.25rem)] sm:min-h-[calc(100vh-1.75rem)] lg:min-h-[calc(100svh-2rem)] lg:flex-none p-4 sm:p-6 lg:p-7 pt-6 sm:pt-8 md:pt-24 lg:pt-24 lg:[@media(max-height:820px)]:pt-20 lg:[@media(max-height:820px)]:pb-5 transition-all"
+       style={{
+-        backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.99) 0%, rgba(37, 28, 57, 0.96) 8%, rgba(65, 38, 115, 0.82) 42%, rgba(37, 28, 57, 0.35) 100%), url('/images/heroes/hero_trang_chu.png')`,
++        backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.94) 0%, rgba(47, 32, 81, 0.78) 38%, rgba(37, 28, 57, 0.12) 100%), url('/images/heroes/hero_trang_chu.png')`,
+       }}
+     >
+       {/* Hero Center-Left Content */}
+-      <Container className="my-auto py-2 sm:py-4 lg:[@media(max-height:820px)]:py-2">
+-        <div className="max-w-2xl space-y-4 sm:space-y-5 lg:[@media(max-height:820px)]:space-y-3">
++      <div className="flex flex-1 items-center px-1 py-5 sm:px-3 sm:py-7 lg:px-4 lg:py-6 lg:[@media(max-height:820px)]:py-3">
++        <div className="w-full max-w-[34rem]">
+           {/* Tagline Badge */}
+-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-electric-lime text-xs font-semibold tracking-wider uppercase">
++          <div className="mb-4 inline-flex items-center gap-2 text-[11px] sm:text-xs font-medium tracking-[0.28em] uppercase text-[#F3DFDE]">
+             <Sparkles className="w-3.5 h-3.5" />
+             <span>Khám phá cố đô</span>
+           </div>
+ 
+           {/* Main Hero Headings */}
+-          <div className="space-y-0.5">
+-            <h1 className="font-serif font-black tracking-tight text-5xl sm:text-6xl lg:text-7xl xl:text-8xl lg:[@media(max-height:820px)]:text-[80px] text-white leading-none drop-shadow-md">
++          <div>
++            <h1
++              className="font-normal tracking-tight text-[4.5rem] sm:text-[5.5rem] lg:text-[7rem] lg:[@media(max-height:820px)]:text-[6rem] text-[#FFF9F2] leading-none drop-shadow-sm"
++              style={{ fontFamily: '"Palatino Linotype", "Times New Roman", serif' }}
++            >
+               HUẾ
+             </h1>
+-            <div className="font-sans font-extrabold tracking-tight text-3xl sm:text-4xl lg:text-5xl xl:text-6xl text-[#E8EAFF] leading-tight drop-shadow-md">
++            <div
++              className="font-normal tracking-[0.015em] text-[2.5rem] sm:text-[3rem] lg:text-[3.5rem] lg:[@media(max-height:820px)]:text-[3rem] text-[#F4CBDF] leading-[1.05] drop-shadow-sm"
++              style={{ fontFamily: '"Palatino Linotype", "Times New Roman", serif' }}
++            >
+               TRAVEL PRO
+             </div>
+-            <p className="text-2xl sm:text-3xl lg:text-4xl font-normal italic text-[#FFE8D6] font-sans drop-shadow-sm pt-1">
++            <p
++              className="mt-3 text-[1.875rem] sm:text-[2.25rem] lg:text-[2.5rem] lg:[@media(max-height:820px)]:text-[2.25rem] leading-[1.35] font-normal italic text-[#FFE1C9] drop-shadow-sm"
++              style={{ fontFamily: '"Palatino Linotype", "Times New Roman", serif' }}
++            >
+               Huế có chi hay?
+             </p>
+           </div>
+ 
+           {/* Description */}
+-          <p className="text-white/90 text-sm sm:text-base lg:text-lg max-w-xl leading-relaxed drop-shadow">
++          <p className="mt-5 max-w-[31rem] text-sm sm:text-base font-normal leading-[1.75] text-white/90 drop-shadow-sm">
+             Khám phá vẻ đẹp trầm mặc và nên thơ của Huế — nơi những di sản ngàn
+             năm, ẩm thực tinh tế và con người hiền hòa cùng tạo nên một hành
+             trình đáng nhớ.
+           </p>
+ 
+           {/* Action CTAs (Xem video ẩn theo Gate 07-01 directive vì chưa có tệp video thực tế) */}
+-          <div className="flex flex-wrap items-center gap-4 pt-2 lg:[@media(max-height:820px)]:pt-0">
++          <div className="mt-6 lg:[@media(max-height:820px)]:mt-5 flex flex-wrap items-center gap-4">
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+@@ -72,34 +79,33 @@ export default function HomePage() {
+             </a>
+           </div>
+         </div>
+-      </Container>
++      </div>
+ 
+       {/* Bottom Floating Glass Dock */}
+-      <Container className="pt-2 pb-1 sm:pb-2">
+-        <Card variant="glass" className="p-3 sm:p-4 lg:[@media(max-height:820px)]:p-3 bg-black/40 backdrop-blur-xl border-white/20 rounded-2xl sm:rounded-3xl shadow-2xl">
+-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 items-stretch">
++      <div className="mt-4 sm:mt-6 lg:mt-4 rounded-[24px] sm:rounded-[28px] border border-white/25 bg-white/10 p-3 shadow-lg backdrop-blur-md">
++          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-[1fr_1fr_1fr_1.35fr] gap-3 items-stretch">
+             {/* Card 1: Di tích - Lịch sử */}
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+-              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3 lg:[@media(max-height:820px)]:space-y-2"
++              className="relative min-h-[188px] sm:min-h-[192px] lg:min-h-[176px] lg:[@media(max-height:820px)]:min-h-[164px] rounded-2xl overflow-hidden border border-white/25 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer"
+             >
+-              <div className="relative aspect-[16/9] lg:[@media(max-height:820px)]:aspect-auto lg:[@media(max-height:820px)]:h-24 w-full rounded-xl overflow-hidden bg-black/30">
++              <div className="absolute inset-0">
+                 <Image
+                   src="/images/cards/card_dai_noi.png"
+                   alt="Di tích Đại Nội Huế"
+                   fill
+                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+-                  className="object-cover group-hover:scale-105 transition-transform duration-300"
++                  className="object-cover object-right-bottom scale-[1.5] group-hover:scale-[1.55] transition-transform duration-300"
+                 />
+-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
++                <div className="absolute inset-0 bg-gradient-to-t from-[#21182F] via-[#21182F]/25 to-transparent pointer-events-none" />
+               </div>
+-              <div className="flex items-end justify-between gap-2 pt-0.5">
+-                <div>
+-                  <h3 className="font-bold text-white text-sm sm:text-base leading-tight">
++              <div className="relative flex items-end justify-between gap-3 p-3">
++                <div className="min-w-0">
++                  <h3 className="font-semibold text-white text-sm sm:text-base leading-tight">
+                     Di tích - Lịch sử
+                   </h3>
+-                  <p className="text-xs text-white/80 mt-1 line-clamp-1 lg:line-clamp-none">
++                  <p className="text-xs leading-relaxed text-white/85 mt-1">
+                     Khám phá dấu ấn triều Nguyễn
+                   </p>
+                 </div>
+@@ -113,24 +119,24 @@ export default function HomePage() {
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+-              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3 lg:[@media(max-height:820px)]:space-y-2"
++              className="relative min-h-[188px] sm:min-h-[192px] lg:min-h-[176px] lg:[@media(max-height:820px)]:min-h-[164px] rounded-2xl overflow-hidden border border-white/25 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer"
+             >
+-              <div className="relative aspect-[16/9] lg:[@media(max-height:820px)]:aspect-auto lg:[@media(max-height:820px)]:h-24 w-full rounded-xl overflow-hidden bg-black/30">
++              <div className="absolute inset-0">
+                 <Image
+                   src="/images/cards/card_thien_mu.png"
+                   alt="Chùa Thiên Mụ"
+                   fill
+                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+-                  className="object-cover group-hover:scale-105 transition-transform duration-300"
++                  className="object-cover object-right-bottom scale-[1.5] group-hover:scale-[1.55] transition-transform duration-300"
+                 />
+-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
++                <div className="absolute inset-0 bg-gradient-to-t from-[#21182F] via-[#21182F]/25 to-transparent pointer-events-none" />
+               </div>
+-              <div className="flex items-end justify-between gap-2 pt-0.5">
+-                <div>
+-                  <h3 className="font-bold text-white text-sm sm:text-base leading-tight">
++              <div className="relative flex items-end justify-between gap-3 p-3">
++                <div className="min-w-0">
++                  <h3 className="font-semibold text-white text-sm sm:text-base leading-tight">
+                     Văn hoá - Tâm linh
+                   </h3>
+-                  <p className="text-xs text-white/80 mt-1 line-clamp-1 lg:line-clamp-none">
++                  <p className="text-xs leading-relaxed text-white/85 mt-1">
+                     Chạm vào hồn cốt xứ Huế
+                   </p>
+                 </div>
+@@ -144,22 +150,22 @@ export default function HomePage() {
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+-              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3 lg:[@media(max-height:820px)]:space-y-2"
++              className="relative min-h-[188px] sm:min-h-[192px] lg:min-h-[176px] lg:[@media(max-height:820px)]:min-h-[164px] rounded-2xl overflow-hidden border border-white/25 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer"
+             >
+-              <div className="relative aspect-[16/9] lg:[@media(max-height:820px)]:aspect-auto lg:[@media(max-height:820px)]:h-24 w-full rounded-xl overflow-hidden bg-white/5 border border-white/10 flex flex-col items-center justify-center text-center p-3">
+-                <span className="text-[11px] font-semibold text-amber-200/90 tracking-wide uppercase">
++              <div className="absolute inset-0 flex flex-col items-center justify-center pb-16 px-3 text-center bg-white/[0.06]">
++                <span className="text-[10px] font-medium text-amber-100/90 tracking-[0.12em] uppercase">
+                   Đang chờ tư liệu ảnh
+                 </span>
+-                <span className="text-[10px] text-white/50 mt-0.5">
++                <span className="text-[10px] text-white/60 mt-1">
+                   Ẩm thực Cố Đô (Đợt 1)
+                 </span>
+               </div>
+-              <div className="flex items-end justify-between gap-2 pt-0.5">
+-                <div>
+-                  <h3 className="font-bold text-white text-sm sm:text-base leading-tight">
++              <div className="relative flex items-end justify-between gap-3 p-3">
++                <div className="min-w-0">
++                  <h3 className="font-semibold text-white text-sm sm:text-base leading-tight">
+                     Ẩm thực Huế
+                   </h3>
+-                  <p className="text-xs text-white/80 mt-1 line-clamp-1 lg:line-clamp-none">
++                  <p className="text-xs leading-relaxed text-white/85 mt-1">
+                     Tinh hoa hương vị cố đô
+                   </p>
+                 </div>
+@@ -170,34 +176,31 @@ export default function HomePage() {
+             </a>
+ 
+             {/* Card 4: Giá trị cốt lõi phi định lượng */}
+-            <div className="p-3 sm:p-4 rounded-2xl bg-white/10 border border-white/15 flex items-center justify-around text-center h-full">
+-              <div>
+-                <div className="flex items-center justify-center text-warm-gold mb-1">
+-                  <MapPin className="w-4 h-4" />
++            <div className="grid grid-cols-3 items-center gap-2 rounded-2xl bg-white/[0.06] px-3 py-6 text-center divide-x divide-white/15">
++              <div className="min-w-0 px-1">
++                <div className="flex items-center justify-center text-warm-ivory mb-3">
++                  <MapPin className="w-5 h-5" />
+                 </div>
+-                <span className="block text-sm sm:text-base font-bold text-white leading-tight">Di sản</span>
+-                <span className="text-[10px] text-white/80">Cố đô nghìn năm</span>
++                <span className="block text-sm font-medium text-white leading-snug">Di sản</span>
++                <span className="mt-1.5 block text-[10px] leading-relaxed text-white/75">Cố đô nghìn năm</span>
+               </div>
+-              <div className="w-px h-8 bg-white/20" />
+-              <div>
+-                <div className="flex items-center justify-center text-soft-purple mb-1">
+-                  <Users className="w-4 h-4" />
++              <div className="min-w-0 px-1">
++                <div className="flex items-center justify-center text-warm-ivory mb-3">
++                  <Users className="w-5 h-5" />
+                 </div>
+-                <span className="block text-sm sm:text-base font-bold text-white leading-tight">Cẩm nang</span>
+-                <span className="text-[10px] text-white/80">Du lịch tự túc</span>
++                <span className="block text-sm font-medium text-white leading-snug">Cẩm nang</span>
++                <span className="mt-1.5 block text-[10px] leading-relaxed text-white/75">Du lịch tự túc</span>
+               </div>
+-              <div className="w-px h-8 bg-white/20" />
+-              <div>
+-                <div className="flex items-center justify-center text-electric-lime mb-1">
+-                  <HeartHandshake className="w-4 h-4" />
++              <div className="min-w-0 px-1">
++                <div className="flex items-center justify-center text-warm-ivory mb-3">
++                  <HeartHandshake className="w-5 h-5" />
+                 </div>
+-                <span className="block text-sm sm:text-base font-bold text-white leading-tight">Trải nghiệm</span>
+-                <span className="text-[10px] text-white/80">Văn hóa bản địa</span>
++                <span className="block text-sm font-medium text-white leading-snug">Trải nghiệm</span>
++                <span className="mt-1.5 block text-[10px] leading-relaxed text-white/75">Văn hóa bản địa</span>
+               </div>
+             </div>
+           </div>
+-        </Card>
+-      </Container>
++      </div>
+     </div>
+   );
+ }

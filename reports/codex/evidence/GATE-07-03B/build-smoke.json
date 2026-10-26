@@ -1,0 +1,47 @@
+[
+  {
+    "route": "home",
+    "vp": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "method": "Native AX and screenshot, fresh paint"
+  },
+  {
+    "route": "ve-hue",
+    "vp": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "method": "Native AX and screenshot, fresh paint"
+  },
+  {
+    "route": "kham-pha",
+    "vp": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "method": "Native AX and screenshot, fresh paint"
+  },
+  {
+    "route": "cam-nang",
+    "vp": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "method": "Native AX and screenshot, fresh paint"
+  },
+  {
+    "route": "luu-tru",
+    "vp": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "method": "Native AX and screenshot, fresh paint"
+  }
+]

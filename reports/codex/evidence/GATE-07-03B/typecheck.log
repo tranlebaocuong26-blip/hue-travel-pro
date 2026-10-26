@@ -1,0 +1,3 @@
+Command: pnpm exec tsc --noEmit --incremental false
+Recorded tool result: exit_code=0, output empty.
+The command emitted no stdout/stderr lines, so Tee-Object produced no file. This record preserves that observed result; see quality-gates.json.

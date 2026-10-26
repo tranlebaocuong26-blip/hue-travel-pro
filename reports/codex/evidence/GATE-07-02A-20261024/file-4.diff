@@ -1,0 +1,22 @@
+diff --git a/reports/codex/evidence/GATE-07-02A-20261024/file-4.before.tsx b/src/app/cam-nang/thue-xe/[slug]/page.tsx
+index 9eaff07..c4470de 100644
+--- a/reports/codex/evidence/GATE-07-02A-20261024/file-4.before.tsx
++++ b/src/app/cam-nang/thue-xe/[slug]/page.tsx
+@@ -56,7 +56,7 @@ export default function RentalDetailPage({ params }: RentalDetailPageProps) {
+           href="/cam-nang"
+           className="hover:text-deep-violet transition-colors flex items-center gap-1 shrink-0"
+         >
+-          <span>Cẩm nang</span>
++          <span>Di chuyển</span>
+         </Link>
+         <ChevronRight className="w-3 h-3 text-gray-400 shrink-0" />
+         <span className="text-gray-400 shrink-0">Thuê xe máy</span>
+@@ -73,7 +73,7 @@ export default function RentalDetailPage({ params }: RentalDetailPageProps) {
+           className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white border border-gray-200 text-gray-700 hover:text-deep-violet hover:border-deep-violet/30 text-xs font-semibold shadow-xs transition-all"
+         >
+           <ArrowLeft className="w-4 h-4" />
+-          <span>Quay lại Cẩm nang di chuyển</span>
++          <span>Quay lại Di chuyển</span>
+         </Link>
+ 
+         <a

@@ -1,0 +1,80 @@
+[
+  {
+    "route": "home",
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "home",
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "home",
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "home",
+    "text": "TRAVEL PRO",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "home",
+    "text": "Huế có chi hay?",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "ve-hue",
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "ve-hue",
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "kham-pha",
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "kham-pha",
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "cam-nang",
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "cam-nang",
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "luu-tru",
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  },
+  {
+    "route": "luu-tru",
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "pixelIdentical": true
+  }
+]

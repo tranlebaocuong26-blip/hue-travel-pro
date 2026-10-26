@@ -1,0 +1,31 @@
+[
+  {
+    "names": [
+      "Mường Thanh Holiday Huế"
+    ],
+    "query": "Mường Thanh",
+    "url": "http://192.168.1.12:3000/luu-tru?q=M%C6%B0%E1%BB%9Dng+Thanh"
+  },
+  {
+    "names": [
+      "Mường Thanh Holiday Huế"
+    ],
+    "query": "muong thanh",
+    "url": "http://192.168.1.12:3000/luu-tru?q=muong+thanh"
+  },
+  {
+    "unknown": "Nhóm cơ sở lưu trú chưa có bảng giá kiểm chứng riêng (1 cơ sở)",
+    "url": "http://192.168.1.12:3000/luu-tru?q=muong+thanh&budget=budget-standard"
+  },
+  {
+    "cards": 8,
+    "query": "",
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "values": [
+      "all",
+      "all",
+      "all",
+      "all"
+    ]
+  }
+]

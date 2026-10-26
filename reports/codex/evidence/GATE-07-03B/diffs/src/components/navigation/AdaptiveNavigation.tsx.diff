@@ -1,0 +1,56 @@
+--- src/components/navigation/AdaptiveNavigation.tsx (before)
++++ src/components/navigation/AdaptiveNavigation.tsx (after)
+@@ -76,7 +76,7 @@
+         id="desktop-adaptive-nav"
+         data-morph-state={isSidebarVisual ? "sidebar" : "capsule"}
+         aria-label="Thanh điều hướng thích nghi"
+-        className="hidden md:block fixed z-50 overflow-hidden box-border pointer-events-auto"
++        className="font-ui hidden md:block fixed z-50 overflow-hidden box-border pointer-events-auto"
+         style={{
+           top: isSidebarVisual ? "0px" : "16px",
+           left: isSidebarVisual ? "0px" : "calc(50% - 265px)",
+@@ -181,7 +181,7 @@
+                   priority
+                 />
+               </div>
+-              <div>
++              <div className="font-brand">
+                 <span className="block font-bold tracking-wider text-dark-ink text-lg leading-tight">
+                   HUẾ
+                 </span>
+@@ -262,7 +262,7 @@
+               priority
+             />
+           </div>
+-          <div>
++          <div className="font-brand">
+             <span className="block font-bold tracking-wider text-white text-lg leading-tight">
+               HUẾ
+             </span>
+@@ -291,7 +291,7 @@
+          ========================================================================= */}
+       {/* Mobile Top Header on Landing */}
+       {isCurrentLanding && (
+-        <header className="md:hidden w-full pt-4 pb-2 px-4 relative z-50">
++        <header className="font-ui md:hidden w-full pt-4 pb-2 px-4 relative z-50">
+           <div className="flex items-center justify-between">
+             <a
+               href="/"
+@@ -308,7 +308,7 @@
+                   priority
+                 />
+               </div>
+-              <div>
++              <div className="font-brand">
+                 <span className="block font-bold tracking-wider text-white text-base leading-tight">
+                   HUẾ
+                 </span>
+@@ -372,7 +372,7 @@
+       {!isCurrentLanding && (
+         <nav
+           aria-label="Điều hướng di động chính"
+-          className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-gray-200 grid grid-cols-5 items-center px-1 py-1 shadow-[0_-4px_20px_rgba(0,0,0,0.06)]"
++          className="font-ui md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-gray-200 grid grid-cols-5 items-center px-1 py-1 shadow-[0_-4px_20px_rgba(0,0,0,0.06)]"
+         >
+           {displayNavItems.map((item) => {
+             const isActive =

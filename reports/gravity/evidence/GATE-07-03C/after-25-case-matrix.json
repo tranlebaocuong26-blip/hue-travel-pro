@@ -1,0 +1,502 @@
+[
+  {
+    "route": "home",
+    "viewport": "1366x768",
+    "fontStatus": "loaded",
+    "docWidth": 1366,
+    "scrollWidth": 1366,
+    "overflow": 0,
+    "h1": {
+      "text": "HUẾ",
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "size": "96px",
+      "weight": "400",
+      "line": "96px",
+      "spacing": "-2.4px",
+      "height": 96,
+      "width": 544,
+      "x": 69,
+      "y": 144.5
+    }
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1366x768",
+    "fontStatus": "loaded",
+    "docWidth": 1351,
+    "scrollWidth": 1351,
+    "overflow": 0,
+    "h1": {
+      "text": "Lịch sử Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 336,
+      "y": 190
+    }
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1366x768",
+    "fontStatus": "loaded",
+    "docWidth": 1351,
+    "scrollWidth": 1351,
+    "overflow": 0,
+    "h1": {
+      "text": "Khám phá Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 328,
+      "y": 178
+    }
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1366x768",
+    "fontStatus": "loaded",
+    "docWidth": 1351,
+    "scrollWidth": 1351,
+    "overflow": 0,
+    "h1": {
+      "text": "Di chuyển ở Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 328,
+      "y": 178
+    }
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1366x768",
+    "fontStatus": "loaded",
+    "docWidth": 1351,
+    "scrollWidth": 1351,
+    "overflow": 0,
+    "h1": {
+      "text": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "700",
+      "line": "32px",
+      "spacing": "normal",
+      "height": 64,
+      "width": 768,
+      "x": 328,
+      "y": 178
+    }
+  },
+  {
+    "route": "home",
+    "viewport": "1440x900",
+    "fontStatus": "loaded",
+    "docWidth": 1440,
+    "scrollWidth": 1440,
+    "overflow": 0,
+    "h1": {
+      "text": "HUẾ",
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "size": "112px",
+      "weight": "400",
+      "line": "112px",
+      "spacing": "-2.8px",
+      "height": 112,
+      "width": 544,
+      "x": 69,
+      "y": 191.59375
+    }
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1440x900",
+    "fontStatus": "loaded",
+    "docWidth": 1425,
+    "scrollWidth": 1425,
+    "overflow": 0,
+    "h1": {
+      "text": "Lịch sử Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 336,
+      "y": 190
+    }
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1440x900",
+    "fontStatus": "loaded",
+    "docWidth": 1425,
+    "scrollWidth": 1425,
+    "overflow": 0,
+    "h1": {
+      "text": "Khám phá Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 328,
+      "y": 178
+    }
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1440x900",
+    "fontStatus": "loaded",
+    "docWidth": 1425,
+    "scrollWidth": 1425,
+    "overflow": 0,
+    "h1": {
+      "text": "Di chuyển ở Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 328,
+      "y": 178
+    }
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1440x900",
+    "fontStatus": "loaded",
+    "docWidth": 1425,
+    "scrollWidth": 1425,
+    "overflow": 0,
+    "h1": {
+      "text": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "700",
+      "line": "32px",
+      "spacing": "normal",
+      "height": 64,
+      "width": 768,
+      "x": 328,
+      "y": 178
+    }
+  },
+  {
+    "route": "home",
+    "viewport": "1650x786",
+    "fontStatus": "loaded",
+    "docWidth": 1650,
+    "scrollWidth": 1650,
+    "overflow": 0,
+    "h1": {
+      "text": "HUẾ",
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "size": "96px",
+      "weight": "400",
+      "line": "96px",
+      "spacing": "-2.4px",
+      "height": 96,
+      "width": 544,
+      "x": 102,
+      "y": 153.5
+    }
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1650x786",
+    "fontStatus": "loaded",
+    "docWidth": 1635,
+    "scrollWidth": 1635,
+    "overflow": 0,
+    "h1": {
+      "text": "Lịch sử Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 385.5,
+      "y": 190
+    }
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1650x786",
+    "fontStatus": "loaded",
+    "docWidth": 1635,
+    "scrollWidth": 1635,
+    "overflow": 0,
+    "h1": {
+      "text": "Khám phá Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 377.5,
+      "y": 178
+    }
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1650x786",
+    "fontStatus": "loaded",
+    "docWidth": 1635,
+    "scrollWidth": 1635,
+    "overflow": 0,
+    "h1": {
+      "text": "Di chuyển ở Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 377.5,
+      "y": 178
+    }
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1650x786",
+    "fontStatus": "loaded",
+    "docWidth": 1635,
+    "scrollWidth": 1635,
+    "overflow": 0,
+    "h1": {
+      "text": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "700",
+      "line": "32px",
+      "spacing": "normal",
+      "height": 64,
+      "width": 768,
+      "x": 377.5,
+      "y": 178
+    }
+  },
+  {
+    "route": "home",
+    "viewport": "1920x1080",
+    "fontStatus": "loaded",
+    "docWidth": 1920,
+    "scrollWidth": 1920,
+    "overflow": 0,
+    "h1": {
+      "text": "HUẾ",
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "size": "112px",
+      "weight": "400",
+      "line": "112px",
+      "spacing": "-2.8px",
+      "height": 112,
+      "width": 544,
+      "x": 237,
+      "y": 281.59375
+    }
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1920x1080",
+    "fontStatus": "loaded",
+    "docWidth": 1905,
+    "scrollWidth": 1905,
+    "overflow": 0,
+    "h1": {
+      "text": "Lịch sử Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 520.5,
+      "y": 190
+    }
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1920x1080",
+    "fontStatus": "loaded",
+    "docWidth": 1905,
+    "scrollWidth": 1905,
+    "overflow": 0,
+    "h1": {
+      "text": "Khám phá Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 512.5,
+      "y": 178
+    }
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1920x1080",
+    "fontStatus": "loaded",
+    "docWidth": 1905,
+    "scrollWidth": 1905,
+    "overflow": 0,
+    "h1": {
+      "text": "Di chuyển ở Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "48px",
+      "weight": "800",
+      "line": "48px",
+      "spacing": "-1.2px",
+      "height": 48,
+      "width": 672,
+      "x": 512.5,
+      "y": 178
+    }
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1920x1080",
+    "fontStatus": "loaded",
+    "docWidth": 1905,
+    "scrollWidth": 1905,
+    "overflow": 0,
+    "h1": {
+      "text": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "700",
+      "line": "32px",
+      "spacing": "normal",
+      "height": 64,
+      "width": 768,
+      "x": 512.5,
+      "y": 178
+    }
+  },
+  {
+    "route": "home",
+    "viewport": "390x844",
+    "fontStatus": "loaded",
+    "docWidth": 390,
+    "scrollWidth": 390,
+    "overflow": 0,
+    "h1": {
+      "text": "HUẾ",
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "size": "72px",
+      "weight": "400",
+      "line": "72px",
+      "spacing": "-1.8px",
+      "height": 72,
+      "width": 332,
+      "x": 29,
+      "y": 147.25
+    }
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "390x844",
+    "fontStatus": "loaded",
+    "docWidth": 390,
+    "scrollWidth": 390,
+    "overflow": 0,
+    "h1": {
+      "text": "Lịch sử Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "800",
+      "line": "30px",
+      "spacing": "-0.6px",
+      "height": 30,
+      "width": 322,
+      "x": 34,
+      "y": 138
+    }
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "390x844",
+    "fontStatus": "loaded",
+    "docWidth": 390,
+    "scrollWidth": 390,
+    "overflow": 0,
+    "h1": {
+      "text": "Khám phá Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "800",
+      "line": "30px",
+      "spacing": "-0.6px",
+      "height": 30,
+      "width": 322,
+      "x": 34,
+      "y": 128
+    }
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "390x844",
+    "fontStatus": "loaded",
+    "docWidth": 390,
+    "scrollWidth": 390,
+    "overflow": 0,
+    "h1": {
+      "text": "Di chuyển ở Huế",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "24px",
+      "weight": "800",
+      "line": "30px",
+      "spacing": "-0.6px",
+      "height": 30,
+      "width": 322,
+      "x": 34,
+      "y": 136
+    }
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "390x844",
+    "fontStatus": "loaded",
+    "docWidth": 390,
+    "scrollWidth": 390,
+    "overflow": 0,
+    "h1": {
+      "text": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+      "family": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif",
+      "size": "20px",
+      "weight": "700",
+      "line": "27.5px",
+      "spacing": "normal",
+      "height": 110,
+      "width": 322,
+      "x": 34,
+      "y": 136
+    }
+  }
+]

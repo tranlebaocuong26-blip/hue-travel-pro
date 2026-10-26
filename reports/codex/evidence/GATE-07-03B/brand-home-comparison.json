@@ -1,0 +1,800 @@
+[
+  {
+    "route": "home",
+    "width": 1366,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      119,
+      19,
+      191,
+      43
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1366,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      119,
+      42,
+      191,
+      53
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1366,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      69,
+      144,
+      613,
+      241
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1366,
+    "text": "TRAVEL PRO",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      69,
+      240,
+      613,
+      291
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1366,
+    "text": "Huế có chi hay?",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      69,
+      302,
+      613,
+      352
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1366,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1366,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1366,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1366,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1366,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1366,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1366,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1366,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1440,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      156,
+      19,
+      228,
+      43
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1440,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      156,
+      42,
+      228,
+      53
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1440,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      69,
+      191,
+      613,
+      304
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1440,
+    "text": "TRAVEL PRO",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      69,
+      303,
+      613,
+      363
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1440,
+    "text": "Huế có chi hay?",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      69,
+      374,
+      613,
+      429
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1440,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1440,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1440,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1440,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1440,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1440,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1440,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1440,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1650,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      261,
+      19,
+      333,
+      43
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1650,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      261,
+      42,
+      333,
+      53
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1650,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      102,
+      153,
+      646,
+      250
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1650,
+    "text": "TRAVEL PRO",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      102,
+      249,
+      646,
+      300
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1650,
+    "text": "Huế có chi hay?",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      102,
+      311,
+      646,
+      361
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1650,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1650,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1650,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1650,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1650,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1650,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1650,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1650,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1920,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      396,
+      19,
+      468,
+      43
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1920,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      396,
+      42,
+      468,
+      53
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1920,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      237,
+      281,
+      781,
+      394
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1920,
+    "text": "TRAVEL PRO",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      237,
+      393,
+      781,
+      453
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1920,
+    "text": "Huế có chi hay?",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      237,
+      464,
+      781,
+      519
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1920,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1920,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1920,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1920,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1920,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1920,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1920,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      30,
+      153,
+      54
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1920,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      81,
+      53,
+      153,
+      64
+    ]
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      70,
+      27,
+      135,
+      48
+    ]
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "text": "Travel Pro",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      70,
+      47,
+      135,
+      57
+    ]
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "text": "HUẾ",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      29,
+      147,
+      346,
+      220
+    ]
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "text": "TRAVEL PRO",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      29,
+      219,
+      346,
+      262
+    ]
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "text": "Huế có chi hay?",
+    "computedBoundsEqual": true,
+    "diff": {},
+    "pixelIdentical": true,
+    "box": [
+      29,
+      273,
+      346,
+      314
+    ]
+  }
+]

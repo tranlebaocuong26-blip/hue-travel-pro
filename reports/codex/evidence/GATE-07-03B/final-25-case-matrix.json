@@ -1,0 +1,452 @@
+[
+  {
+    "route": "home",
+    "viewport": "1366x768",
+    "actualBefore": [
+      1366,
+      768
+    ],
+    "actualAfter": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-home-1366.png",
+    "evidenceAfter": "after-home-1366.png"
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1366x768",
+    "actualBefore": [
+      1366,
+      768
+    ],
+    "actualAfter": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-ve-hue-1366.png",
+    "evidenceAfter": "after-ve-hue-1366.png"
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1366x768",
+    "actualBefore": [
+      1366,
+      768
+    ],
+    "actualAfter": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-kham-pha-1366.png",
+    "evidenceAfter": "after-kham-pha-1366.png"
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1366x768",
+    "actualBefore": [
+      1366,
+      768
+    ],
+    "actualAfter": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-cam-nang-1366.png",
+    "evidenceAfter": "after-cam-nang-1366.png"
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1366x768",
+    "actualBefore": [
+      1366,
+      768
+    ],
+    "actualAfter": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-luu-tru-1366.png",
+    "evidenceAfter": "after-luu-tru-1366.png"
+  },
+  {
+    "route": "home",
+    "viewport": "1440x900",
+    "actualBefore": [
+      1440,
+      900
+    ],
+    "actualAfter": [
+      1440,
+      900
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-home-1440.png",
+    "evidenceAfter": "after-home-1440.png"
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1440x900",
+    "actualBefore": [
+      1440,
+      900
+    ],
+    "actualAfter": [
+      1440,
+      900
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-ve-hue-1440.png",
+    "evidenceAfter": "after-ve-hue-1440.png"
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1440x900",
+    "actualBefore": [
+      1440,
+      900
+    ],
+    "actualAfter": [
+      1440,
+      900
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-kham-pha-1440.png",
+    "evidenceAfter": "after-kham-pha-1440.png"
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1440x900",
+    "actualBefore": [
+      1440,
+      900
+    ],
+    "actualAfter": [
+      1440,
+      900
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-cam-nang-1440.png",
+    "evidenceAfter": "after-cam-nang-1440.png"
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1440x900",
+    "actualBefore": [
+      1440,
+      900
+    ],
+    "actualAfter": [
+      1440,
+      900
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-luu-tru-1440.png",
+    "evidenceAfter": "after-luu-tru-1440.png"
+  },
+  {
+    "route": "home",
+    "viewport": "1650x786",
+    "actualBefore": [
+      1650,
+      786
+    ],
+    "actualAfter": [
+      1650,
+      786
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-home-1650.png",
+    "evidenceAfter": "after-home-1650.png"
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1650x786",
+    "actualBefore": [
+      1650,
+      786
+    ],
+    "actualAfter": [
+      1650,
+      786
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-ve-hue-1650.png",
+    "evidenceAfter": "after-ve-hue-1650.png"
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1650x786",
+    "actualBefore": [
+      1650,
+      786
+    ],
+    "actualAfter": [
+      1650,
+      786
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-kham-pha-1650.png",
+    "evidenceAfter": "after-kham-pha-1650.png"
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1650x786",
+    "actualBefore": [
+      1650,
+      786
+    ],
+    "actualAfter": [
+      1650,
+      786
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-cam-nang-1650.png",
+    "evidenceAfter": "after-cam-nang-1650.png"
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1650x786",
+    "actualBefore": [
+      1650,
+      786
+    ],
+    "actualAfter": [
+      1650,
+      786
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-luu-tru-1650.png",
+    "evidenceAfter": "after-luu-tru-1650.png"
+  },
+  {
+    "route": "home",
+    "viewport": "1920x1080",
+    "actualBefore": [
+      1920,
+      1080
+    ],
+    "actualAfter": [
+      1920,
+      1080
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-home-1920.png",
+    "evidenceAfter": "after-home-1920.png"
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "1920x1080",
+    "actualBefore": [
+      1920,
+      1080
+    ],
+    "actualAfter": [
+      1920,
+      1080
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-ve-hue-1920.png",
+    "evidenceAfter": "after-ve-hue-1920.png"
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "1920x1080",
+    "actualBefore": [
+      1920,
+      1080
+    ],
+    "actualAfter": [
+      1920,
+      1080
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-kham-pha-1920.png",
+    "evidenceAfter": "after-kham-pha-1920.png"
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "1920x1080",
+    "actualBefore": [
+      1920,
+      1080
+    ],
+    "actualAfter": [
+      1920,
+      1080
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-cam-nang-1920.png",
+    "evidenceAfter": "after-cam-nang-1920.png"
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "1920x1080",
+    "actualBefore": [
+      1920,
+      1080
+    ],
+    "actualAfter": [
+      1920,
+      1080
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-luu-tru-1920.png",
+    "evidenceAfter": "after-luu-tru-1920.png"
+  },
+  {
+    "route": "home",
+    "viewport": "390x844",
+    "actualBefore": [
+      390,
+      844
+    ],
+    "actualAfter": [
+      390,
+      844
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-home-390.png",
+    "evidenceAfter": "after-home-390.png"
+  },
+  {
+    "route": "ve-hue",
+    "viewport": "390x844",
+    "actualBefore": [
+      390,
+      844
+    ],
+    "actualAfter": [
+      390,
+      844
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-ve-hue-390.png",
+    "evidenceAfter": "after-ve-hue-390.png"
+  },
+  {
+    "route": "kham-pha",
+    "viewport": "390x844",
+    "actualBefore": [
+      390,
+      844
+    ],
+    "actualAfter": [
+      390,
+      844
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-kham-pha-390.png",
+    "evidenceAfter": "after-kham-pha-390.png"
+  },
+  {
+    "route": "cam-nang",
+    "viewport": "390x844",
+    "actualBefore": [
+      390,
+      844
+    ],
+    "actualAfter": [
+      390,
+      844
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-cam-nang-390.png",
+    "evidenceAfter": "after-cam-nang-390.png"
+  },
+  {
+    "route": "luu-tru",
+    "viewport": "390x844",
+    "actualBefore": [
+      390,
+      844
+    ],
+    "actualAfter": [
+      390,
+      844
+    ],
+    "fontStatus": "loaded",
+    "overflowBefore": 0,
+    "overflowAfter": 0,
+    "h1HeightDelta": 0,
+    "evidenceBefore": "before-luu-tru-390.png",
+    "evidenceAfter": "after-luu-tru-390.png"
+  }
+]

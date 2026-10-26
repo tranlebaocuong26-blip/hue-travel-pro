@@ -1,0 +1,53 @@
+[
+  {
+    "bottomNavItems": 0,
+    "mobileBrand": [
+      {
+        "complete": true,
+        "naturalWidth": 48,
+        "width": 36
+      }
+    ],
+    "url": "http://localhost:3000/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "bottomNavItems": 5,
+    "mobileBrand": [],
+    "url": "http://localhost:3000/ve-hue",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "bottomNavItems": 5,
+    "mobileBrand": [],
+    "url": "http://localhost:3000/kham-pha",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "bottomNavItems": 5,
+    "mobileBrand": [],
+    "url": "http://localhost:3000/cam-nang",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "bottomNavItems": 5,
+    "mobileBrand": [],
+    "url": "http://localhost:3000/luu-tru",
+    "viewport": [
+      390,
+      844
+    ]
+  }
+]

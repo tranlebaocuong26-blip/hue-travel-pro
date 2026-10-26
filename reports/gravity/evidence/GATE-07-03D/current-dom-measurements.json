@@ -1,0 +1,72 @@
+{
+  "390": {
+    "windowH": 844,
+    "scrollHeight": 1304,
+    "hasVerticalScroll": true,
+    "outerTop": 68,
+    "logoTop": 0,
+    "logoSize": "0x0",
+    "capsuleTop": 0,
+    "capsuleH": 0,
+    "ctaBottom": 499.8,
+    "dockTop": 531.8,
+    "dockBottom": 1279.3,
+    "gapCtaToDock": 32
+  },
+  "1366": {
+    "windowH": 768,
+    "scrollHeight": 768,
+    "hasVerticalScroll": false,
+    "outerTop": 16,
+    "logoTop": 28,
+    "logoSize": "56x56",
+    "capsuleTop": 28,
+    "capsuleH": 54,
+    "ctaBottom": 508.5,
+    "dockTop": 545,
+    "dockBottom": 735,
+    "gapCtaToDock": 36.5
+  },
+  "1440": {
+    "windowH": 900,
+    "scrollHeight": 900,
+    "hasVerticalScroll": false,
+    "outerTop": 16,
+    "logoTop": 28,
+    "logoSize": "56x56",
+    "capsuleTop": 28,
+    "capsuleH": 54,
+    "ctaBottom": 592.4,
+    "dockTop": 653,
+    "dockBottom": 855,
+    "gapCtaToDock": 60.6
+  },
+  "1650": {
+    "windowH": 786,
+    "scrollHeight": 786,
+    "hasVerticalScroll": false,
+    "outerTop": 16,
+    "logoTop": 28,
+    "logoSize": "56x56",
+    "capsuleTop": 28,
+    "capsuleH": 54,
+    "ctaBottom": 517.5,
+    "dockTop": 563,
+    "dockBottom": 753,
+    "gapCtaToDock": 45.5
+  },
+  "1920": {
+    "windowH": 1080,
+    "scrollHeight": 1080,
+    "hasVerticalScroll": false,
+    "outerTop": 16,
+    "logoTop": 28,
+    "logoSize": "56x56",
+    "capsuleTop": 28,
+    "capsuleH": 54,
+    "ctaBottom": 682.4,
+    "dockTop": 833,
+    "dockBottom": 1035,
+    "gapCtaToDock": 150.6
+  }
+}

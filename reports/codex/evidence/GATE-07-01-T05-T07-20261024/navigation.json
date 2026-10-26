@@ -1,0 +1,26 @@
+{
+  "links": [
+    {
+      "href": "/",
+      "label": "Trang chủ"
+    },
+    {
+      "href": "/ve-hue",
+      "label": "Về Huế"
+    },
+    {
+      "href": "/kham-pha",
+      "label": "Khám phá"
+    },
+    {
+      "href": "/cam-nang",
+      "label": "Cẩm nang"
+    },
+    {
+      "href": "/luu-tru",
+      "label": "Lưu trú"
+    }
+  ],
+  "morph": "sidebar",
+  "url": "http://192.168.1.12:3000/cam-nang"
+}

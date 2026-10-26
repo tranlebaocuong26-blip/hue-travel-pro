@@ -1,0 +1,312 @@
+[
+  {
+    "capsule": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "h1": "Lịch sử Huế",
+    "logos": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 44
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 40
+      }
+    ],
+    "morph": "sidebar",
+    "sidebar": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "capsule": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "h1": "Khám phá Huế",
+    "logos": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 44
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 40
+      }
+    ],
+    "morph": "sidebar",
+    "sidebar": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/kham-pha"
+  },
+  {
+    "capsule": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "h1": "Di chuyển ở Huế",
+    "logos": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 44
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 40
+      }
+    ],
+    "morph": "sidebar",
+    "sidebar": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/cam-nang"
+  },
+  {
+    "capsule": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "logos": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 44
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 40
+      }
+    ],
+    "morph": "sidebar",
+    "sidebar": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/luu-tru"
+  },
+  {
+    "capsule": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "h1": "HUẾ",
+    "logos": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 44
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 40
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fbrand%2Fowner-lotus.png&w=96&q=75",
+        "width": 0
+      }
+    ],
+    "morph": "capsule",
+    "sidebar": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "url": "http://192.168.1.12:3000/"
+  }
+]

@@ -1,0 +1,29 @@
+--- src/app/kham-pha/page.tsx (before)
++++ src/app/kham-pha/page.tsx (after)
+@@ -151,7 +151,7 @@
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-tight">
++          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-editorial tracking-tight leading-tight">
+             Khám phá Huế
+           </h1>
+ 
+@@ -379,7 +379,7 @@
+         {/* Left Column: Places Grid (8 cols) */}
+         <div className="lg:col-span-8 space-y-6">
+           <div className="flex items-center justify-between">
+-            <h2 className="text-xl font-bold font-serif text-dark-ink flex items-center gap-2">
++            <h2 className="text-xl font-bold font-editorial text-dark-ink flex items-center gap-2">
+               <Sparkles className="w-4 h-4 text-warm-gold" />
+               <span>Địa điểm phù hợp</span>
+               <span className="text-xs font-normal text-gray-400 font-sans ml-2">
+@@ -404,7 +404,7 @@
+                 <HelpCircle className="w-8 h-8" />
+               </div>
+               <div className="max-w-md mx-auto space-y-2">
+-                <h3 className="text-lg font-bold font-serif text-dark-ink">
++                <h3 className="text-lg font-bold font-editorial text-dark-ink">
+                   Không tìm thấy địa điểm phù hợp
+                 </h3>
+                 <p className="text-xs sm:text-sm text-gray-500 leading-relaxed">

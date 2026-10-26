@@ -1,0 +1,13 @@
+diff --git a/reports/codex/evidence/GATE-07-02A-20261024/file-5.before.tsx b/src/app/tim-kiem/page.tsx
+index a7714c2..0a8a03d 100644
+--- a/reports/codex/evidence/GATE-07-02A-20261024/file-5.before.tsx
++++ b/src/app/tim-kiem/page.tsx
+@@ -404,7 +404,7 @@ function TimKiemContent() {
+                     href="/cam-nang#thue-xe-danh-sach"
+                     className="text-xs font-semibold text-orange-600 hover:underline flex items-center gap-1"
+                   >
+-                    <span>Trang Cẩm nang</span>
++                    <span>Trang Di chuyển</span>
+                     <ChevronRight className="w-3.5 h-3.5" />
+                   </Link>
+                 </div>

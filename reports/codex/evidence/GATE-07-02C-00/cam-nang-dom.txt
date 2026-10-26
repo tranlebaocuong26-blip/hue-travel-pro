@@ -1,0 +1,227 @@
+- generic "Thanh điều hướng thích nghi":
+  - link "Trang chủ":
+    - /url: /
+  - link "Lịch sử":
+    - /url: /ve-hue
+  - link "Khám phá":
+    - /url: /kham-pha
+  - link "Di chuyển":
+    - /url: /cam-nang
+  - link "Lưu trú":
+    - /url: /luu-tru
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - navigation "Thanh điều hướng sidebar":
+    - link "Trang chủ":
+      - /url: /
+      - generic: Trang chủ
+    - link "Lịch sử":
+      - /url: /ve-hue
+      - generic: Lịch sử
+    - link "Khám phá":
+      - /url: /kham-pha
+      - generic: Khám phá
+    - link "Di chuyển":
+      - /url: /cam-nang
+      - generic: Di chuyển
+    - link "Lưu trú":
+      - /url: /luu-tru
+      - generic: Lưu trú
+  - generic: Phiên bản V2.3
+- banner:
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - link "Tìm kiếm":
+    - /url: /tim-kiem
+- main:
+  - textbox "Tìm kiếm nội dung Huế":
+    - /placeholder: "Tìm đơn vị thuê xe máy, loại xe, khu vực nhận xe (VD: Đồng Xanh, Kevin, xe ga)..."
+  - button "Tìm toàn site":
+    - generic: Tìm toàn site
+  - button "Yêu thích (tính năng đang phát triển)" [disabled]:
+  - generic "Huế Travel Pro":
+  - generic: DI CHUYỂN
+  - heading "Di chuyển ở Huế" [level=1]
+  - paragraph: Đi sao cho tiện, thuê xe sao cho dễ, chuẩn bị gì cho chuyến đi tự túc an toàn và chủ động.
+  - link "Thuê xe tham khảo ➔":
+    - /url: "#thue-xe-danh-sach"
+    - generic: Thuê xe tham khảo ➔
+  - heading "Thuê xe tự lái" [level=4]
+  - generic: Đa dạng xe ga, xe số
+  - heading "Di chuyển nội thành" [level=4]
+  - generic: Xe buýt, taxi công nghệ
+  - heading "Lưu ý khi thuê xe" [level=4]
+  - generic: Hợp đồng, tiền cọc
+  - heading "Mẹo cho người mới" [level=4]
+  - generic: Kinh nghiệm bản địa
+  - combobox "Loại xe":
+    - 'option "Loại xe: Tất cả" [selected]'
+    - option "Xe ga (Vision, Air Blade)"
+    - option "Xe số (Wave, Sirius)"
+    - option "Xe côn tay phượt"
+  - combobox "Khu vực nhận xe":
+    - 'option "Khu vực nhận xe: Tất cả" [selected]'
+    - option "Trung tâm TP. Huế"
+    - option "Khu vực Ga tàu Huế"
+    - option "Khu phố Tây"
+    - option "Sân bay Phú Bài"
+  - combobox "Khoảng giá thuê xe":
+    - 'option "Khoảng giá: Tham khảo chung theo dòng xe" [selected]'
+    - option "Dưới 150.000đ/ngày (Cần kiểm chứng)"
+    - option "Giá theo thỏa thuận (Chưa xác minh riêng)"
+  - text: Hiển thị
+  - strong: "6"
+  - text: cơ sở thuê xe máy đối chiếu từ MOTOGO
+  - generic: "* Toàn bộ giá thuê phụ thuộc vào từng loại xe và thời điểm thuê thực tế"
+  - heading "Đơn vị thuê xe tham khảo (6 cơ sở)" [level=2]:
+    - generic: Đơn vị thuê xe tham khảo
+    - generic: (6 cơ sở)
+  - link "Đồng Xanh Motorbike Rental":
+    - /url: /cam-nang/thue-xe/dong-xanh-motorbike
+  - paragraph:
+    - generic: 201 Trần Phú, Phước Vĩnh, TP. Huế
+  - generic: Tham khảo
+  - paragraph: Đơn vị cho thuê xe máy uy tín tại Huế, hỗ trợ giao nhận xe linh hoạt tại trung tâm, ga tàu và sân bay Phú Bài.
+  - generic: "Mức giá:"
+  - generic: Giá theo thỏa thuận từng dòng xe (Chưa xác minh riêng)
+  - generic: Giao nhận xe tận nơi tại trung tâm thành phố, ga Huế hoặc sân bay Phú Bài
+  - generic: Trang bị sẵn 02 mũ bảo hiểm đạt chuẩn và áo mưa tiện lợi
+  - generic: Đội xe đời mới, máy móc êm ái và tiết kiệm nhiên liệu
+  - generic: Hỗ trợ kỹ thuật và đổi xe nếu gặp sự cố trong quá trình di chuyển
+  - generic: "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)"
+  - link "Chi tiết":
+    - /url: /cam-nang/thue-xe/dong-xanh-motorbike
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BB%93ng%20Xanh%20Motorbike%20Rental%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Kevin Motorbike":
+    - /url: /cam-nang/thue-xe/kevin-motorbike
+  - paragraph:
+    - generic: 38 Kiệt 42 Nguyễn Công Trứ, Phú Hội, TP. Huế
+  - generic: Tham khảo
+  - paragraph: Cơ sở cho thuê xe máy nằm ngay khu phố Tây, phục vụ nhiệt tình cho du khách trong và ngoài nước.
+  - generic: "Mức giá:"
+  - generic: Giá theo thỏa thuận từng dòng xe (Chưa xác minh riêng)
+  - generic: Vị trí ngay khu phố Tây, thuận tiện nhận trả xe cho khách lưu trú bờ Nam
+  - generic: Cung cấp bản đồ du lịch Huế và tư vấn quán ăn địa phương miễn phí
+  - generic: Xe được kiểm tra kỹ hệ thống phanh, đèn xi-nhan và lốp trước khi giao
+  - generic: Thủ tục giao nhận xe nhanh chóng, rõ ràng
+  - generic: "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)"
+  - link "Chi tiết":
+    - /url: /cam-nang/thue-xe/kevin-motorbike
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Kevin%20Motorbike%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Hidibike":
+    - /url: /cam-nang/thue-xe/hidibike-hue
+  - paragraph:
+    - generic: 11 Lý Thường Kiệt, Phú Nhuận, TP. Huế
+  - generic: Tham khảo
+  - paragraph: Thương hiệu cho thuê xe máy chuyên nghiệp tại Huế, có dịch vụ thuê xe một chiều vượt đèo Hải Vân.
+  - generic: "Mức giá:"
+  - generic: Giá theo thỏa thuận từng dòng xe (Chưa xác minh riêng)
+  - generic: Có dịch vụ thuê xe tại Huế và trả xe tại Đà Nẵng / Hội An
+  - generic: Hỗ trợ vận chuyển hành lý cồng kềnh cho khách phượt đèo
+  - generic: Xe côn tay và xe số máy móc khỏe khoắn, lốp bám đường tốt
+  - generic: Hợp đồng thuê xe song ngữ chuyên nghiệp, minh bạch
+  - generic: "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)"
+  - link "Chi tiết":
+    - /url: /cam-nang/thue-xe/hidibike-hue
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Hidibike%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Thuê xe máy Hạnh Thảo":
+    - /url: /cam-nang/thue-xe/thue-xe-hanh-thao
+  - paragraph:
+    - generic: 29C Kiệt 103 Nhật Lệ, Thuận Thành, TP. Huế
+  - generic: Tham khảo
+  - paragraph: Địa chỉ cho thuê xe máy lâu năm quen thuộc, rất thuận tiện cho khách đến Huế bằng tàu hỏa.
+  - generic: "Mức giá:"
+  - generic: Giá theo thỏa thuận từng dòng xe (Chưa xác minh riêng)
+  - generic: Giao xe trực tiếp tại sảnh Ga Huế ngay khi tàu cập bến
+  - generic: Thủ tục nhanh gọn, nhiệt tình chỉ đường và tư vấn điểm ăn uống
+  - generic: Xe chạy đầm, trang bị sẵn 2 mũ bảo hiểm sạch sẽ
+  - generic: Mức giá bình dân, hỗ trợ khách thuê xe dài ngày
+  - generic: "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)"
+  - link "Chi tiết":
+    - /url: /cam-nang/thue-xe/thue-xe-hanh-thao
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Thu%C3%AA%20xe%20m%C3%A1y%20H%E1%BA%A1nh%20Th%E1%BA%A3o%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Thuê xe máy Nam Thanh":
+    - /url: /cam-nang/thue-xe/thue-xe-nam-thanh
+  - paragraph:
+    - generic: TP. Huế
+  - generic: Tham khảo
+  - paragraph: Cơ sở cho thuê xe máy giá rẻ, phong cách phục vụ chu đáo cho khách du lịch tự túc.
+  - generic: "Mức giá:"
+  - generic: Giá theo thỏa thuận từng dòng xe (Chưa xác minh riêng)
+  - generic: Đầy đủ các dòng xe số Wave, Sirius và xe ga Vision, Air Blade
+  - generic: Chính sách giá thuê tiết kiệm cho học sinh, sinh viên và khách phượt
+  - generic: Hỗ trợ giao nhận xe tận khách sạn trong khu vực nội đô
+  - generic: Kèm mũ bảo hiểm và áo mưa tiện lợi
+  - generic: "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)"
+  - link "Chi tiết":
+    - /url: /cam-nang/thue-xe/thue-xe-nam-thanh
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Thu%C3%AA%20xe%20m%C3%A1y%20Nam%20Thanh%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - link "Thuê xe máy Chị Chi":
+    - /url: /cam-nang/thue-xe/thue-xe-chi-chi
+  - paragraph:
+    - generic: TP. Huế
+  - generic: Tham khảo
+  - paragraph: Dịch vụ thuê xe máy của chị Chi nổi tiếng với dàn xe mới và phong cách phục vụ tận tâm.
+  - generic: "Mức giá:"
+  - generic: Giá theo thỏa thuận từng dòng xe (Chưa xác minh riêng)
+  - generic: Dàn xe đời mới, thường xuyên được bảo dưỡng và rửa sạch sẽ
+  - generic: Giao xe tận nơi miễn phí tại khách sạn, nhà nghỉ nội thành
+  - generic: Trang bị 02 mũ bảo hiểm sạch sẽ và áo mưa dự phòng
+  - generic: Tư vấn địa điểm ăn uống, quán cà phê ngắm cảnh bản địa tận tình
+  - generic: "Nguồn: MOTOGO (Cẩm nang thuê xe máy tại Huế)"
+  - link "Chi tiết":
+    - /url: /cam-nang/thue-xe/thue-xe-chi-chi
+  - link "Vị trí":
+    - /url: https://www.google.com/maps/search/?api=1&query=Thu%C3%AA%20xe%20m%C3%A1y%20Ch%E1%BB%8B%20Chi%20Hu%E1%BA%BF
+    - generic: Vị trí
+  - heading "Kinh nghiệm & lưu ý quan trọng" [level=3]:
+    - generic: Kinh nghiệm & lưu ý quan trọng
+  - heading "Cần mang gì?" [level=4]
+  - paragraph: Giấy tờ tùy thân, GPLX, tiền mặt, điện thoại, áo mưa mỏng, kem chống nắng.
+  - heading "Có nên thuê xe máy?" [level=4]
+  - paragraph: Linh hoạt, chủ động lịch trình ngắm cảnh đồi lăng tẩm và bãi biển cố đô.
+  - heading "Khi đi trời mưa" [level=4]
+  - paragraph: Huế mùa mưa đường trơn, kiểm tra phanh kỹ, đi chậm, mặc áo mưa bộ gọn gàng.
+  - heading "SĐT khẩn cấp" [level=4]
+  - paragraph:
+    - text: "Công an: 113"
+    - text: "Cứu hộ y tế: 115"
+    - text: Đầu số xác minh quốc gia
+  - heading "Checklist thuê xe an toàn" [level=3]:
+    - generic: Checklist thuê xe an toàn
+  - generic: Cần nhớ
+  - generic: Chuẩn bị giấy tờ tùy thân (CCCD, GPLX phù hợp)
+  - generic: Kiểm tra kỹ phanh trước/sau, đèn chiếu sáng, còi và gai lốp
+  - generic: Đổ xăng đầy hoặc chụp đồng hồ xăng lúc nhận xe
+  - generic: Yêu cầu mũ bảo hiểm đạt chuẩn có kính chắn gió
+  - generic: Chụp ảnh toàn bộ xe trước khi nhận (tránh tranh chấp)
+  - generic: Hỏi rõ tiền cọc, giờ trả xe và chính sách hỗ trợ sự cố đường
+  - heading "Gợi ý hướng di chuyển" [level=3]:
+    - generic: Gợi ý hướng di chuyển
+  - generic: Đại Nội Huế
+  - text: Khu vực trung tâm bờ Bắc
+  - generic: Thuận tiện xe máy
+  - generic: Biển Thuận An
+  - text: Tuyến QL49 hướng biển Đông
+  - generic: Đường nhựa thoáng
+  - generic: Vườn QG Bạch Mã
+  - text: Khu vực đèo núi phía Nam
+  - generic: Cần tay lái vững
+  - generic: Dạo quanh bờ sông
+  - text: Đường Lê Lợi, cầu gỗ lim
+  - generic: Thích hợp ngắm cảnh
+- alert

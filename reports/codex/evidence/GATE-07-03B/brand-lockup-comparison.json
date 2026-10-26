@@ -1,0 +1,254 @@
+[
+  {
+    "route": "home",
+    "width": 1366,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      67,
+      16,
+      123.875,
+      40
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1366,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1366,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1366,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1366,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1440,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      104,
+      16,
+      123.875,
+      40
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1440,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1440,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1440,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1440,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1650,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      209,
+      16,
+      123.875,
+      40
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1650,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1650,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1650,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1650,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "home",
+    "width": 1920,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      344,
+      16,
+      123.875,
+      40
+    ]
+  },
+  {
+    "route": "ve-hue",
+    "width": 1920,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "kham-pha",
+    "width": 1920,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "cam-nang",
+    "width": 1920,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "luu-tru",
+    "width": 1920,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      25,
+      25,
+      206,
+      44
+    ]
+  },
+  {
+    "route": "home",
+    "width": 390,
+    "boundsEqual": true,
+    "pixelIdentical": true,
+    "bounds": [
+      24,
+      24,
+      110.6875,
+      36
+    ]
+  }
+]

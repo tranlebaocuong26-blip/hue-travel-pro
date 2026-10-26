@@ -1,0 +1,69 @@
+{
+  "t05": {
+    "sectionExists": true,
+    "rentalLinksCount": 12,
+    "sampleLinks": [
+      {
+        "text": "Đồng Xanh Motorbike Rental",
+        "href": "/cam-nang/thue-xe/dong-xanh-motorbike"
+      },
+      {
+        "text": "Chi tiết",
+        "href": "/cam-nang/thue-xe/dong-xanh-motorbike"
+      },
+      {
+        "text": "Kevin Motorbike",
+        "href": "/cam-nang/thue-xe/kevin-motorbike"
+      },
+      {
+        "text": "Chi tiết",
+        "href": "/cam-nang/thue-xe/kevin-motorbike"
+      },
+      {
+        "text": "Hidibike",
+        "href": "/cam-nang/thue-xe/hidibike-hue"
+      },
+      {
+        "text": "Chi tiết",
+        "href": "/cam-nang/thue-xe/hidibike-hue"
+      }
+    ]
+  },
+  "t07": {
+    "categoryButtons": [
+      "Tất cả",
+      "Homestay",
+      "Khách sạn",
+      "Resort",
+      "Homestay trung tâm\nẤm cúng, giá tốt",
+      "Khách sạn 3–5 sao\nTiện nghi, view đẹp",
+      "Resort sinh thái\nKhông gian xanh"
+    ],
+    "totalCards": 16,
+    "inputsCount": 1,
+    "sampleCards": [
+      {
+        "text": "Lucia Homestay & Coffee",
+        "href": "/luu-tru/lucia-homestay-coffee"
+      },
+      {
+        "text": "Chi tiết",
+        "href": "/luu-tru/lucia-homestay-coffee"
+      },
+      {
+        "text": "Tropikult Homestay",
+        "href": "/luu-tru/tropikult-homestay"
+      },
+      {
+        "text": "Chi tiết",
+        "href": "/luu-tru/tropikult-homestay"
+      }
+    ]
+  },
+  "a01": {
+    "activeTag": "A",
+    "activeText": "Lịch sử",
+    "outline": "rgb(229, 151, 0) auto 1px",
+    "boxShadow": "none"
+  }
+}

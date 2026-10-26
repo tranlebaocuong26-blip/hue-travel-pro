@@ -1,0 +1,15 @@
+--- tailwind.config.ts (before)
++++ tailwind.config.ts (after)
+@@ -25,8 +25,11 @@
+         foreground: "var(--foreground)",
+       },
+       fontFamily: {
+-        sans: ["var(--font-sans)", "'Segoe UI'", "Roboto", "Arial", "sans-serif"],
++        sans: ["var(--font-ui)", "'Segoe UI'", "Arial", "sans-serif"],
+         serif: ["'Segoe UI'", "Georgia", "serif"],
++        ui: ["var(--font-ui)", "'Segoe UI'", "Arial", "sans-serif"],
++        editorial: ["var(--font-editorial)", "Georgia", "serif"],
++        brand: ["var(--font-sans)", "'Segoe UI'", "Roboto", "Arial", "sans-serif"],
+       },
+     },
+   },

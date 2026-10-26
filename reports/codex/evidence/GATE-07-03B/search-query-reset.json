@@ -1,0 +1,21 @@
+[
+  {
+    "result": "Hiển thị 1 cơ sở lưu trú",
+    "url": "http://192.168.1.12:3000/luu-tru?q=M%C6%B0%E1%BB%9Dng+Thanh"
+  },
+  {
+    "result": "Hiển thị 1 cơ sở lưu trú",
+    "url": "http://192.168.1.12:3000/luu-tru?q=muong+thanh"
+  },
+  {
+    "result": "Hiển thị 8 cơ sở lưu trú",
+    "test": "query-reload",
+    "url": "http://192.168.1.12:3000/luu-tru?budget=budget-standard",
+    "value": "budget-standard"
+  },
+  {
+    "result": "Hiển thị 8 cơ sở lưu trú",
+    "test": "reset",
+    "url": "http://192.168.1.12:3000/luu-tru"
+  }
+]

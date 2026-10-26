@@ -1,0 +1,166 @@
+{
+  "actions": [],
+  "filterRect": {
+    "bottom": 607.5,
+    "h": 206,
+    "right": 344,
+    "w": 313,
+    "x": 31,
+    "y": 401.5
+  },
+  "filters": [
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Loại hình lưu trú",
+      "options": [
+        {
+          "text": "Loại hình: Tất cả",
+          "value": "all"
+        },
+        {
+          "text": "Homestay mộc mạc",
+          "value": "homestay"
+        },
+        {
+          "text": "Khách sạn tiện nghi",
+          "value": "hotel"
+        },
+        {
+          "text": "Khu nghỉ dưỡng (Resort)",
+          "value": "resort"
+        }
+      ],
+      "rect": {
+        "bottom": 445.5,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 401.5
+      },
+      "scroll": 311,
+      "text": "Loại hình: Tất cả",
+      "value": "all"
+    },
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Khu vực lưu trú",
+      "options": [
+        {
+          "text": "Khu vực: Tất cả",
+          "value": "all"
+        },
+        {
+          "text": "Trung tâm TP. Huế",
+          "value": "Trung tâm"
+        },
+        {
+          "text": "Ven sông Hương",
+          "value": "sông Hương"
+        },
+        {
+          "text": "Gần Đại Nội / Thành Nội",
+          "value": "Đại Nội"
+        },
+        {
+          "text": "Ngoại ô thanh bình",
+          "value": "Ngoại ô"
+        }
+      ],
+      "rect": {
+        "bottom": 499.5,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 455.5
+      },
+      "scroll": 311,
+      "text": "Khu vực: Tất cả",
+      "value": "all"
+    },
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Khoảng giá phòng",
+      "options": [
+        {
+          "text": "Khoảng giá: Tham khảo chung theo mùa",
+          "value": "all"
+        },
+        {
+          "text": "Phân khúc phổ thông (Cần kiểm chứng)",
+          "value": "budget-standard"
+        },
+        {
+          "text": "Phân khúc cao cấp & resort (Cần kiểm chứng)",
+          "value": "budget-luxury"
+        },
+        {
+          "text": "Giá theo mùa & loại phòng",
+          "value": "contact"
+        }
+      ],
+      "rect": {
+        "bottom": 553.5,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 509.5
+      },
+      "scroll": 311,
+      "text": "Khoảng giá: Tham khảo chung theo mùa",
+      "value": "all"
+    },
+    {
+      "client": 311,
+      "font": "500 12px __geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "label": "Tiện nghi lưu trú",
+      "options": [
+        {
+          "text": "Tiện nghi: Tất cả",
+          "value": "all"
+        },
+        {
+          "text": "Có Wi-Fi tốc độ cao",
+          "value": "wifi"
+        },
+        {
+          "text": "Bữa sáng / Quán cà phê",
+          "value": "coffee"
+        },
+        {
+          "text": "Có hồ bơi",
+          "value": "pool"
+        },
+        {
+          "text": "Bãi đỗ xe ô tô",
+          "value": "parking"
+        }
+      ],
+      "rect": {
+        "bottom": 607.5,
+        "h": 44,
+        "right": 344,
+        "w": 313,
+        "x": 31,
+        "y": 563.5
+      },
+      "scroll": 311,
+      "text": "Tiện nghi: Tất cả",
+      "value": "all"
+    }
+  ],
+  "fonts": "loaded",
+  "url": "http://192.168.1.12:3000/luu-tru",
+  "viewport": {
+    "client": 375,
+    "height": 844,
+    "scroll": 375,
+    "width": 390
+  },
+  "phase": "after"
+}

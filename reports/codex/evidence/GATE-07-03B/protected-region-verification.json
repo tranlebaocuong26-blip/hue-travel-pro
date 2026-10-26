@@ -1,0 +1,31 @@
+[
+  {
+    "file": "src/app/ve-hue/page.tsx",
+    "outsideAuthorizedTypography": "BYTE_IDENTICAL",
+    "heroAssetCropGradient": "BYTE_IDENTICAL",
+    "T05_T07_A01_handlers_grid_markup": "BYTE_IDENTICAL_AFTER_REVERSING_ONLY_FONT_DECLARATIONS"
+  },
+  {
+    "file": "src/app/kham-pha/page.tsx",
+    "outsideAuthorizedTypography": "BYTE_IDENTICAL",
+    "heroAssetCropGradient": "BYTE_IDENTICAL",
+    "T05_T07_A01_handlers_grid_markup": "BYTE_IDENTICAL_AFTER_REVERSING_ONLY_FONT_DECLARATIONS"
+  },
+  {
+    "file": "src/app/cam-nang/page.tsx",
+    "outsideAuthorizedTypography": "BYTE_IDENTICAL",
+    "heroAssetCropGradient": "BYTE_IDENTICAL",
+    "T05_T07_A01_handlers_grid_markup": "BYTE_IDENTICAL_AFTER_REVERSING_ONLY_FONT_DECLARATIONS"
+  },
+  {
+    "file": "src/app/luu-tru/page.tsx",
+    "outsideAuthorizedTypography": "BYTE_IDENTICAL",
+    "heroAssetCropGradient": "BYTE_IDENTICAL",
+    "T05_T07_A01_handlers_grid_markup": "BYTE_IDENTICAL_AFTER_REVERSING_ONLY_FONT_DECLARATIONS"
+  },
+  {
+    "file": "src/components/navigation/AdaptiveNavigation.tsx",
+    "outsideAuthorizedFontDeclarations": "BYTE_IDENTICAL",
+    "logoDOMStructure_handlers_transforms_labels_icons": "BYTE_IDENTICAL"
+  }
+]

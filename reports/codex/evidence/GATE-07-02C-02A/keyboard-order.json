@@ -1,0 +1,2155 @@
+[
+  {
+    "vp": {
+      "width": 1366,
+      "height": 768
+    },
+    "sequence": [
+      {
+        "bounds": {
+          "bottom": 408,
+          "left": 9,
+          "right": 73.5625,
+          "top": 360
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 420,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 408,
+          "left": 73.5625,
+          "right": 129.125,
+          "top": 360
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 359,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 408,
+          "left": 129.125,
+          "right": 193.703125,
+          "top": 360
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 295,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 408,
+          "left": 193.703125,
+          "right": 267.140625,
+          "top": 360
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 218,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 408,
+          "left": 200.140625,
+          "right": 254.953125,
+          "top": 360
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 139,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 69,
+          "left": -42,
+          "right": 164,
+          "top": 25
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 72,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 145,
+          "left": -42,
+          "right": 164,
+          "top": 101
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 26,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 197,
+          "left": -42,
+          "right": 164,
+          "top": 153
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 3,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 249,
+          "left": -42,
+          "right": 164,
+          "top": 205
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 301,
+          "left": -42,
+          "right": 164,
+          "top": 257
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 353,
+          "left": -42,
+          "right": 164,
+          "top": 309
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 59.5,
+          "right": 183.375,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 1251.5,
+          "right": 1291.5,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 78,
+          "left": 288,
+          "right": 960,
+          "top": 32
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 70,
+          "left": 1088.09375,
+          "right": 1215,
+          "top": 40
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tìm toàn site"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 328,
+          "right": 390.59375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tất cả"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 398.59375,
+          "right": 484.015625,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 492.015625,
+          "right": 579.3125,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 587.3125,
+          "right": 653.234375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 309,
+          "right": 797.5,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Loại hình: Tất cảHomestay mộc mạcKhách sạn tiện nghiKhu nghỉ dưỡng (Resort)"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 809.5,
+          "right": 1298,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khu vực: Tất cảTrung tâm TP. HuếVen sông HươngGần Đại Nội / Thành NộiNgoại ô tha"
+      },
+      {
+        "bounds": {
+          "bottom": 491,
+          "left": 309,
+          "right": 797.5,
+          "top": 447
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khoảng giá: Tham khảo chung theo mùaPhân khúc phổ thông (Cần kiểm chứng)Phân khú"
+      },
+      {
+        "bounds": {
+          "bottom": 491,
+          "left": 809.5,
+          "right": 1298,
+          "top": 447
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Tiện nghi: Tất cảCó Wi-Fi tốc độ caoBữa sáng / Quán cà phêCó hồ bơiBãi đỗ xe ô t"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 288,
+          "right": 484.59375,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 496.59375,
+          "right": 693.1875,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 705.1875,
+          "right": 901.796875,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 913.796875,
+          "right": 1110.390625,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 1122.390625,
+          "right": 1319,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "forward": [
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 288,
+          "right": 484.59375,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 496.59375,
+          "right": 693.1875,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 705.1875,
+          "right": 901.796875,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 913.796875,
+          "right": 1110.390625,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 672,
+          "left": 1122.390625,
+          "right": 1319,
+          "top": 583
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 30,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "reverse": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "visualFocus": {
+      "card": {
+        "bottom": 672,
+        "top": 583
+      },
+      "navTop": 0,
+      "ring": "rgb(255, 255, 255) 0px 0px 0px 2px, rgb(77, 48, 135) 0px 0px 0px 4px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "scrollMarginBottom": "96px"
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "sequence": [
+      {
+        "bounds": {
+          "bottom": 474,
+          "left": 9,
+          "right": 73.5625,
+          "top": 426
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 491,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 474,
+          "left": 73.5625,
+          "right": 129.125,
+          "top": 426
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 237,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 474,
+          "left": 129.125,
+          "right": 193.703125,
+          "top": 426
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 24,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 474,
+          "left": 193.703125,
+          "right": 267.140625,
+          "top": 426
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 474,
+          "left": 200.140625,
+          "right": 254.953125,
+          "top": 426
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 69,
+          "left": -42,
+          "right": 164,
+          "top": 25
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 145,
+          "left": -42,
+          "right": 164,
+          "top": 101
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 197,
+          "left": -42,
+          "right": 164,
+          "top": 153
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 249,
+          "left": -42,
+          "right": 164,
+          "top": 205
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 301,
+          "left": -42,
+          "right": 164,
+          "top": 257
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 353,
+          "left": -42,
+          "right": 164,
+          "top": 309
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 96.5,
+          "right": 220.375,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 1288.5,
+          "right": 1328.5,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 78,
+          "left": 288,
+          "right": 960,
+          "top": 32
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 70,
+          "left": 1162.09375,
+          "right": 1289,
+          "top": 40
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tìm toàn site"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 328,
+          "right": 390.59375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tất cả"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 398.59375,
+          "right": 484.015625,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 492.015625,
+          "right": 579.3125,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 587.3125,
+          "right": 653.234375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 309,
+          "right": 834.5,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Loại hình: Tất cảHomestay mộc mạcKhách sạn tiện nghiKhu nghỉ dưỡng (Resort)"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 846.5,
+          "right": 1372,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khu vực: Tất cảTrung tâm TP. HuếVen sông HươngGần Đại Nội / Thành NộiNgoại ô tha"
+      },
+      {
+        "bounds": {
+          "bottom": 491,
+          "left": 309,
+          "right": 834.5,
+          "top": 447
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khoảng giá: Tham khảo chung theo mùaPhân khúc phổ thông (Cần kiểm chứng)Phân khú"
+      },
+      {
+        "bounds": {
+          "bottom": 491,
+          "left": 846.5,
+          "right": 1372,
+          "top": 447
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Tiện nghi: Tất cảCó Wi-Fi tốc độ caoBữa sáng / Quán cà phêCó hồ bơiBãi đỗ xe ô t"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 288,
+          "right": 499.390625,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 511.390625,
+          "right": 722.796875,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 734.796875,
+          "right": 946.1875,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 958.1875,
+          "right": 1169.59375,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 1181.59375,
+          "right": 1392.984375,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "forward": [
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 288,
+          "right": 499.390625,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 511.390625,
+          "right": 722.796875,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 734.796875,
+          "right": 946.1875,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 958.1875,
+          "right": 1169.59375,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 702,
+          "left": 1181.59375,
+          "right": 1392.984375,
+          "top": 613
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "reverse": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "visualFocus": {
+      "card": {
+        "bottom": 702,
+        "top": 613
+      },
+      "navTop": 0,
+      "ring": "rgb(255, 255, 255) 0px 0px 0px 2px, rgb(77, 48, 135) 0px 0px 0px 4px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "scrollMarginBottom": "96px"
+    }
+  },
+  {
+    "vp": {
+      "width": 1650,
+      "height": 786
+    },
+    "sequence": [
+      {
+        "bounds": {
+          "bottom": 417,
+          "left": 9,
+          "right": 73.5625,
+          "top": 369
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 417,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 417,
+          "left": 73.5625,
+          "right": 129.125,
+          "top": 369
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 379,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 417,
+          "left": 129.125,
+          "right": 193.703125,
+          "top": 369
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 318,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 417,
+          "left": 193.703125,
+          "right": 267.140625,
+          "top": 369
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 241,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 417,
+          "left": 200.140625,
+          "right": 254.953125,
+          "top": 369
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 159,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 69,
+          "left": -42,
+          "right": 164,
+          "top": 25
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 87,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 145,
+          "left": -42,
+          "right": 164,
+          "top": 101
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 35,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 197,
+          "left": -42,
+          "right": 164,
+          "top": 153
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 7,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 249,
+          "left": -42,
+          "right": 164,
+          "top": 205
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 301,
+          "left": -42,
+          "right": 164,
+          "top": 257
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 353,
+          "left": -42,
+          "right": 164,
+          "top": 309
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 201.5,
+          "right": 325.375,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 1393.5,
+          "right": 1433.5,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 78,
+          "left": 337.5,
+          "right": 1009.5,
+          "top": 32
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 70,
+          "left": 1322.59375,
+          "right": 1449.5,
+          "top": 40
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tìm toàn site"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 377.5,
+          "right": 440.09375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tất cả"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 448.09375,
+          "right": 533.515625,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 541.515625,
+          "right": 628.8125,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 636.8125,
+          "right": 702.734375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 358.5,
+          "right": 611.375,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Loại hình: Tất cảHomestay mộc mạcKhách sạn tiện nghiKhu nghỉ dưỡng (Resort)"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 623.375,
+          "right": 876.265625,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khu vực: Tất cảTrung tâm TP. HuếVen sông HươngGần Đại Nội / Thành NộiNgoại ô tha"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 888.265625,
+          "right": 1267.609375,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khoảng giá: Tham khảo chung theo mùaPhân khúc phổ thông (Cần kiểm chứng)Phân khú"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 1279.609375,
+          "right": 1532.484375,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Tiện nghi: Tất cảCó Wi-Fi tốc độ caoBữa sáng / Quán cà phêCó hồ bơiBãi đỗ xe ô t"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 337.5,
+          "right": 571.09375,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 583.09375,
+          "right": 816.6875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 828.6875,
+          "right": 1062.296875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1074.296875,
+          "right": 1307.890625,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1319.890625,
+          "right": 1553.5,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "forward": [
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 337.5,
+          "right": 571.09375,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 583.09375,
+          "right": 816.6875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 828.6875,
+          "right": 1062.296875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1074.296875,
+          "right": 1307.890625,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1319.890625,
+          "right": 1553.5,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "reverse": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "visualFocus": {
+      "card": {
+        "bottom": 646,
+        "top": 557
+      },
+      "navTop": 0,
+      "ring": "rgb(255, 255, 255) 0px 0px 0px 2px, rgb(77, 48, 135) 0px 0px 0px 4px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "scrollMarginBottom": "96px"
+    }
+  },
+  {
+    "vp": {
+      "width": 1920,
+      "height": 1080
+    },
+    "sequence": [
+      {
+        "bounds": {
+          "bottom": 564,
+          "left": 9,
+          "right": 73.5625,
+          "top": 516
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 268,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 564,
+          "left": 73.5625,
+          "right": 129.125,
+          "top": 516
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 253,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 564,
+          "left": 129.125,
+          "right": 193.703125,
+          "top": 516
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 223,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 564,
+          "left": 193.703125,
+          "right": 267.140625,
+          "top": 516
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 180,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 564,
+          "left": 200.140625,
+          "right": 254.953125,
+          "top": 516
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 80,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 69,
+          "left": -42,
+          "right": 164,
+          "top": 25
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 40,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 145,
+          "left": -42,
+          "right": 164,
+          "top": 101
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 13,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 197,
+          "left": -42,
+          "right": 164,
+          "top": 153
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 1,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 249,
+          "left": -42,
+          "right": 164,
+          "top": 205
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 301,
+          "left": -42,
+          "right": 164,
+          "top": 257
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 353,
+          "left": -42,
+          "right": 164,
+          "top": 309
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 336.5,
+          "right": 460.375,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": "HUẾTravel Pro"
+      },
+      {
+        "bounds": {
+          "bottom": 56,
+          "left": 1528.5,
+          "right": 1568.5,
+          "top": 16
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "A",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 78,
+          "left": 472.5,
+          "right": 1144.5,
+          "top": 32
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 70,
+          "left": 1457.59375,
+          "right": 1584.5,
+          "top": 40
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tìm toàn site"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 512.5,
+          "right": 575.09375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tất cả"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 583.09375,
+          "right": 668.515625,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 676.515625,
+          "right": 763.8125,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn"
+      },
+      {
+        "bounds": {
+          "bottom": 298,
+          "left": 771.8125,
+          "right": 837.734375,
+          "top": 262
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 493.5,
+          "right": 746.375,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Loại hình: Tất cảHomestay mộc mạcKhách sạn tiện nghiKhu nghỉ dưỡng (Resort)"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 758.375,
+          "right": 1011.265625,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khu vực: Tất cảTrung tâm TP. HuếVen sông HươngGần Đại Nội / Thành NộiNgoại ô tha"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 1023.265625,
+          "right": 1402.609375,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khoảng giá: Tham khảo chung theo mùaPhân khúc phổ thông (Cần kiểm chứng)Phân khú"
+      },
+      {
+        "bounds": {
+          "bottom": 435,
+          "left": 1414.609375,
+          "right": 1667.484375,
+          "top": 391
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Tiện nghi: Tất cảCó Wi-Fi tốc độ caoBữa sáng / Quán cà phêCó hồ bơiBãi đỗ xe ô t"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 472.5,
+          "right": 706.09375,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 718.09375,
+          "right": 951.6875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 963.6875,
+          "right": 1197.296875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1209.296875,
+          "right": 1442.890625,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1454.890625,
+          "right": 1688.5,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "forward": [
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 472.5,
+          "right": 706.09375,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 718.09375,
+          "right": 951.6875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 963.6875,
+          "right": 1197.296875,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1209.296875,
+          "right": 1442.890625,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 646,
+          "left": 1454.890625,
+          "right": 1688.5,
+          "top": 557
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "reverse": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "visualFocus": {
+      "card": {
+        "bottom": 646,
+        "top": 557
+      },
+      "navTop": 0,
+      "ring": "rgb(255, 255, 255) 0px 0px 0px 2px, rgb(77, 48, 135) 0px 0px 0px 4px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "scrollMarginBottom": "96px"
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "sequence": [
+      {
+        "bounds": {
+          "bottom": 840,
+          "left": 4,
+          "right": 77.390625,
+          "top": 789.5
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 462,
+        "tag": "A",
+        "text": "Trang chủ"
+      },
+      {
+        "bounds": {
+          "bottom": 840,
+          "left": 77.390625,
+          "right": 150.796875,
+          "top": 789.5
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 440,
+        "tag": "A",
+        "text": "Lịch sử"
+      },
+      {
+        "bounds": {
+          "bottom": 840,
+          "left": 150.796875,
+          "right": 224.1875,
+          "top": 789.5
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 322,
+        "tag": "A",
+        "text": "Khám phá"
+      },
+      {
+        "bounds": {
+          "bottom": 840,
+          "left": 224.1875,
+          "right": 297.59375,
+          "top": 789.5
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 236,
+        "tag": "A",
+        "text": "Di chuyển"
+      },
+      {
+        "bounds": {
+          "bottom": 840,
+          "left": 297.59375,
+          "right": 371,
+          "top": 789.5
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 150,
+        "tag": "A",
+        "text": "Lưu trú"
+      },
+      {
+        "bounds": {
+          "bottom": 58,
+          "left": 14,
+          "right": 315,
+          "top": 14
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "bounds": {
+          "bottom": 300,
+          "left": 34,
+          "right": 96.59375,
+          "top": 264
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Tất cả"
+      },
+      {
+        "bounds": {
+          "bottom": 300,
+          "left": 104.59375,
+          "right": 190.015625,
+          "top": 264
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Homestay"
+      },
+      {
+        "bounds": {
+          "bottom": 300,
+          "left": 198.015625,
+          "right": 285.3125,
+          "top": 264
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn"
+      },
+      {
+        "bounds": {
+          "bottom": 344,
+          "left": 34,
+          "right": 99.921875,
+          "top": 308
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "BUTTON",
+        "text": "Resort"
+      },
+      {
+        "bounds": {
+          "bottom": 457,
+          "left": 31,
+          "right": 344,
+          "top": 413
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Loại hình: Tất cảHomestay mộc mạcKhách sạn tiện nghiKhu nghỉ dưỡng (Resort)"
+      },
+      {
+        "bounds": {
+          "bottom": 511,
+          "left": 31,
+          "right": 344,
+          "top": 467
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khu vực: Tất cảTrung tâm TP. HuếVen sông HươngGần Đại Nội / Thành NộiNgoại ô tha"
+      },
+      {
+        "bounds": {
+          "bottom": 565,
+          "left": 31,
+          "right": 344,
+          "top": 521
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Khoảng giá: Tham khảo chung theo mùaPhân khúc phổ thông (Cần kiểm chứng)Phân khú"
+      },
+      {
+        "bounds": {
+          "bottom": 619,
+          "left": 31,
+          "right": 344,
+          "top": 575
+        },
+        "focusVisible": true,
+        "index": -1,
+        "scrollY": 0,
+        "tag": "SELECT",
+        "text": "Tiện nghi: Tất cảCó Wi-Fi tốc độ caoBữa sáng / Quán cà phêCó hồ bơiBãi đỗ xe ô t"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 14,
+          "right": 181.5,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 118,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 193.5,
+          "right": 361,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 118,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 14,
+          "right": 181.5,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 219,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 193.5,
+          "right": 361,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 219,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 14,
+          "right": 181.5,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 320,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "forward": [
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 14,
+          "right": 181.5,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 0,
+        "scrollY": 118,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 193.5,
+          "right": 361,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 1,
+        "scrollY": 118,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 14,
+          "right": 181.5,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 2,
+        "scrollY": 219,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 193.5,
+          "right": 361,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 3,
+        "scrollY": 219,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi"
+      },
+      {
+        "bounds": {
+          "bottom": 748,
+          "left": 14,
+          "right": 181.5,
+          "top": 659
+        },
+        "focusVisible": true,
+        "index": 4,
+        "scrollY": 320,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh"
+      }
+    ],
+    "reverse": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "visualFocus": {
+      "card": {
+        "bottom": 748,
+        "top": 659
+      },
+      "navTop": 784.5,
+      "ring": "rgb(255, 255, 255) 0px 0px 0px 2px, rgb(77, 48, 135) 0px 0px 0px 4px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+      "scrollMarginBottom": "96px"
+    }
+  }
+]

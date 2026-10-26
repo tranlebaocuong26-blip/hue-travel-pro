@@ -1,0 +1,127 @@
+[
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "cardNormalGeometryAndStylesEqual": true,
+    "childrenGeometryAndStylesEqual": true,
+    "gridEqual": true,
+    "heroBoundsEqual": true,
+    "horizontalOverflow": false,
+    "buttonTypes": [
+      "button",
+      "button",
+      "button",
+      "button",
+      "button"
+    ],
+    "nestedControls": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "cardNormalGeometryAndStylesEqual": true,
+    "childrenGeometryAndStylesEqual": true,
+    "gridEqual": true,
+    "heroBoundsEqual": true,
+    "horizontalOverflow": false,
+    "buttonTypes": [
+      "button",
+      "button",
+      "button",
+      "button",
+      "button"
+    ],
+    "nestedControls": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "viewport": [
+      1650,
+      786
+    ],
+    "cardNormalGeometryAndStylesEqual": true,
+    "childrenGeometryAndStylesEqual": true,
+    "gridEqual": true,
+    "heroBoundsEqual": true,
+    "horizontalOverflow": false,
+    "buttonTypes": [
+      "button",
+      "button",
+      "button",
+      "button",
+      "button"
+    ],
+    "nestedControls": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "cardNormalGeometryAndStylesEqual": true,
+    "childrenGeometryAndStylesEqual": true,
+    "gridEqual": true,
+    "heroBoundsEqual": true,
+    "horizontalOverflow": false,
+    "buttonTypes": [
+      "button",
+      "button",
+      "button",
+      "button",
+      "button"
+    ],
+    "nestedControls": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "cardNormalGeometryAndStylesEqual": true,
+    "childrenGeometryAndStylesEqual": true,
+    "gridEqual": true,
+    "heroBoundsEqual": true,
+    "horizontalOverflow": false,
+    "buttonTypes": [
+      "button",
+      "button",
+      "button",
+      "button",
+      "button"
+    ],
+    "nestedControls": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

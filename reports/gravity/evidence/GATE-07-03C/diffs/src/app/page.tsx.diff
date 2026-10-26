@@ -1,0 +1,17 @@
+--- before/src/app/page.tsx
++++ after/src/app/page.tsx
+@@ -152,11 +152,11 @@
+               onClick={(e) => handleGo(e, "/kham-pha")}
+               className="relative min-h-[188px] sm:min-h-[192px] lg:min-h-[176px] lg:[@media(max-height:820px)]:min-h-[164px] rounded-2xl overflow-hidden border border-white/25 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer"
+             >
+-              <div className="absolute inset-0 flex flex-col items-center justify-center pb-16 px-3 text-center bg-white/[0.06]">
+-                <span className="text-[10px] font-medium text-amber-100/90 tracking-[0.12em] uppercase">
++              <div className="font-ui absolute inset-0 flex flex-col items-center justify-center pb-16 px-3 text-center bg-white/[0.06]">
++                <span className="text-[11px] font-semibold text-amber-100/95 tracking-[0.08em] uppercase leading-tight">
+                   Đang chờ tư liệu ảnh
+                 </span>
+-                <span className="text-[10px] text-white/60 mt-1">
++                <span className="text-[11px] font-medium text-white/85 mt-1.5 leading-snug">
+                   Ẩm thực Cố Đô (Đợt 1)
+                 </span>
+               </div>

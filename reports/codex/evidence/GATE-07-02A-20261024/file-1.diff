@@ -1,0 +1,19 @@
+diff --git a/reports/codex/evidence/GATE-07-02A-20261024/file-1.before.tsx b/src/app/ve-hue/page.tsx
+index a0e2a5d..978d577 100644
+--- a/reports/codex/evidence/GATE-07-02A-20261024/file-1.before.tsx
++++ b/src/app/ve-hue/page.tsx
+@@ -51,12 +51,12 @@ export default function VeHuePage() {
+       >
+         <div className="max-w-2xl space-y-3 sm:space-y-4">
+           <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-warm-gold">
+-            <span>VỀ HUẾ</span>
++            <span>LỊCH SỬ</span>
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+           <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold font-serif tracking-tight leading-tight">
+-            Vùng đất di sản và thi ca
++            Lịch sử Huế
+           </h1>
+ 
+           <p className="text-white/85 text-xs sm:text-sm md:text-base leading-relaxed max-w-xl">

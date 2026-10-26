@@ -1,0 +1,40 @@
+--- src/app/layout.tsx (before)
++++ src/app/layout.tsx (after)
+@@ -8,6 +8,28 @@
+   src: "./fonts/GeistVF.woff",
+   variable: "--font-sans",
+   weight: "100 900",
++});
++
++const beVietnamPro = localFont({
++  src: [
++    { path: "./fonts/BeVietnamPro-Regular.ttf", weight: "400", style: "normal" },
++    { path: "./fonts/BeVietnamPro-Medium.ttf", weight: "500", style: "normal" },
++    { path: "./fonts/BeVietnamPro-SemiBold.ttf", weight: "600", style: "normal" },
++    { path: "./fonts/BeVietnamPro-Bold.ttf", weight: "700", style: "normal" },
++    { path: "./fonts/BeVietnamPro-Italic.ttf", weight: "400", style: "italic" },
++  ],
++  variable: "--font-ui",
++  display: "swap",
++  preload: false,
++});
++
++const notoSerif = localFont({
++  src: "./fonts/NotoSerif-VF.ttf",
++  variable: "--font-editorial",
++  weight: "100 900",
++  style: "normal",
++  display: "swap",
++  preload: false,
+ });
+ 
+ export const metadata: Metadata = {
+@@ -22,7 +44,7 @@
+ }>) {
+   return (
+     <html lang="vi">
+-      <body className={`${geistSans.variable} font-sans antialiased`}>
++      <body className={`${geistSans.variable} ${beVietnamPro.variable} ${notoSerif.variable} font-ui antialiased [&_main>div[style*='hero']]:font-brand`}>
+         <TransitionProvider>
+           <Shell>{children}</Shell>
+         </TransitionProvider>

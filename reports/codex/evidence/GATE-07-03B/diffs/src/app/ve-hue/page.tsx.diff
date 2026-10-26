@@ -1,0 +1,20 @@
+--- src/app/ve-hue/page.tsx (before)
++++ src/app/ve-hue/page.tsx (after)
+@@ -55,7 +55,7 @@
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold font-serif tracking-tight leading-tight">
++          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold font-editorial tracking-tight leading-tight">
+             Lịch sử Huế
+           </h1>
+ 
+@@ -124,7 +124,7 @@
+             <div className="text-xs uppercase tracking-wider font-bold text-amber-700">
+               DÒNG THỜI GIAN
+             </div>
+-            <h2 className="text-2xl font-bold font-serif text-dark-ink mt-1">
++            <h2 className="text-2xl font-bold font-editorial text-dark-ink mt-1">
+               Hành trình lịch sử của Huế
+             </h2>
+             <p className="text-xs sm:text-sm text-gray-500 mt-1 max-w-xl">

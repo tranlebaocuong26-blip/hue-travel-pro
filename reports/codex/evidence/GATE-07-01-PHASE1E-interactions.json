@@ -1,0 +1,53 @@
+[
+  {
+    "test": "Mobile drawer → Về Huế",
+    "result": "PASS",
+    "url": "http://localhost:3000/ve-hue"
+  },
+  {
+    "test": "Mobile bottom navigation → Home (sau morph ổn định)",
+    "result": "PASS",
+    "note": "Bấm ngay trong morph bị guard bỏ qua; thử lại sau khi trang ổn định."
+  },
+  {
+    "test": "Mobile drawer mở/đóng",
+    "result": "PASS"
+  },
+  {
+    "test": "CTA lime → Khám phá",
+    "result": "PASS"
+  },
+  {
+    "test": "Search dai noi / all",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha?q=dai+noi"
+  },
+  {
+    "test": "Search dai noi / camping",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha?q=dai+noi&category=camping"
+  },
+  {
+    "test": "Desktop Home → Về Huế → Home",
+    "result": "PASS"
+  },
+  {
+    "test": "Dock Di tích → /kham-pha",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Dock Văn hoá → /kham-pha",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Dock Ẩm thực → /kham-pha",
+    "result": "PASS",
+    "url": "http://localhost:3000/kham-pha"
+  },
+  {
+    "test": "Desktop Home → Khám phá (navigation)",
+    "result": "PASS"
+  }
+]

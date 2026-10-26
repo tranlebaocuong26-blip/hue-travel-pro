@@ -1,0 +1,38 @@
+--- src/app/luu-tru/page.tsx (before)
++++ src/app/luu-tru/page.tsx (after)
+@@ -148,7 +148,7 @@
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+-          <h1 className="text-xl sm:text-2xl lg:text-[1.75rem] font-bold font-serif leading-snug text-white">
++          <h1 className="text-xl sm:text-2xl lg:text-2xl font-bold font-editorial leading-snug text-white">
+             Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.
+           </h1>
+ 
+@@ -282,7 +282,7 @@
+ 
+       {/* Gợi ý theo nhu cầu Row (5 Cards from Mockup - Tương tác URL) */}
+       <div className="space-y-3">
+-        <h3 className="text-sm font-bold font-serif text-dark-ink flex items-center gap-1.5">
++        <h3 className="text-sm font-bold font-editorial text-dark-ink flex items-center gap-1.5">
+           <Sparkles className="w-4 h-4 text-warm-gold" />
+           <span>Gợi ý theo nhu cầu</span>
+         </h3>
+@@ -380,7 +380,7 @@
+         {/* Left Column (8 cols): Accommodation Cards */}
+         <div className="lg:col-span-8 space-y-6">
+           <div className="flex items-center justify-between">
+-            <h2 className="text-xl font-bold font-serif text-dark-ink flex items-center gap-2">
++            <h2 className="text-xl font-bold font-editorial text-dark-ink flex items-center gap-2">
+               <Hotel className="w-5 h-5 text-amber-700" />
+               <span>Danh sách lưu trú</span>
+               <span className="text-xs font-normal text-gray-400 font-sans ml-2">
+@@ -405,7 +405,7 @@
+                 <HelpCircle className="w-8 h-8" />
+               </div>
+               <div className="max-w-md mx-auto space-y-2">
+-                <h3 className="text-lg font-bold font-serif text-dark-ink">
++                <h3 className="text-lg font-bold font-editorial text-dark-ink">
+                   Không tìm thấy cơ sở lưu trú phù hợp
+                 </h3>
+                 <p className="text-xs sm:text-sm text-gray-500 leading-relaxed">

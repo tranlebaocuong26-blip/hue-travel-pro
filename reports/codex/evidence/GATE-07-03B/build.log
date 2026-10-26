@@ -1,0 +1,48 @@
+$ next build
+  ▲ Next.js 14.2.35
+  - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/30) ...
+   Generating static pages (7/30) 
+   Generating static pages (14/30) 
+   Generating static pages (22/30) 
+ ✓ Generating static pages (30/30)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                  Size     First Load JS
+┌ ○ /                                        4.01 kB        98.1 kB
+├ ○ /_not-found                              138 B          87.4 kB
+├ ○ /cam-nang                                8.65 kB         121 kB
+├ ● /cam-nang/thue-xe/[slug]                 192 B          97.3 kB
+├   ├ /cam-nang/thue-xe/dong-xanh-motorbike
+├   ├ /cam-nang/thue-xe/kevin-motorbike
+├   ├ /cam-nang/thue-xe/hidibike-hue
+├   └ [+3 more paths]
+├ ○ /kham-pha                                8.31 kB         121 kB
+├ ● /kham-pha/[slug]                         192 B          97.3 kB
+├   ├ /kham-pha/dai-noi-hue
+├   ├ /kham-pha/cau-truong-tien
+├   ├ /kham-pha/doi-thien-an
+├   └ [+3 more paths]
+├ ○ /luu-tru                                 8.62 kB         121 kB
+├ ● /luu-tru/[slug]                          192 B          97.3 kB
+├   ├ /luu-tru/lucia-homestay-coffee
+├   ├ /luu-tru/tropikult-homestay
+├   ├ /luu-tru/muong-thanh-holiday-hue
+├   └ [+5 more paths]
+├ ○ /tim-kiem                                4.89 kB         117 kB
+└ ○ /ve-hue                                  7.64 kB        94.9 kB
++ First Load JS shared by all                87.2 kB
+  ├ chunks/2200cc46-353cbf15579a818f.js      53.6 kB
+  ├ chunks/945-5648709946152fa4.js           31.7 kB
+  └ other shared chunks (total)              1.89 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses getStaticProps)
+

@@ -1,0 +1,40 @@
+# HUẾ TRAVEL PRO V2.3 — LOCKED ARTIFACTS REGISTER
+## SỔ ĐĂNG KÝ VÀ ĐỐI SOÁT MÃ BĂM CÁC TÀI LIỆU & MÃ NGUỒN ĐÃ KHÓA
+
+```
+Tài liệu: 03_LOCKED_ARTIFACTS_REGISTER.md
+Phiên làm việc: SESSION 01
+Ngày kiểm kê: 22/10/2026
+Quy tắc: PASS = LOCK — KHÔNG ĐƯỢC PHÉP CHỈNH SỬA BẤT KỲ FILE NÀO DƯỚI ĐÂY
+Thuật toán kiểm chứng: Cryptographic SHA-256 (Đo trực tiếp từ đĩa vật lý)
+```
+
+---
+
+## 1. BẢNG ĐỐI SOÁT MÃ BĂM ARTIFACTS CHÍNH THỨC
+
+| STT | Tên Artifact | Đường dẫn Vật lý Tuyệt đối | SHA-256 Thực tế trên Đĩa | SHA-256 Ghi nhận trong Hồ sơ | Kết quả Đối soát | Gate Phê duyệt | Quy tắc Bất biến |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|
+| 1 | `schema.prisma` (V5) | `A:\trí tuệ nhân tạo\BAI_3\hue-travel-pro\prisma\schema.prisma` | `30FB4E5684BFC74585271E703F530B786F5B0D79479C2AE11D3FD1B7481BB12A` | `30FB4E5684BFC74585271E703F530B786F5B0D79479C2AE11D3FD1B7481BB12A` | **MATCH** | GATE 06B | Tuyệt đối cấm sửa schema; cấm tạo migration V6 |
+| 2 | `migration.sql` (V5) | `A:\trí tuệ nhân tạo\BAI_3\hue-travel-pro\prisma\migrations\20261021201500_init_22_tables\migration.sql` | `E34D0F438B6A61AB874502AD204A3ED728BE62F16BF25A54734C5E4C135ABF2D` | `E34D0F438B6A61AB874502AD204A3ED728BE62F16BF25A54734C5E4C135ABF2D` | **MATCH** | GATE 06B | DDL gốc 22 bảng, 19 RLS, 5 trigger; cấm sửa |
+| 3 | `GATE-06B-SQL-REVIEW-V5.zip` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6B\GATE-06B-SQL-REVIEW-V5.zip` | `4A4EEB10F38F971B4D421467C704A360AB49F474D5A61F34456C24C241C41D2B` | `4A4EEB10F38F971B4D421467C704A360AB49F474D5A61F34456C24C241C41D2B` | **MATCH** | GATE 06B | Gói lưu trữ DDL V5 đã được Owner nghiệm thu |
+| 4 | `GATE-06C-B-SEED.sql` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\GATE-06C-B-SEED.sql` | `DE13CE21942BB6F0F2231C330FDC0A76D9A8BA1D95F2B2B330D7FF2D176A7384` | `DE13CE21942BB6F0F2231C330FDC0A76D9A8BA1D95F2B2B330D7FF2D176A7384` | **MATCH** | GATE 06C-B | Script seed kiểm thử local PostgreSQL 17 |
+| 5 | `GATE-06C-C1-CLOUD-SEED.sql` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\GATE-06C-C1-CLOUD-SEED.sql` | `B8B16FBD1C9B917C7ED0470CC76FFB31865BD23903196AE04FED7F00D7A22BDC` | `B8B16FBD1C9B917C7ED0470CC76FFB31865BD23903196AE04FED7F00D7A22BDC` | **MATCH** | GATE 06C-C1 | SQL nạp cloud seed đã COMMIT thành công trên DEV |
+| 6 | `GATE-06C-C1-POSTCHECK.sql` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\GATE-06C-C1-POSTCHECK.sql` | `C762C0AB8DDA6BD2B450BF867ECE3F3C4A1B67D9792A43846C65818B171E76BB` | `C762C0AB8DDA6BD2B450BF867ECE3F3C4A1B67D9792A43846C65818B171E76BB` | **MATCH** | GATE 06C-C1 | SQL truy vấn kiểm tra toàn vẹn sau nạp seed |
+| 7 | `prod-ca-2021.crt` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\prod-ca-2021.crt` | `1DCAAFBF6FDA7F21E34FF35825C1A1354408EA11E5839157E690AF851C73453A` | `1DCAAFBF6FDA7F21E34FF35825C1A1354408EA11E5839157E690AF851C73453A` | **MATCH** | GATE 06C-C1 | Chứng chỉ CA gốc Supabase DEV (bắt buộc TLS) |
+| 8 | `connection_security.py` (V4) | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\connection_security.py` | `D0C45034C44C871BDD0A4801D956571669CFE40469435978F18BD94CC8D08FC4` | `D0C45034C44C871BDD0A4801D956571669CFE40469435978F18BD94CC8D08FC4` | **MATCH** | GATE 06C-C1 | Module kiểm soát kết nối TLS, project identity |
+| 9 | `verify_and_run_cloud_seed.py` (V4) | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\verify_and_run_cloud_seed.py` | `F1817FFCC0A9F574664C6FF45647EC572BB42A17EC70EF9B45C7D6A6375B5C48` | `F1817FFCC0A9F574664C6FF45647EC572BB42A17EC70EF9B45C7D6A6375B5C48` | **MATCH** | GATE 06C-C1 | Wrapper thực thi cloud seed duy nhất đã chạy DEV |
+| 10 | `run_postcheck_audit.py` (V4) | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\run_postcheck_audit.py` | `5E8CFBDAA7065ED028142908F9FF1F66D55D4112B58373BC217FB5D7BB2D498F` | `5E8CFBDAA7065ED028142908F9FF1F66D55D4112B58373BC217FB5D7BB2D498F` | **MATCH** | GATE 06C-C1 | Parser kiểm chứng 4 khối JSON sau nạp |
+| 11 | `test_connection_security.py` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\test_connection_security.py` | `4BBED0015187461E6F287F75C24C4507D68E5403380BCB0BF68A7722832097AC` | `4BBED0015187461E6F287F75C24C4507D68E5403380BCB0BF68A7722832097AC` | **MATCH** | GATE 06C-C1 | Test harness kiểm tra connection guard |
+| 12 | `test_postcheck_audit.py` | `A:\trí tuệ nhân tạo\BAI_3\GATE_6C\test_postcheck_audit.py` | `B36DFED6979DFD0B6AAC967E75139E443A6FB209C0A700801044496E8C6C49CD` | `B36DFED6979DFD0B6AAC967E75139E443A6FB209C0A700801044496E8C6C49CD` | **MATCH** | GATE 06C-C1 | Test harness kiểm tra postcheck parser |
+| 13 | `places.ts` | `A:\trí tuệ nhân tạo\BAI_3\hue-travel-pro\src\data\places.ts` | `3F7061E7F89EFB7A4742F3E0D3B443C6AD76944A9C93613B2382549179CD3C39` | `3F7061E7F89EFB7A4742F3E0D3B443C6AD76944A9C93613B2382549179CD3C39` | **MATCH** | GATE 04 | 6 bản ghi nguồn địa điểm gốc (`p1–p6`) |
+| 14 | `rentals.ts` | `A:\trí tuệ nhân tạo\BAI_3\hue-travel-pro\src\data\rentals.ts` | `FB3DD93B1C95C2CA62B033DD10A50AB5EEFCDB9956622EA667362032AF395E27` | `FB3DD93B1C95C2CA62B033DD10A50AB5EEFCDB9956622EA667362032AF395E27` | **MATCH** | GATE 04 | 6 bản ghi nguồn thuê xe gốc (`r1–r6`) |
+| 15 | `accommodations.ts` | `A:\trí tuệ nhân tạo\BAI_3\hue-travel-pro\src\data\accommodations.ts` | `B960142F3C50117D937200A7854DE0DB44BC6404FF35F6C9ADE84158994C85BA` | `B960142F3C50117D937200A7854DE0DB44BC6404FF35F6C9ADE84158994C85BA` | **MATCH** | GATE 04 | 8 bản ghi nguồn lưu trú gốc (`a1–a8`) |
+| 16 | `HUE_TRAVEL_PRO_V2.3_GRAVITY_MASTER_SPEC.md` | `A:\trí tuệ nhân tạo\BAI_3\HUE_TRAVEL_PRO_V2.3_GRAVITY_MASTER_SPEC.md` | `CD1ED889A8A3096ABA81FE1AD6E72E3DAF6DE9FDEA0B88DCC32F0849EBC6133E` | `CD1ED889A8A3096ABA81FE1AD6E72E3DAF6DE9FDEA0B88DCC32F0849EBC6133E` | **MATCH** | GATE 00 | Tài liệu đặc tả tổng thể nền tảng V2.3 |
+
+---
+
+## 2. QUY ĐỊNH BẢO VỆ MÃ BĂM & XỬ LÝ SAI LỆCH
+
+1. **Tỷ lệ Khớp Checksum:** **16 / 16 Artifacts Cốt lõi đạt MATCH tuyệt đối 100%**. Không có bất kỳ artifact nào bị `MISMATCH` hay `NOT VERIFIED`.
+2. **Quy tắc Bất biến:** Mọi phiên làm việc tiếp theo nếu phát hiện bất kỳ file nào có mã băm sai lệch so với bảng này phải lập tức **STOP** và báo cáo Owner; tuyệt đối không tự ý sửa đổi file gốc.

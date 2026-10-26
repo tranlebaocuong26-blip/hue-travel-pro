@@ -1,0 +1,164 @@
+{
+  "doc": {
+    "client": 375,
+    "height": 4135,
+    "scroll": 375
+  },
+  "grids": [
+    {
+      "cols": "313px",
+      "gap": "10px",
+      "h": 206,
+      "w": 313,
+      "x": 31,
+      "y": 413
+    },
+    {
+      "cols": "167.5px 167.5px",
+      "gap": "12px",
+      "h": 291,
+      "w": 347,
+      "x": 14,
+      "y": 777
+    },
+    {
+      "cols": "347px",
+      "gap": "32px",
+      "h": 2923,
+      "w": 347,
+      "x": 14,
+      "y": 1100
+    },
+    {
+      "cols": "347px",
+      "gap": "20px",
+      "h": 2427,
+      "w": 347,
+      "x": 14,
+      "y": 1152
+    },
+    {
+      "cols": "148.5px 148.5px",
+      "gap": "8px",
+      "h": 88,
+      "w": 305,
+      "x": 35,
+      "y": 3664
+    }
+  ],
+  "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+  "headings": [
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Gợi ý theo nhu cầu",
+      "w": 347,
+      "x": 14,
+      "y": 745
+    },
+    {
+      "font": "20px",
+      "h": 28,
+      "text": "Danh sách lưu trú(8 cơ sở)",
+      "w": 260.375,
+      "x": 14,
+      "y": 1100
+    },
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Tiện nghi phổ biến",
+      "w": 305,
+      "x": 35,
+      "y": 3632
+    },
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Kinh nghiệm đặt phòng ở Huế",
+      "w": 305,
+      "x": 35,
+      "y": 3818
+    }
+  ],
+  "hero": {
+    "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+    "h": 274,
+    "position": "100% 65%, 100% 65%",
+    "w": 347,
+    "x": 14,
+    "y": 90
+  },
+  "images": [],
+  "overflow": [
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 294,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế (Cẩm nang homestay xinh xắn tại Huế)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 256,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay Huế"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 308,
+      "tag": "SPAN",
+      "text": "Nguồn: Mường Thanh Hospitality (Hệ thống đặt phòng chính thức)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 289,
+      "tag": "SPAN",
+      "text": "Nguồn: Traveloka (Nguồn thông tin & xếp hạng khách sạn Huế)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 264,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế & Chuyên trang homestay cố đô"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 230,
+      "tag": "SPAN",
+      "text": "Nguồn: AEON MALL Huế & Diễn đàn du lịch tự túc"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 297,
+      "tag": "SPAN",
+      "text": "Nguồn: Traveloka (Nguồn tham khảo khách sạn cao cấp tại Huế)"
+    },
+    {
+      "classes": "text-[10px] text-gray-400 truncate max-w-[120px] sm:max-w-[160px]",
+      "client": 120,
+      "overflow": "hidden",
+      "scroll": 241,
+      "tag": "SPAN",
+      "text": "Nguồn: Traveloka & Pilgrimage Village Official Guide"
+    }
+  ],
+  "url": "http://192.168.1.12:3000/luu-tru",
+  "viewport": [
+    390,
+    844
+  ]
+}

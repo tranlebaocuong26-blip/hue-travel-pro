@@ -1,0 +1,58 @@
+[
+  {
+    "file": "src/app/layout.tsx",
+    "shaBefore": "1E9456DFF453135BE2872B1FE614D5A8D37AB17AD86D543E387C7EB60ECA7DF9",
+    "shaAfter": "0378BB6475D431B15939406CE010756B7172312D4DE2CAA94389330648864A93",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/src/app/layout.tsx.diff",
+    "linesAdded": 23,
+    "linesRemoved": 1
+  },
+  {
+    "file": "tailwind.config.ts",
+    "shaBefore": "D004D059322F844A8E1AB882520597FDE1272A65798643ACCA3B2A99CD402B4F",
+    "shaAfter": "F5F33F7590E9B4101D8023AEE9B4267BA7EF891F8284C565CEAF4C921BA574FC",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/tailwind.config.ts.diff",
+    "linesAdded": 4,
+    "linesRemoved": 1
+  },
+  {
+    "file": "src/components/navigation/AdaptiveNavigation.tsx",
+    "shaBefore": "00B9231AFE4FACB5E16C03B20A4F8A5D30DCB95CB5F003E7A68BE61A2BF20E89",
+    "shaAfter": "C8956693A1EADA727D65970A2BE73309AF5E681C1BD73844B1653EBC027D81CD",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/src/components/navigation/AdaptiveNavigation.tsx.diff",
+    "linesAdded": 6,
+    "linesRemoved": 6
+  },
+  {
+    "file": "src/app/ve-hue/page.tsx",
+    "shaBefore": "BB581471A6F524AB52280C67846763C168F56D133E47B6B77395CEAE9B81FE97",
+    "shaAfter": "159401601D0106B51F2A20CD44E637830DDA55624390E81AFA261F17DCDF67B2",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/src/app/ve-hue/page.tsx.diff",
+    "linesAdded": 2,
+    "linesRemoved": 2
+  },
+  {
+    "file": "src/app/kham-pha/page.tsx",
+    "shaBefore": "B1EA13C00855702C034C587CBE550B56BDA5BDA53F5148E32DAA7E21EF76CED0",
+    "shaAfter": "75BFE61F61CE7997681E259808FCA5BAA1D7F9DB128A0285BF8E1003FE403028",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/src/app/kham-pha/page.tsx.diff",
+    "linesAdded": 3,
+    "linesRemoved": 3
+  },
+  {
+    "file": "src/app/cam-nang/page.tsx",
+    "shaBefore": "87E7709536FBAC0931AD734F7D95938912517FD38781B8F7A574D3A4A4DF891D",
+    "shaAfter": "418B40B267CE4891D30BDF9D6F13D668B0173B194F61F3EBB1764FB62B1DFFE2",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/src/app/cam-nang/page.tsx.diff",
+    "linesAdded": 5,
+    "linesRemoved": 5
+  },
+  {
+    "file": "src/app/luu-tru/page.tsx",
+    "shaBefore": "B4A3D56BC8EC3AAD01B2B2159F0E554F38804A6D8E0114F5B0D76180BDC06A89",
+    "shaAfter": "321B0E436A807562225A09FD1172507119AC8E44F60090F0F60EAABDBE0DC484",
+    "diff": "reports/codex/evidence/GATE-07-03B/diffs/src/app/luu-tru/page.tsx.diff",
+    "linesAdded": 4,
+    "linesRemoved": 4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "state": "sidebar",
+    "test": "home-history",
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "state": "capsule",
+    "test": "history-home",
+    "url": "http://192.168.1.12:3000/"
+  },
+  {
+    "state": "sidebar",
+    "test": "home-discovery",
+    "url": "http://192.168.1.12:3000/kham-pha"
+  },
+  {
+    "state": "capsule",
+    "test": "discovery-home",
+    "url": "http://192.168.1.12:3000/"
+  },
+  {
+    "state": "sidebar",
+    "test": "home-rental",
+    "url": "http://192.168.1.12:3000/cam-nang"
+  },
+  {
+    "state": "capsule",
+    "test": "rental-home",
+    "url": "http://192.168.1.12:3000/"
+  },
+  {
+    "state": "sidebar",
+    "test": "home-stay",
+    "url": "http://192.168.1.12:3000/luu-tru"
+  }
+]

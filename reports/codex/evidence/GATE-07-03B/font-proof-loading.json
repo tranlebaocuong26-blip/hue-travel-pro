@@ -1,0 +1,38 @@
+[
+  {
+    "family": "ProofUI",
+    "weight": "400",
+    "style": "normal",
+    "status": "loaded"
+  },
+  {
+    "family": "ProofUI",
+    "weight": "500",
+    "style": "normal",
+    "status": "loaded"
+  },
+  {
+    "family": "ProofUI",
+    "weight": "600",
+    "style": "normal",
+    "status": "loaded"
+  },
+  {
+    "family": "ProofUI",
+    "weight": "700",
+    "style": "normal",
+    "status": "loaded"
+  },
+  {
+    "family": "ProofUI",
+    "weight": "400",
+    "style": "italic",
+    "status": "loaded"
+  },
+  {
+    "family": "ProofEditorial",
+    "weight": "100 900",
+    "style": "normal",
+    "status": "loaded"
+  }
+]

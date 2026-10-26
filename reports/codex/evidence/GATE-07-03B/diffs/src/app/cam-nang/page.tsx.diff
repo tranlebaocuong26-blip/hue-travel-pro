@@ -1,0 +1,43 @@
+--- src/app/cam-nang/page.tsx (before)
++++ src/app/cam-nang/page.tsx (after)
+@@ -137,11 +137,11 @@
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-tight">
++          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-editorial tracking-tight leading-tight">
+             Di chuyển ở Huế
+           </h1>
+ 
+-          <p className="text-white/90 text-xs sm:text-sm lg:text-base leading-relaxed">
++          <p className="lg:font-brand text-white/90 text-xs sm:text-sm lg:text-base leading-relaxed">
+             Đi sao cho tiện, thuê xe sao cho dễ, chuẩn bị gì cho chuyến đi tự túc
+             an toàn và chủ động.
+           </p>
+@@ -282,7 +282,7 @@
+         {/* Left Column (8 cols): Rentals List */}
+         <div className="lg:col-span-8 space-y-6">
+           <div className="flex items-center justify-between">
+-            <h2 className="text-xl font-bold font-serif text-dark-ink flex items-center gap-2">
++            <h2 className="text-xl font-bold font-editorial text-dark-ink flex items-center gap-2">
+               <Bike className="w-5 h-5 text-orange-500" />
+               <span>Đơn vị thuê xe tham khảo</span>
+               <span className="text-xs font-normal text-gray-400 font-sans ml-2">
+@@ -307,7 +307,7 @@
+                 <HelpCircle className="w-8 h-8" />
+               </div>
+               <div className="max-w-md mx-auto space-y-2">
+-                <h3 className="text-lg font-bold font-serif text-dark-ink">
++                <h3 className="text-lg font-bold font-editorial text-dark-ink">
+                   Không tìm thấy cơ sở thuê xe phù hợp
+                 </h3>
+                 <p className="text-xs sm:text-sm text-gray-500 leading-relaxed">
+@@ -464,7 +464,7 @@
+ 
+           {/* Bottom Guidelines (4 cards) */}
+           <div className="pt-6 space-y-4">
+-            <h3 className="text-base font-bold font-serif text-dark-ink flex items-center gap-2">
++            <h3 className="text-base font-bold font-editorial text-dark-ink flex items-center gap-2">
+               <Lightbulb className="w-4 h-4 text-amber-500" />
+               <span>Kinh nghiệm & lưu ý quan trọng</span>
+             </h3>

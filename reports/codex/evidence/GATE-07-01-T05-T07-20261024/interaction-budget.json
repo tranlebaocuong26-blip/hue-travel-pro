@@ -1,0 +1,62 @@
+[
+  {
+    "cardNames": [
+      "Lucia Homestay & Coffee",
+      "Tropikult Homestay",
+      "Mường Thanh Holiday Huế",
+      "Indochine Palace",
+      "Nam Mua Boutique",
+      "a-mâze house",
+      "Senna Huế Hotel",
+      "Pilgrimage Village Resort"
+    ],
+    "unknownNotice": "Nhóm cơ sở lưu trú chưa có bảng giá kiểm chứng riêng (8 cơ sở)",
+    "url": "http://192.168.1.12:3000/luu-tru?budget=budget-standard",
+    "value": "budget-standard"
+  },
+  {
+    "cardNames": [
+      "Lucia Homestay & Coffee",
+      "Tropikult Homestay",
+      "Mường Thanh Holiday Huế",
+      "Indochine Palace",
+      "Nam Mua Boutique",
+      "a-mâze house",
+      "Senna Huế Hotel",
+      "Pilgrimage Village Resort"
+    ],
+    "unknownNotice": "Nhóm cơ sở lưu trú chưa có bảng giá kiểm chứng riêng (8 cơ sở)",
+    "url": "http://192.168.1.12:3000/luu-tru?budget=budget-luxury",
+    "value": "budget-luxury"
+  },
+  {
+    "cardNames": [
+      "Lucia Homestay & Coffee",
+      "Tropikult Homestay",
+      "Mường Thanh Holiday Huế",
+      "Indochine Palace",
+      "Nam Mua Boutique",
+      "a-mâze house",
+      "Senna Huế Hotel",
+      "Pilgrimage Village Resort"
+    ],
+    "unknownNotice": null,
+    "url": "http://192.168.1.12:3000/luu-tru?budget=contact",
+    "value": "contact"
+  },
+  {
+    "cardNames": [
+      "Lucia Homestay & Coffee",
+      "Tropikult Homestay",
+      "Mường Thanh Holiday Huế",
+      "Indochine Palace",
+      "Nam Mua Boutique",
+      "a-mâze house",
+      "Senna Huế Hotel",
+      "Pilgrimage Village Resort"
+    ],
+    "unknownNotice": null,
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "value": "all"
+  }
+]

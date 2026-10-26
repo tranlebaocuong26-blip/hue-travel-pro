@@ -1,0 +1,45 @@
+[
+  {
+    "count": 4,
+    "test": "stay type",
+    "url": "http://192.168.1.12:3000/luu-tru?type=homestay"
+  },
+  {
+    "test": "stay budget",
+    "unknown": "Nhóm cơ sở lưu trú chưa có bảng giá kiểm chứng riêng (4 cơ sở)",
+    "url": "http://192.168.1.12:3000/luu-tru?type=homestay&budget=budget-luxury"
+  },
+  {
+    "count": 8,
+    "test": "stay reset",
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "values": [
+      "all",
+      "all",
+      "all",
+      "all"
+    ]
+  },
+  {
+    "details": 6,
+    "test": "rental filter",
+    "url": "http://192.168.1.12:3000/cam-nang?vehicle=Xe+s%E1%BB%91",
+    "vehicle": "Xe số"
+  },
+  {
+    "backLink": "/cam-nang",
+    "h1": "Đồng Xanh Motorbike Rental",
+    "test": "rental detail",
+    "url": "http://192.168.1.12:3000/cam-nang/thue-xe/dong-xanh-motorbike"
+  },
+  {
+    "test": "rental back and map",
+    "backUrl": "http://192.168.1.12:3000/cam-nang",
+    "mapOpened": true
+  },
+  {
+    "link": "/cam-nang#thue-xe-danh-sach",
+    "test": "search label",
+    "url": "http://192.168.1.12:3000/tim-kiem?q=dong+xanh"
+  }
+]

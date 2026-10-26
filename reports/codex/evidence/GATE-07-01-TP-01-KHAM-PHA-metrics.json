@@ -1,0 +1,4472 @@
+{
+  "clipRows": [
+    {
+      "clipping": "[Circular]",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div > p",
+      "text": "Rừng thông bạt ngàn, hồ nước thơ mộng và không gian khí hậu mát mẻ lý tưởng cho dã ngoại, chụp ảnh."
+    }
+  ],
+  "collisions": [],
+  "fontStatus": "loaded",
+  "headings": [
+    "[Circular]",
+    "[Circular]",
+    "[Circular]",
+    "[Circular]",
+    "[Circular]",
+    "[Circular]",
+    "[Circular]",
+    "[Circular]",
+    "[Circular]"
+  ],
+  "iconCollisions": [],
+  "overflowRows": [],
+  "rows": [
+    {
+      "clientHeight": 23,
+      "clientWidth": 72,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 52.150001525878906,
+          "h": 20.80000114440918,
+          "right": 120.3375015258789,
+          "w": 39.537498474121094,
+          "x": 80.80000305175781,
+          "y": 31.350000381469727
+        }
+      ],
+      "letterSpacing": "0.9px",
+      "lineClamp": "",
+      "lineHeight": "22.5px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 53.05000114440918,
+        "h": 22.5,
+        "right": 152.6750030517578,
+        "w": 71.875,
+        "x": 80.80000305175781,
+        "y": 30.55000114440918
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 72,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > a > div:nth-of-type(2) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 10,
+      "clientWidth": 72,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 63.45000076293945,
+          "h": 12,
+          "right": 152.6750030517578,
+          "w": 71.875,
+          "x": 80.80000305175781,
+          "y": 51.45000076293945
+        }
+      ],
+      "letterSpacing": "1px",
+      "lineClamp": "",
+      "lineHeight": "10px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 63.04999923706055,
+        "h": 10,
+        "right": 152.6750030517578,
+        "w": 71.875,
+        "x": 80.80000305175781,
+        "y": 53.04999923706055
+      },
+      "scrollHeight": 10,
+      "scrollWidth": 72,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > a > div:nth-of-type(2) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Travel Pro",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "fragments": [
+        {
+          "bottom": 130.40000915527344,
+          "h": 16.00000762939453,
+          "right": 140.5124969482422,
+          "w": 65.71249389648438,
+          "x": 74.80000305175781,
+          "y": 114.4000015258789
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 132.8000030517578,
+        "h": 20,
+        "right": 140.51250457763672,
+        "w": 65.7125015258789,
+        "x": 74.80000305175781,
+        "y": 112.8000030517578
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 66,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > nav > a:nth-of-type(1) > span",
+      "tag": "SPAN",
+      "text": "Trang chủ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 46,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "fragments": [
+        {
+          "bottom": 182.40000915527344,
+          "h": 16,
+          "right": 121.1500015258789,
+          "w": 46.349998474121094,
+          "x": 74.80000305175781,
+          "y": 166.40000915527344
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 184.8000030517578,
+        "h": 20,
+        "right": 121.15000534057616,
+        "w": 46.35000228881836,
+        "x": 74.80000305175781,
+        "y": 164.8000030517578
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 46,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > nav > a:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Về Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "fragments": [
+        {
+          "bottom": 234.40000915527344,
+          "h": 16,
+          "right": 140.8125,
+          "w": 66.01249694824219,
+          "x": 74.80000305175781,
+          "y": 218.40000915527344
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 236.8000030517578,
+        "h": 20,
+        "right": 140.81250762939453,
+        "w": 66.01250457763672,
+        "x": 74.80000305175781,
+        "y": 216.8000030517578
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 66,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > nav > a:nth-of-type(3) > span",
+      "tag": "SPAN",
+      "text": "Khám phá",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 67,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "fragments": [
+        {
+          "bottom": 286.3999938964844,
+          "h": 16,
+          "right": 141.83750915527344,
+          "w": 67.03750610351562,
+          "x": 74.80000305175781,
+          "y": 270.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 288.8000183105469,
+        "h": 20,
+        "right": 141.8375015258789,
+        "w": 67.0374984741211,
+        "x": 74.80000305175781,
+        "y": 268.8000183105469
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 67,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > nav > a:nth-of-type(4) > span",
+      "tag": "SPAN",
+      "text": "Cẩm nang",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 49,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "fragments": [
+        {
+          "bottom": 338.3999938964844,
+          "h": 16,
+          "right": 124.2125015258789,
+          "w": 49.412498474121094,
+          "x": 74.80000305175781,
+          "y": 322.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 340.8000183105469,
+        "h": 20,
+        "right": 124.21250534057616,
+        "w": 49.41250228881836,
+        "x": 74.80000305175781,
+        "y": 320.8000183105469
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 49,
+      "selector": "#sidebar-content-layer > div:nth-of-type(1) > nav > a:nth-of-type(5) > span",
+      "tag": "SPAN",
+      "text": "Lưu trú",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 84,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 733.6000366210938,
+          "h": 13.60003662109375,
+          "right": 152.8125,
+          "w": 84.01249694824219,
+          "x": 68.80000305175781,
+          "y": 720
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 735.2000122070312,
+        "h": 16,
+        "right": 152.81250762939453,
+        "w": 84.01250457763672,
+        "x": 68.80000305175781,
+        "y": 719.2000122070312
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 84,
+      "selector": "#sidebar-content-layer > div:nth-of-type(2) > div > span",
+      "tag": "SPAN",
+      "text": "Phiên bản V2.3",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 44,
+      "clientWidth": 670,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "fragments": [],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": true,
+      "overflow": [
+        "clip",
+        "clip"
+      ],
+      "rect": {
+        "bottom": 77.60000228881836,
+        "h": 45.60000228881836,
+        "right": 960,
+        "w": 672,
+        "x": 288,
+        "y": 32
+      },
+      "scrollHeight": 44,
+      "scrollWidth": 670,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(1) > form > div > input",
+      "tag": "INPUT",
+      "text": "Tìm địa điểm, món ăn, camping, bãi biển (VD: Đại Nội, dai noi)...",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 75,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 61.20000076293945,
+          "h": 13.599998474121094,
+          "right": 1200.4000244140625,
+          "w": 74.9000244140625,
+          "x": 1125.5,
+          "y": 47.60000228881836
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 62.79999923706055,
+        "h": 16,
+        "right": 1200.400001525879,
+        "w": 74.9000015258789,
+        "x": 1125.5,
+        "y": 46.79999923706055
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 75,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(1) > div > button:nth-of-type(1) > span",
+      "tag": "SPAN",
+      "text": "Tìm toàn site",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 69,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 164,
+          "h": 13.599990844726562,
+          "right": 397.1625061035156,
+          "w": 69.16250610351562,
+          "x": 328,
+          "y": 150.40000915527344
+        }
+      ],
+      "letterSpacing": "0.6px",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 165.60000610351562,
+        "h": 16,
+        "right": 397.1624984741211,
+        "w": 69.1624984741211,
+        "x": 328,
+        "y": 149.60000610351562
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 69,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span",
+      "tag": "SPAN",
+      "text": "KHÁM PHÁ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 48,
+      "clientWidth": 672,
+      "clipping": [],
+      "fontFamily": "\"Segoe UI\", Georgia, serif",
+      "fontSize": "48px",
+      "fontWeight": "800",
+      "fragments": [
+        {
+          "bottom": 233.6000061035156,
+          "h": 64,
+          "right": 658.375,
+          "w": 330.375,
+          "x": 328,
+          "y": 169.60000610351562
+        }
+      ],
+      "letterSpacing": "-1.2px",
+      "lineClamp": "",
+      "lineHeight": "48px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 225.6000061035156,
+        "h": 48,
+        "right": 1000,
+        "w": 672,
+        "x": 328,
+        "y": 177.60000610351562
+      },
+      "scrollHeight": 56,
+      "scrollWidth": 672,
+      "selector": "div > div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > h1",
+      "tag": "H1",
+      "text": "Khám phá Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 672,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 258.3999938964844,
+          "h": 17.599990844726562,
+          "right": 875.8375244140625,
+          "w": 547.8375244140625,
+          "x": 328,
+          "y": 240.8000030517578
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 261.6000061035156,
+        "h": 24,
+        "right": 1000,
+        "w": 672,
+        "x": 328,
+        "y": 237.6000061035156
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 672,
+      "selector": "div > div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > p",
+      "tag": "P",
+      "text": "Những điểm đến đẹp, thú vị và đáng trải nghiệm đang chờ bạn khám phá.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 84,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 306,
+          "h": 13.600006103515623,
+          "right": 411.8625183105469,
+          "w": 83.86251831054688,
+          "x": 328,
+          "y": 292.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 307.6000061035156,
+        "h": 16,
+        "right": 411.8625030517578,
+        "w": 83.86250305175781,
+        "x": 328,
+        "y": 291.6000061035156
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 84,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Gợi ý tìm kiếm:",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 36,
+      "clientWidth": 62,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 306,
+          "h": 13.600006103515623,
+          "right": 471.4250183105469,
+          "w": 41.5625,
+          "x": 429.8625183105469,
+          "y": 292.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 317.6000061035156,
+        "h": 36,
+        "right": 481.4250183105469,
+        "w": 61.5625,
+        "x": 419.8625183105469,
+        "y": 281.6000061035156
+      },
+      "scrollHeight": 36,
+      "scrollWidth": 62,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "text": "Đại Nội",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 36,
+      "clientWidth": 56,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 306,
+          "h": 13.600006103515623,
+          "right": 535.7999877929688,
+          "w": 36.374969482421875,
+          "x": 499.4250183105469,
+          "y": 292.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 317.6000061035156,
+        "h": 36,
+        "right": 545.8000183105469,
+        "w": 56.375,
+        "x": 489.4250183105469,
+        "y": 281.6000061035156
+      },
+      "scrollHeight": 36,
+      "scrollWidth": 56,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "text": "dai noi",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 36,
+      "clientWidth": 103,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 306,
+          "h": 13.600006103515623,
+          "right": 647.1000366210938,
+          "w": 83.300048828125,
+          "x": 563.7999877929688,
+          "y": 292.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 317.6000061035156,
+        "h": 36,
+        "right": 657.0999908447266,
+        "w": 103.3000030517578,
+        "x": 553.7999877929688,
+        "y": 281.6000061035156
+      },
+      "scrollHeight": 36,
+      "scrollWidth": 103,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > button:nth-of-type(3)",
+      "tag": "BUTTON",
+      "text": "Chùa Thiên Mụ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 36,
+      "clientWidth": 114,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 306,
+          "h": 13.600006103515623,
+          "right": 769.0750122070312,
+          "w": 93.9749755859375,
+          "x": 675.1000366210938,
+          "y": 292.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 317.6000061035156,
+        "h": 36,
+        "right": 779.0750350952148,
+        "w": 113.9749984741211,
+        "x": 665.1000366210938,
+        "y": 281.6000061035156
+      },
+      "scrollHeight": 36,
+      "scrollWidth": 114,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > button:nth-of-type(4)",
+      "tag": "BUTTON",
+      "text": "Bãi biển Lăng Cô",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 36,
+      "clientWidth": 69,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 306,
+          "h": 13.600006103515623,
+          "right": 846.3125,
+          "w": 49.23748779296875,
+          "x": 797.0750122070312,
+          "y": 292.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 317.6000061035156,
+        "h": 36,
+        "right": 856.3125152587891,
+        "w": 69.23750305175781,
+        "x": 787.0750122070312,
+        "y": 281.6000061035156
+      },
+      "scrollHeight": 36,
+      "scrollWidth": 69,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > button:nth-of-type(5)",
+      "tag": "BUTTON",
+      "text": "Camping",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 36,
+      "clientWidth": 150,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 350,
+          "h": 13.600006103515623,
+          "right": 468.375,
+          "w": 130.375,
+          "x": 338,
+          "y": 336.3999938964844
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 361.6000061035156,
+        "h": 36,
+        "right": 478.375,
+        "w": 150.375,
+        "x": 328,
+        "y": 325.6000061035156
+      },
+      "scrollHeight": 36,
+      "scrollWidth": 150,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(2) > div > div:nth-of-type(2) > button:nth-of-type(6)",
+      "tag": "BUTTON",
+      "text": "Làng hương Thủy Xuân",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 469.75,
+          "h": 16,
+          "right": 495.0375061035156,
+          "w": 138.23748779296875,
+          "x": 356.8000183105469,
+          "y": 453.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 472.1499938964844,
+        "h": 20,
+        "right": 517.0000152587891,
+        "w": 160.1999969482422,
+        "x": 356.8000183105469,
+        "y": 452.1499938964844
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(1) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Di tích & danh thắng",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 17,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 486.5500183105469,
+          "h": 12.800018310546877,
+          "right": 465.4375,
+          "w": 108.63748168945312,
+          "x": 356.8000183105469,
+          "y": 473.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 488.6499938964844,
+        "h": 16.5,
+        "right": 517.0000152587891,
+        "w": 160.1999969482422,
+        "x": 356.8000183105469,
+        "y": 472.1499938964844
+      },
+      "scrollHeight": 17,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(1) > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Lăng tẩm, chùa chiền",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 469.75,
+          "h": 16,
+          "right": 754.5,
+          "w": 135.89996337890625,
+          "x": 618.6000366210938,
+          "y": 453.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 472.1499938964844,
+        "h": 20,
+        "right": 778.8000335693359,
+        "w": 160.1999969482422,
+        "x": 618.6000366210938,
+        "y": 452.1499938964844
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(2) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Camping & dã ngoại",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 17,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 486.5500183105469,
+          "h": 12.800018310546877,
+          "right": 740.9249877929688,
+          "w": 122.324951171875,
+          "x": 618.6000366210938,
+          "y": 473.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 488.6499938964844,
+        "h": 16.5,
+        "right": 778.8000335693359,
+        "w": 160.1999969482422,
+        "x": 618.6000366210938,
+        "y": 472.1499938964844
+      },
+      "scrollHeight": 17,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(2) > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Thiên nhiên, trải nghiệm",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 469.75,
+          "h": 16,
+          "right": 1005.6625366210938,
+          "w": 125.26251220703124,
+          "x": 880.4000244140625,
+          "y": 453.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 472.1499938964844,
+        "h": 20,
+        "right": 1040.6000213623047,
+        "w": 160.1999969482422,
+        "x": 880.4000244140625,
+        "y": 452.1499938964844
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(3) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Biển & nghỉ dưỡng",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 17,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 486.5500183105469,
+          "h": 12.800018310546877,
+          "right": 993.0125122070312,
+          "w": 112.61248779296876,
+          "x": 880.4000244140625,
+          "y": 473.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 488.6499938964844,
+        "h": 16.5,
+        "right": 1040.6000213623047,
+        "w": 160.1999969482422,
+        "x": 880.4000244140625,
+        "y": 472.1499938964844
+      },
+      "scrollHeight": 17,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(3) > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Bãi biển đẹp, check-in",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 469.75,
+          "h": 16,
+          "right": 1254.375,
+          "w": 112.1749267578125,
+          "x": 1142.2000732421875,
+          "y": 453.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 472.1499938964844,
+        "h": 20,
+        "right": 1302.4000701904297,
+        "w": 160.1999969482422,
+        "x": 1142.2000732421875,
+        "y": 452.1499938964844
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(4) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Check-in nổi bật",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 17,
+      "clientWidth": 160,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 486.5500183105469,
+          "h": 12.800018310546877,
+          "right": 1293.0875244140625,
+          "w": 150.887451171875,
+          "x": 1142.2000732421875,
+          "y": 473.75
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 488.6499938964844,
+        "h": 16.5,
+        "right": 1302.4000701904297,
+        "w": 160.1999969482422,
+        "x": 1142.2000732421875,
+        "y": 472.1499938964844
+      },
+      "scrollHeight": 17,
+      "scrollWidth": 160,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(3) > button:nth-of-type(4) > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Cầu Trường Tiền, làng hương",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "nowrap"
+    },
+    {
+      "clientHeight": 42,
+      "clientWidth": 237,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "fragments": [],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "normal",
+      "nativeControl": true,
+      "overflow": [
+        "clip",
+        "clip"
+      ],
+      "rect": {
+        "bottom": 604,
+        "h": 44,
+        "right": 547.2000274658203,
+        "w": 238.40000915527344,
+        "x": 308.8000183105469,
+        "y": 560
+      },
+      "scrollHeight": 42,
+      "scrollWidth": 237,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > select",
+      "tag": "SELECT",
+      "text": "Danh mục: Tất cả danh mục",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "pre"
+    },
+    {
+      "clientHeight": 42,
+      "clientWidth": 237,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "fragments": [],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "normal",
+      "nativeControl": true,
+      "overflow": [
+        "clip",
+        "clip"
+      ],
+      "rect": {
+        "bottom": 604,
+        "h": 44,
+        "right": 797.6000213623047,
+        "w": 238.40000915527344,
+        "x": 559.2000122070312,
+        "y": 560
+      },
+      "scrollHeight": 42,
+      "scrollWidth": 237,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > select",
+      "tag": "SELECT",
+      "text": "Khu vực: Tất cả khu vực",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "pre"
+    },
+    {
+      "clientHeight": 42,
+      "clientWidth": 237,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "fragments": [],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "normal",
+      "nativeControl": true,
+      "overflow": [
+        "clip",
+        "clip"
+      ],
+      "rect": {
+        "bottom": 604,
+        "h": 44,
+        "right": 1048.0000457763672,
+        "w": 238.40000915527344,
+        "x": 809.6000366210938,
+        "y": 560
+      },
+      "scrollHeight": 42,
+      "scrollWidth": 237,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(3) > select",
+      "tag": "SELECT",
+      "text": "Ngân sách: Tất cả mức giá",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "pre"
+    },
+    {
+      "clientHeight": 42,
+      "clientWidth": 237,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "fragments": [],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "normal",
+      "nativeControl": true,
+      "overflow": [
+        "clip",
+        "clip"
+      ],
+      "rect": {
+        "bottom": 604,
+        "h": 44,
+        "right": 1298.4000091552734,
+        "w": 238.40000915527344,
+        "x": 1060,
+        "y": 560
+      },
+      "scrollHeight": 42,
+      "scrollWidth": 237,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(4) > select",
+      "tag": "SELECT",
+      "text": "Phù hợp: Mọi đối tượng",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "pre"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 155,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 639.2000122070312,
+          "h": 13.5999755859375,
+          "right": 351.6750183105469,
+          "w": 42.875,
+          "x": 308.8000183105469,
+          "y": 625.6000366210938
+        },
+        {
+          "bottom": 639.2000122070312,
+          "h": 13.5999755859375,
+          "right": 463.75,
+          "w": 98.13748168945312,
+          "x": 365.6125183105469,
+          "y": 625.6000366210938
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 640.7999877929688,
+        "h": 16,
+        "right": 463.75001525878906,
+        "w": 154.9499969482422,
+        "x": 308.8000183105469,
+        "y": 624.7999877929688
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 155,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(4) > div:nth-of-type(2) > div > span",
+      "tag": "SPAN",
+      "text": "Hiển thị địa điểm phù hợp",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 0,
+      "clientWidth": 0,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 639.2000122070312,
+          "h": 13.5999755859375,
+          "right": 362.6125183105469,
+          "w": 7.9375,
+          "x": 354.6750183105469,
+          "y": 625.6000366210938
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 639.2000370025635,
+        "h": 13.600000381469728,
+        "right": 362.6125183105469,
+        "w": 7.9375,
+        "x": 354.6750183105469,
+        "y": 625.6000366210938
+      },
+      "scrollHeight": 0,
+      "scrollWidth": 0,
+      "selector": "main > div > div:nth-of-type(4) > div:nth-of-type(2) > div > span > strong",
+      "tag": "STRONG",
+      "text": "6",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 28,
+      "clientWidth": 169,
+      "clipping": [],
+      "fontFamily": "\"Segoe UI\", Georgia, serif",
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 720.7999877929688,
+          "h": 26.39996337890625,
+          "right": 480.8000183105469,
+          "w": 168.80001831054688,
+          "x": 312,
+          "y": 694.4000244140625
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "28px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 721.6000366210938,
+        "h": 28,
+        "right": 480.8000030517578,
+        "w": 168.8000030517578,
+        "x": 312,
+        "y": 693.6000366210938
+      },
+      "scrollHeight": 28,
+      "scrollWidth": 169,
+      "selector": "main > div > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > h2 > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Địa điểm phù hợp",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 714,
+          "h": 13.5999755859375,
+          "right": 500.1000061035156,
+          "w": 3.29998779296875,
+          "x": 496.8000183105469,
+          "y": 700.4000244140625
+        },
+        {
+          "bottom": 714,
+          "h": 13.5999755859375,
+          "right": 507.6000061035156,
+          "w": 7.5,
+          "x": 500.1000061035156,
+          "y": 700.4000244140625
+        },
+        {
+          "bottom": 714,
+          "h": 13.5999755859375,
+          "right": 563.0125122070312,
+          "w": 52.412506103515625,
+          "x": 510.6000061035156,
+          "y": 700.4000244140625
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 715.6000366210938,
+        "h": 16,
+        "right": 563.0125198364258,
+        "w": 66.2125015258789,
+        "x": 496.8000183105469,
+        "y": 699.6000366210938
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 66,
+      "selector": "main > div > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > h2 > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "( 6 địa điểm)",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 23,
+      "clientWidth": 60,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 775.2000122070312,
+          "h": 12,
+          "right": 350.32501220703125,
+          "w": 39.524993896484375,
+          "x": 310.8000183105469,
+          "y": 763.2000122070312
+        }
+      ],
+      "letterSpacing": "0.5px",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 781.4000244140625,
+        "h": 23,
+        "right": 360.3250198364258,
+        "w": 59.525001525878906,
+        "x": 300.8000183105469,
+        "y": 758.4000244140625
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 60,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > a > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Di tích",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 238,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 910.7999877929688,
+          "h": 13.5999755859375,
+          "right": 603.6000366210938,
+          "w": 238.1500244140625,
+          "x": 365.4500122070313,
+          "y": 897.2000122070312
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 912.4000244140624,
+        "h": 16,
+        "right": 603.6000213623047,
+        "w": 238.15000915527344,
+        "x": 365.4500122070313,
+        "y": 896.4000244140625
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 238,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > a > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Theo biểu giá niêm yết tại quầy vé di tích",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 91,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 959.2000122070312,
+          "h": 17.5999755859375,
+          "right": 395.375,
+          "w": 90.57498168945312,
+          "x": 304.8000183105469,
+          "y": 941.6000366210938
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 962.4000244140624,
+        "h": 24,
+        "right": 395.3750228881836,
+        "w": 90.57500457763672,
+        "x": 304.8000183105469,
+        "y": 938.4000244140624
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 91,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+      "tag": "A",
+      "text": "Đại Nội Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 102,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 984.7999877929688,
+          "h": 13.5999755859375,
+          "right": 427.0500183105469,
+          "w": 102.25,
+          "x": 324.8000183105469,
+          "y": 971.2000122070312
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 986.4000244140624,
+        "h": 16,
+        "right": 427.0500183105469,
+        "w": 102.25,
+        "x": 324.8000183105469,
+        "y": 970.4000244140624
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 102,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Trung tâm TP. Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 39,
+      "clientWidth": 295,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1010.4000244140624,
+          "h": 13.60003662109375,
+          "right": 598.5875244140625,
+          "w": 293.7875061035156,
+          "x": 304.8000183105469,
+          "y": 996.7999877929688
+        },
+        {
+          "bottom": 1029.9000244140625,
+          "h": 13.60003662109375,
+          "right": 524.0375366210938,
+          "w": 219.23751831054688,
+          "x": 304.8000183105469,
+          "y": 1016.2999877929688
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "19.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 1033.4000244140625,
+        "h": 39,
+        "right": 599.6000366210938,
+        "w": 294.8000183105469,
+        "x": 304.8000183105469,
+        "y": 994.4000244140624
+      },
+      "scrollHeight": 39,
+      "scrollWidth": 295,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > p",
+      "tag": "P",
+      "text": "Quần thể di tích cố đô, biểu tượng văn hóa và lịch sử của triều đại nhà Nguyễn suốt 143 năm.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 88,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1073,
+          "h": 12,
+          "right": 385.2375183105469,
+          "w": 72.4375,
+          "x": 312.8000183105469,
+          "y": 1061
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1077.2000732421875,
+        "h": 19,
+        "right": 393.2375183105469,
+        "w": 88.4375,
+        "x": 304.8000183105469,
+        "y": 1058.2000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 88,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Di sản UNESCO",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 112,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1098,
+          "h": 12,
+          "right": 409.2124938964844,
+          "w": 96.4124755859375,
+          "x": 312.8000183105469,
+          "y": 1086
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1102.2000732421875,
+        "h": 19,
+        "right": 417.212516784668,
+        "w": 112.4124984741211,
+        "x": 304.8000183105469,
+        "y": 1083.2000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 112,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Lịch sử triều Nguyễn",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 1086.5999755859375,
+          "h": 13.5999755859375,
+          "right": 553.6000366210938,
+          "w": 42.28753662109375,
+          "x": 511.3125,
+          "y": 1073
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1092.2000732421875,
+        "h": 24,
+        "right": 565.5999984741211,
+        "w": 66.2874984741211,
+        "x": 499.3125,
+        "y": 1068.2000732421875
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 66,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "tag": "A",
+      "text": "Chi tiết",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 23,
+      "clientWidth": 73,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 775.2000122070312,
+          "h": 12,
+          "right": 712.5125122070312,
+          "w": 53.3125,
+          "x": 659.2000122070312,
+          "y": 763.2000122070312
+        }
+      ],
+      "letterSpacing": "0.5px",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 781.4000244140625,
+        "h": 23,
+        "right": 722.5125122070312,
+        "w": 73.3125,
+        "x": 649.2000122070312,
+        "y": 758.4000244140625
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 73,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > a > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Check-in",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 179,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 910.7999877929688,
+          "h": 13.5999755859375,
+          "right": 952,
+          "w": 179.0374755859375,
+          "x": 772.9625244140625,
+          "y": 897.2000122070312
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 912.4000244140624,
+        "h": 16,
+        "right": 952.000030517578,
+        "w": 179.03750610351562,
+        "x": 772.9625244140625,
+        "y": 896.4000244140625
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 179,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > a > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Miễn phí tham quan công cộng",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 131,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 959.2000122070312,
+          "h": 17.5999755859375,
+          "right": 784.5750122070312,
+          "w": 131.375,
+          "x": 653.2000122070312,
+          "y": 941.6000366210938
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 962.4000244140624,
+        "h": 24,
+        "right": 784.5750122070312,
+        "w": 131.375,
+        "x": 653.2000122070312,
+        "y": 938.4000244140624
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 131,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+      "tag": "A",
+      "text": "Cầu Trường Tiền",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 119,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 984.7999877929688,
+          "h": 13.5999755859375,
+          "right": 791.9249877929688,
+          "w": 118.7249755859375,
+          "x": 673.2000122070312,
+          "y": 971.2000122070312
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 986.4000244140624,
+        "h": 16,
+        "right": 791.9250106811523,
+        "w": 118.7249984741211,
+        "x": 673.2000122070312,
+        "y": 970.4000244140624
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 119,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Sông Hương, TP. Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 39,
+      "clientWidth": 295,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1010.4000244140624,
+          "h": 13.60003662109375,
+          "right": 939.2000122070312,
+          "w": 286,
+          "x": 653.2000122070312,
+          "y": 996.7999877929688
+        },
+        {
+          "bottom": 1029.9000244140625,
+          "h": 13.60003662109375,
+          "right": 944.0625,
+          "w": 290.86248779296875,
+          "x": 653.2000122070312,
+          "y": 1016.2999877929688
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "19.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 1033.4000244140625,
+        "h": 39,
+        "right": 948.000030517578,
+        "w": 294.8000183105469,
+        "x": 653.2000122070312,
+        "y": 994.4000244140624
+      },
+      "scrollHeight": 39,
+      "scrollWidth": 295,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > p",
+      "tag": "P",
+      "text": "Biểu tượng bất hủ của Huế, đẹp nhất vào lúc hoàng hôn và buổi tối khi hệ thống đèn đổi màu bừng sáng.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 90,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1073,
+          "h": 12,
+          "right": 735.125,
+          "w": 73.92498779296875,
+          "x": 661.2000122070312,
+          "y": 1061
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1077.2000732421875,
+        "h": 19,
+        "right": 743.1250152587891,
+        "w": 89.92500305175781,
+        "x": 653.2000122070312,
+        "y": 1058.2000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 90,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Biểu tượng Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 95,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1098,
+          "h": 12,
+          "right": 739.9625244140625,
+          "w": 78.76251220703125,
+          "x": 661.2000122070312,
+          "y": 1086
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1102.2000732421875,
+        "h": 19,
+        "right": 747.962516784668,
+        "w": 94.76250457763672,
+        "x": 653.2000122070312,
+        "y": 1083.2000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 95,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Ngắm hoàng hôn",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 1086.5999755859375,
+          "h": 13.5999755859375,
+          "right": 902,
+          "w": 42.2874755859375,
+          "x": 859.7125244140625,
+          "y": 1073
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1092.2000732421875,
+        "h": 24,
+        "right": 914.0000228881836,
+        "w": 66.2874984741211,
+        "x": 847.7125244140625,
+        "y": 1068.2000732421875
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 66,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "tag": "A",
+      "text": "Chi tiết",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 23,
+      "clientWidth": 71,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1168.5999755859375,
+          "h": 12,
+          "right": 361.9375,
+          "w": 51.137481689453125,
+          "x": 310.8000183105469,
+          "y": 1156.5999755859375
+        }
+      ],
+      "letterSpacing": "0.5px",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1174.800048828125,
+        "h": 23,
+        "right": 371.9375228881836,
+        "w": 71.13750457763672,
+        "x": 300.8000183105469,
+        "y": 1151.800048828125
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 71,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > a > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Camping",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 252,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1304.2000732421875,
+          "h": 13.60009765625,
+          "right": 603.6000366210938,
+          "w": 252.12503051757812,
+          "x": 351.4750061035156,
+          "y": 1290.5999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1305.800048828125,
+        "h": 16,
+        "right": 603.6000061035156,
+        "w": 252.125,
+        "x": 351.4750061035156,
+        "y": 1289.800048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 252,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > a > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Dã ngoại tự do / Tự túc trang bị đồ cá nhân",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 99,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1352.5999755859375,
+          "h": 17.5999755859375,
+          "right": 404.1750183105469,
+          "w": 99.375,
+          "x": 304.8000183105469,
+          "y": 1335
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1355.800048828125,
+        "h": 24,
+        "right": 404.1750183105469,
+        "w": 99.375,
+        "x": 304.8000183105469,
+        "y": 1331.800048828125
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 99,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+      "tag": "A",
+      "text": "Đồi Thiên An",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 107,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1378.2000732421875,
+          "h": 13.60009765625,
+          "right": 431.625,
+          "w": 106.82498168945312,
+          "x": 324.8000183105469,
+          "y": 1364.5999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1379.800048828125,
+        "h": 16,
+        "right": 431.6250228881836,
+        "w": 106.82500457763672,
+        "x": 324.8000183105469,
+        "y": 1363.800048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 107,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Thủy Bằng, TP. Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 39,
+      "clientWidth": 295,
+      "clipping": [
+        {
+          "ancestor": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div > p",
+          "outside": [
+            "[Circular]"
+          ],
+          "overflow": [
+            "hidden",
+            "hidden"
+          ],
+          "rect": {
+            "bottom": 1426.800048828125,
+            "h": 39,
+            "right": 599.6000366210938,
+            "w": 294.8000183105469,
+            "x": 304.8000183105469,
+            "y": 1387.800048828125
+          }
+        }
+      ],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1403.800048828125,
+          "h": 13.5999755859375,
+          "right": 587.6625366210938,
+          "w": 282.8625183105469,
+          "x": 304.8000183105469,
+          "y": 1390.2000732421875
+        },
+        {
+          "bottom": 1423.300048828125,
+          "h": 13.5999755859375,
+          "right": 575.625,
+          "w": 270.8249816894531,
+          "x": 304.8000183105469,
+          "y": 1409.7000732421875
+        },
+        {
+          "bottom": 1442.800048828125,
+          "h": 13.5999755859375,
+          "right": 328.38751220703125,
+          "w": 23.587493896484375,
+          "x": 304.8000183105469,
+          "y": 1429.2000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "19.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 1426.800048828125,
+        "h": 39,
+        "right": 599.6000366210938,
+        "w": 294.8000183105469,
+        "x": 304.8000183105469,
+        "y": 1387.800048828125
+      },
+      "scrollHeight": 59,
+      "scrollWidth": 295,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div > p",
+      "tag": "P",
+      "text": "Rừng thông bạt ngàn, hồ nước thơ mộng và không gian khí hậu mát mẻ lý tưởng cho dã ngoại, chụp ảnh.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 116,
+      "clientWidth": 257,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1458,
+          "h": 12.7999267578125,
+          "right": 564.9000244140625,
+          "w": 231.30001831054688,
+          "x": 333.6000061035156,
+          "y": 1445.2000732421875
+        },
+        {
+          "bottom": 1474.5,
+          "h": 12.7999267578125,
+          "right": 570.0875244140625,
+          "w": 236.48751831054688,
+          "x": 333.6000061035156,
+          "y": 1461.7000732421875
+        },
+        {
+          "bottom": 1491,
+          "h": 12.7999267578125,
+          "right": 561.0375366210938,
+          "w": 227.43753051757812,
+          "x": 333.6000061035156,
+          "y": 1478.2000732421875
+        },
+        {
+          "bottom": 1507.5,
+          "h": 12.7999267578125,
+          "right": 581.7750244140625,
+          "w": 248.17501831054688,
+          "x": 333.6000061035156,
+          "y": 1494.7000732421875
+        },
+        {
+          "bottom": 1524,
+          "h": 12.7999267578125,
+          "right": 575.8250122070312,
+          "w": 242.2250061035156,
+          "x": 333.6000061035156,
+          "y": 1511.2000732421875
+        },
+        {
+          "bottom": 1540.5,
+          "h": 12.7999267578125,
+          "right": 587.4500122070312,
+          "w": 253.8500061035156,
+          "x": 333.6000061035156,
+          "y": 1527.7000732421875
+        },
+        {
+          "bottom": 1557,
+          "h": 12.7999267578125,
+          "right": 414.1750183105469,
+          "w": 80.57501220703125,
+          "x": 333.6000061035156,
+          "y": 1544.2000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1559.0999755859375,
+        "h": 115.5,
+        "right": 590.8000183105469,
+        "w": 257.20001220703125,
+        "x": 333.6000061035156,
+        "y": 1443.5999755859375
+      },
+      "scrollHeight": 116,
+      "scrollWidth": 257,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div > div:nth-of-type(3) > span",
+      "tag": "SPAN",
+      "text": "CẢNH BÁO AN TOÀN & BẢO VỆ RỪNG: Rừng thông Thiên An thuộc diện quản lý lâm nghiệp; tuyệt đối cấm đốt lửa trại bừa bãi và đốt rác phòng chống cháy rừng. Đây là điểm dã ngoại tự túc, KHÔNG có đơn vị camping thương mại bán ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 111,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1607.5,
+          "h": 12,
+          "right": 407.8125,
+          "w": 95.01248168945312,
+          "x": 312.8000183105469,
+          "y": 1595.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1611.7000732421875,
+        "h": 19,
+        "right": 415.8125228881836,
+        "w": 111.01250457763672,
+        "x": 304.8000183105469,
+        "y": 1592.7000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 111,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Dã ngoại thiên nhiên",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 96,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1632.5,
+          "h": 12,
+          "right": 393.1750183105469,
+          "w": 80.375,
+          "x": 312.8000183105469,
+          "y": 1620.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1636.7000732421875,
+        "h": 19,
+        "right": 401.1750183105469,
+        "w": 96.375,
+        "x": 304.8000183105469,
+        "y": 1617.7000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 96,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Rừng thông xanh",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 1621.0999755859375,
+          "h": 13.5999755859375,
+          "right": 553.6000366210938,
+          "w": 42.28753662109375,
+          "x": 511.3125,
+          "y": 1607.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1626.7000732421875,
+        "h": 24,
+        "right": 565.5999984741211,
+        "w": 66.2874984741211,
+        "x": 499.3125,
+        "y": 1602.7000732421875
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 66,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "tag": "A",
+      "text": "Chi tiết",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 23,
+      "clientWidth": 47,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1168.5999755859375,
+          "h": 12,
+          "right": 685.875,
+          "w": 26.67498779296875,
+          "x": 659.2000122070312,
+          "y": 1156.5999755859375
+        }
+      ],
+      "letterSpacing": "0.5px",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1174.800048828125,
+        "h": 23,
+        "right": 695.8750114440918,
+        "w": 46.67499923706055,
+        "x": 649.2000122070312,
+        "y": 1151.800048828125
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 47,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(1) > a > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Biển",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 228,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1304.2000732421875,
+          "h": 13.60009765625,
+          "right": 952,
+          "w": 228.1875,
+          "x": 723.8125,
+          "y": 1290.5999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1305.800048828125,
+        "h": 16,
+        "right": 952,
+        "w": 228.1875,
+        "x": 723.8125,
+        "y": 1289.800048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 228,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(1) > a > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Tự do tham quan / Tắm biển công cộng",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 131,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1352.5999755859375,
+          "h": 17.5999755859375,
+          "right": 783.9000244140625,
+          "w": 130.70001220703125,
+          "x": 653.2000122070312,
+          "y": 1335
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1355.800048828125,
+        "h": 24,
+        "right": 783.9000091552734,
+        "w": 130.6999969482422,
+        "x": 653.2000122070312,
+        "y": 1331.800048828125
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 131,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+      "tag": "A",
+      "text": "Bãi biển Lăng Cô",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 138,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1378.2000732421875,
+          "h": 13.60009765625,
+          "right": 811.6625366210938,
+          "w": 138.4625244140625,
+          "x": 673.2000122070312,
+          "y": 1364.5999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1379.800048828125,
+        "h": 16,
+        "right": 811.6625213623047,
+        "w": 138.46250915527344,
+        "x": 673.2000122070312,
+        "y": 1363.800048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 138,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Phú Lộc, Thừa Thiên Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 39,
+      "clientWidth": 295,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1403.800048828125,
+          "h": 13.5999755859375,
+          "right": 939.1625366210938,
+          "w": 285.9625244140625,
+          "x": 653.2000122070312,
+          "y": 1390.2000732421875
+        },
+        {
+          "bottom": 1423.300048828125,
+          "h": 13.5999755859375,
+          "right": 946.7374877929688,
+          "w": 293.5374755859375,
+          "x": 653.2000122070312,
+          "y": 1409.7000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "19.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 1426.800048828125,
+        "h": 39,
+        "right": 948.000030517578,
+        "w": 294.8000183105469,
+        "x": 653.2000122070312,
+        "y": 1387.800048828125
+      },
+      "scrollHeight": 39,
+      "scrollWidth": 295,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(1) > div > p",
+      "tag": "P",
+      "text": "Một trong những vịnh biển đẹp nhất thế giới với bờ cát trắng mịn, nước trong xanh và hải sản tươi ngon.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 50,
+      "clientWidth": 257,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1458,
+          "h": 12.7999267578125,
+          "right": 930.25,
+          "w": 248.25,
+          "x": 682,
+          "y": 1445.2000732421875
+        },
+        {
+          "bottom": 1474.5,
+          "h": 12.7999267578125,
+          "right": 927.5375366210938,
+          "w": 245.53753662109375,
+          "x": 682,
+          "y": 1461.7000732421875
+        },
+        {
+          "bottom": 1491,
+          "h": 12.7999267578125,
+          "right": 720.2625122070312,
+          "w": 38.26251220703125,
+          "x": 682,
+          "y": 1478.2000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1493.0999755859375,
+        "h": 49.5,
+        "right": 939.2000122070312,
+        "w": 257.20001220703125,
+        "x": 682,
+        "y": 1443.5999755859375
+      },
+      "scrollHeight": 50,
+      "scrollWidth": 257,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(1) > div > div:nth-of-type(3) > span",
+      "tag": "SPAN",
+      "text": "Chú ý an toàn sóng biển, không bơi lội quá xa bờ vào những ngày biển động hoặc có cờ cảnh báo cứu hộ.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 96,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1628,
+          "h": 12,
+          "right": 740.8500366210938,
+          "w": 79.6500244140625,
+          "x": 661.2000122070312,
+          "y": 1616
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1632.2000732421875,
+        "h": 19,
+        "right": 748.8500137329102,
+        "w": 95.6500015258789,
+        "x": 653.2000122070312,
+        "y": 1613.2000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 96,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Vịnh đẹp thế giới",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 79,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1628,
+          "h": 12,
+          "right": 825.875,
+          "w": 63.02496337890625,
+          "x": 762.8500366210938,
+          "y": 1616
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1632.2000732421875,
+        "h": 19,
+        "right": 833.8750381469727,
+        "w": 79.0250015258789,
+        "x": 754.8500366210938,
+        "y": 1613.2000732421875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 79,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Cát trắng mịn",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 1629.0999755859375,
+          "h": 13.5999755859375,
+          "right": 902,
+          "w": 42.2874755859375,
+          "x": 859.7125244140625,
+          "y": 1615.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1634.7000732421875,
+        "h": 24,
+        "right": 914.0000228881836,
+        "w": 66.2874984741211,
+        "x": 847.7125244140625,
+        "y": 1610.7000732421875
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 66,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "tag": "A",
+      "text": "Chi tiết",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 23,
+      "clientWidth": 60,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1703.0999755859375,
+          "h": 12,
+          "right": 350.32501220703125,
+          "w": 39.524993896484375,
+          "x": 310.8000183105469,
+          "y": 1691.0999755859375
+        }
+      ],
+      "letterSpacing": "0.5px",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1709.300048828125,
+        "h": 23,
+        "right": 360.3250198364258,
+        "w": 59.525001525878906,
+        "x": 300.8000183105469,
+        "y": 1686.300048828125
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 60,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > a > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Di tích",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 116,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1838.7000732421875,
+          "h": 13.60009765625,
+          "right": 603.6000366210938,
+          "w": 116.43753051757812,
+          "x": 487.1625061035156,
+          "y": 1825.0999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1840.300048828125,
+        "h": 16,
+        "right": 603.6000061035156,
+        "w": 116.4375,
+        "x": 487.1625061035156,
+        "y": 1824.300048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 116,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > a > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Miễn phí viếng chùa",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 116,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1887.0999755859375,
+          "h": 17.5999755859375,
+          "right": 420.7375183105469,
+          "w": 115.9375,
+          "x": 304.8000183105469,
+          "y": 1869.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1890.300048828125,
+        "h": 24,
+        "right": 420.7375183105469,
+        "w": 115.9375,
+        "x": 304.8000183105469,
+        "y": 1866.300048828125
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 116,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+      "tag": "A",
+      "text": "Chùa Thiên Mụ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 119,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1912.7000732421875,
+          "h": 13.60009765625,
+          "right": 443.6499938964844,
+          "w": 118.8499755859375,
+          "x": 324.8000183105469,
+          "y": 1899.0999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1914.300048828125,
+        "h": 16,
+        "right": 443.650016784668,
+        "w": 118.8499984741211,
+        "x": 324.8000183105469,
+        "y": 1898.300048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 119,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Đồi Hà Khê, Kim Long",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 39,
+      "clientWidth": 295,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1938.300048828125,
+          "h": 13.5999755859375,
+          "right": 583.7000122070312,
+          "w": 278.8999938964844,
+          "x": 304.8000183105469,
+          "y": 1924.7000732421875
+        },
+        {
+          "bottom": 1957.800048828125,
+          "h": 13.5999755859375,
+          "right": 549.4125366210938,
+          "w": 244.61251831054688,
+          "x": 304.8000183105469,
+          "y": 1944.2000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "19.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 1961.300048828125,
+        "h": 39,
+        "right": 599.6000366210938,
+        "w": 294.8000183105469,
+        "x": 304.8000183105469,
+        "y": 1922.300048828125
+      },
+      "scrollHeight": 39,
+      "scrollWidth": 295,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > div > p",
+      "tag": "P",
+      "text": "Ngôi chùa cổ linh thiêng bậc nhất, biểu tượng tâm linh gắn liền với dòng sông Hương hiền hòa.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 66,
+      "clientWidth": 257,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1992.5,
+          "h": 12.7999267578125,
+          "right": 587.0499877929688,
+          "w": 253.44998168945312,
+          "x": 333.6000061035156,
+          "y": 1979.7000732421875
+        },
+        {
+          "bottom": 2009,
+          "h": 12.7999267578125,
+          "right": 590.3500366210938,
+          "w": 256.7500305175781,
+          "x": 333.6000061035156,
+          "y": 1996.2000732421875
+        },
+        {
+          "bottom": 2025.5,
+          "h": 12.7999267578125,
+          "right": 578.7125244140625,
+          "w": 245.11251831054688,
+          "x": 333.6000061035156,
+          "y": 2012.7000732421875
+        },
+        {
+          "bottom": 2042,
+          "h": 12.7999267578125,
+          "right": 394.875,
+          "w": 61.274993896484375,
+          "x": 333.6000061035156,
+          "y": 2029.2000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2044.0999755859375,
+        "h": 66,
+        "right": 590.8000183105469,
+        "w": 257.20001220703125,
+        "x": 333.6000061035156,
+        "y": 1978.0999755859375
+      },
+      "scrollHeight": 66,
+      "scrollWidth": 257,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(3) > span",
+      "tag": "SPAN",
+      "text": "Chốn thiền môn tôn nghiêm: Khách viếng chùa vui lòng mặc trang phục lịch sự kín đáo, giữ trật tự và không quay phim chụp ảnh trong khu vực chánh điện thờ tự.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 77,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 2092.5,
+          "h": 12,
+          "right": 374.1375122070313,
+          "w": 61.337493896484375,
+          "x": 312.8000183105469,
+          "y": 2080.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2096.699951171875,
+        "h": 19,
+        "right": 382.1375198364258,
+        "w": 77.3375015258789,
+        "x": 304.8000183105469,
+        "y": 2077.699951171875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 77,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Chùa cổ 1601",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 105,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 2117.5,
+          "h": 12,
+          "right": 402.2749938964844,
+          "w": 89.4749755859375,
+          "x": 312.8000183105469,
+          "y": 2105.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2121.699951171875,
+        "h": 19,
+        "right": 410.275016784668,
+        "w": 105.4749984741211,
+        "x": 304.8000183105469,
+        "y": 2102.699951171875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 105,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Tháp Phước Duyên",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 2106.10009765625,
+          "h": 13.60009765625,
+          "right": 553.6000366210938,
+          "w": 42.28753662109375,
+          "x": 511.3125,
+          "y": 2092.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2111.699951171875,
+        "h": 24,
+        "right": 565.5999984741211,
+        "w": 66.2874984741211,
+        "x": 499.3125,
+        "y": 2087.699951171875
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 66,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "tag": "A",
+      "text": "Chi tiết",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 23,
+      "clientWidth": 73,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1703.0999755859375,
+          "h": 12,
+          "right": 712.5125122070312,
+          "w": 53.3125,
+          "x": 659.2000122070312,
+          "y": 1691.0999755859375
+        }
+      ],
+      "letterSpacing": "0.5px",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1709.300048828125,
+        "h": 23,
+        "right": 722.5125122070312,
+        "w": 73.3125,
+        "x": 649.2000122070312,
+        "y": 1686.300048828125
+      },
+      "scrollHeight": 23,
+      "scrollWidth": 73,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(1) > a > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Check-in",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 313,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1838.7000732421875,
+          "h": 13.60009765625,
+          "right": 952,
+          "w": 312.6875,
+          "x": 639.3125,
+          "y": 1825.0999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1840.300048828125,
+        "h": 16,
+        "right": 952,
+        "w": 312.6875,
+        "x": 639.3125,
+        "y": 1824.300048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 313,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(1) > a > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Chụp ảnh tự do / Dịch vụ thuê phục trang có phí riêng",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 182,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1887.0999755859375,
+          "h": 17.5999755859375,
+          "right": 834.8250122070312,
+          "w": 181.625,
+          "x": 653.2000122070312,
+          "y": 1869.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "24px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1890.300048828125,
+        "h": 24,
+        "right": 834.8250122070312,
+        "w": 181.625,
+        "x": 653.2000122070312,
+        "y": 1866.300048828125
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 182,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+      "tag": "A",
+      "text": "Làng hương Thủy Xuân",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 171,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1912.7000732421875,
+          "h": 13.60009765625,
+          "right": 843.8624877929688,
+          "w": 170.6624755859375,
+          "x": 673.2000122070312,
+          "y": 1899.0999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1914.300048828125,
+        "h": 16,
+        "right": 843.8625183105469,
+        "w": 170.66250610351562,
+        "x": 673.2000122070312,
+        "y": 1898.300048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 171,
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+      "tag": "SPAN",
+      "text": "Đường Huyền Trân Công Chúa",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 39,
+      "clientWidth": 295,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1938.300048828125,
+          "h": 13.5999755859375,
+          "right": 929.1000366210938,
+          "w": 275.9000244140625,
+          "x": 653.2000122070312,
+          "y": 1924.7000732421875
+        },
+        {
+          "bottom": 1957.800048828125,
+          "h": 13.5999755859375,
+          "right": 918,
+          "w": 264.79998779296875,
+          "x": 653.2000122070312,
+          "y": 1944.2000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "19.5px",
+      "nativeControl": false,
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "rect": {
+        "bottom": 1961.300048828125,
+        "h": 39,
+        "right": 948.000030517578,
+        "w": 294.8000183105469,
+        "x": 653.2000122070312,
+        "y": 1922.300048828125
+      },
+      "scrollHeight": 39,
+      "scrollWidth": 295,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(1) > div > p",
+      "tag": "P",
+      "text": "Làng nghề thủ công truyền thống rực rỡ sắc màu, góc chụp ảnh văn hóa độc đáo không thể bỏ lỡ.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 127,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 2092.5,
+          "h": 12,
+          "right": 771.7000122070312,
+          "w": 110.5,
+          "x": 661.2000122070312,
+          "y": 2080.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2096.699951171875,
+        "h": 19,
+        "right": 779.7000122070312,
+        "w": 126.5,
+        "x": 653.2000122070312,
+        "y": 2077.699951171875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 127,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "text": "Làng nghề truyền thống",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 19,
+      "clientWidth": 88,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 2117.5,
+          "h": 12,
+          "right": 733.6875,
+          "w": 72.48748779296875,
+          "x": 661.2000122070312,
+          "y": 2105.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2121.699951171875,
+        "h": 19,
+        "right": 741.6875152587891,
+        "w": 88.48750305175781,
+        "x": 653.2000122070312,
+        "y": 2102.699951171875
+      },
+      "scrollHeight": 19,
+      "scrollWidth": 88,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "text": "Sắc màu rực rỡ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 24,
+      "clientWidth": 66,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 2106.10009765625,
+          "h": 13.60009765625,
+          "right": 902,
+          "w": 42.2874755859375,
+          "x": 859.7125244140625,
+          "y": 2092.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 2111.699951171875,
+        "h": 24,
+        "right": 914.0000228881836,
+        "w": 66.2874984741211,
+        "x": 847.7125244140625,
+        "y": 2087.699951171875
+      },
+      "scrollHeight": 24,
+      "scrollWidth": 66,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "tag": "A",
+      "text": "Chi tiết",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 111,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 732,
+          "h": 16,
+          "right": 1152.4124755859375,
+          "w": 110.8125,
+          "x": 1041.5999755859375,
+          "y": 716
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 734.4000244140625,
+        "h": 20,
+        "right": 1152.4124755859375,
+        "w": 110.8125,
+        "x": 1041.5999755859375,
+        "y": 714.4000244140625
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 111,
+      "selector": "div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3 > span",
+      "tag": "SPAN",
+      "text": "Bản đồ địa điểm",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 91,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "fragments": [
+        {
+          "bottom": 730.7999877929688,
+          "h": 13.5999755859375,
+          "right": 1282.4000244140625,
+          "w": 90.5,
+          "x": 1191.9000244140625,
+          "y": 717.2000122070312
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 732.4000244140625,
+        "h": 16,
+        "right": 1282.4000244140625,
+        "w": 90.5,
+        "x": 1191.9000244140625,
+        "y": 716.4000244140625
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 91,
+      "selector": "div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a > span",
+      "tag": "SPAN",
+      "text": "Xem bản đồ lớn",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 17,
+      "clientWidth": 239,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 785.6000366210938,
+          "h": 12.800048828125,
+          "right": 1171.2000732421875,
+          "w": 132.800048828125,
+          "x": 1038.4000244140625,
+          "y": 772.7999877929688
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 787.7000122070312,
+        "h": 16.5,
+        "right": 1277.6000213623047,
+        "w": 239.1999969482422,
+        "x": 1038.4000244140625,
+        "y": 771.2000122070312
+      },
+      "scrollHeight": 17,
+      "scrollWidth": 239,
+      "selector": "div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1)",
+      "tag": "DIV",
+      "text": "📍 Vùng tham quan Huế:",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 15,
+      "clientWidth": 239,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 804.5,
+          "h": 12,
+          "right": 1261.4375,
+          "w": 223.0374755859375,
+          "x": 1038.4000244140625,
+          "y": 792.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 806.7000122070312,
+        "h": 15,
+        "right": 1277.6000213623047,
+        "w": 239.1999969482422,
+        "x": 1038.4000244140625,
+        "y": 791.7000122070312
+      },
+      "scrollHeight": 15,
+      "scrollWidth": 239,
+      "selector": "div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2)",
+      "tag": "DIV",
+      "text": "Đại Nội · Chùa Thiên Mụ · Sông Hương · Lăng Cô",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 100,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 906,
+          "h": 13.5999755859375,
+          "right": 1257.5999755859375,
+          "w": 100.0625,
+          "x": 1157.5374755859375,
+          "y": 892.4000244140625
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 907.6000366210938,
+        "h": 16,
+        "right": 1257.5999755859375,
+        "w": 100.0625,
+        "x": 1157.5374755859375,
+        "y": 891.6000366210938
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 100,
+      "selector": "div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a > span",
+      "tag": "SPAN",
+      "text": "Mở Google Maps",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 33,
+      "clientWidth": 281,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 956.7999877929688,
+          "h": 12.79998779296875,
+          "right": 1285.2750244140625,
+          "w": 267.67498779296875,
+          "x": 1017.6000366210938,
+          "y": 944
+        },
+        {
+          "bottom": 973.2999877929688,
+          "h": 12.79998779296875,
+          "right": 1115.6875,
+          "w": 98.08746337890624,
+          "x": 1017.6000366210938,
+          "y": 960.5
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16.5px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 975.4000244140624,
+        "h": 33,
+        "right": 1298.4000549316406,
+        "w": 280.8000183105469,
+        "x": 1017.6000366210938,
+        "y": 942.4000244140624
+      },
+      "scrollHeight": 33,
+      "scrollWidth": 281,
+      "selector": "div:nth-of-type(2) > main > div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > p",
+      "tag": "P",
+      "text": "* Liên kết dẫn trực tiếp tới Google Maps theo toạ độ địa danh chính xác.",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 20,
+      "clientWidth": 128,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1058.5999755859375,
+          "h": 16,
+          "right": 1169.125,
+          "w": 127.5250244140625,
+          "x": 1041.5999755859375,
+          "y": 1042.5999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "20px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1061,
+        "h": 20,
+        "right": 1169.1249771118164,
+        "w": 127.5250015258789,
+        "x": 1041.5999755859375,
+        "y": 1041
+      },
+      "scrollHeight": 20,
+      "scrollWidth": 128,
+      "selector": "main > div > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > h3 > span",
+      "tag": "SPAN",
+      "text": "Gợi ý theo nhu cầu",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 134,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1104.7000732421875,
+          "h": 13.60009765625,
+          "right": 1159.75,
+          "w": 85.3499755859375,
+          "x": 1074.4000244140625,
+          "y": 1091.0999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1106.300048828125,
+        "h": 16,
+        "right": 1208.5750274658203,
+        "w": 134.1750030517578,
+        "x": 1074.4000244140625,
+        "y": 1090.300048828125
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 134,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Đi Huế lần đầu",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 15,
+      "clientWidth": 134,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1119.0999755859375,
+          "h": 12,
+          "right": 1208.5750732421875,
+          "w": 134.175048828125,
+          "x": 1074.4000244140625,
+          "y": 1107.0999755859375
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1121.300048828125,
+        "h": 15,
+        "right": 1208.5750274658203,
+        "w": 134.1750030517578,
+        "x": 1074.4000244140625,
+        "y": 1106.300048828125
+      },
+      "scrollHeight": 15,
+      "scrollWidth": 134,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > p",
+      "tag": "P",
+      "text": "Những điểm không thể bỏ lỡ",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 104,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1170.300048828125,
+          "h": 13.5999755859375,
+          "right": 1159.25,
+          "w": 84.8499755859375,
+          "x": 1074.4000244140625,
+          "y": 1156.7000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1171.9000244140625,
+        "h": 16,
+        "right": 1178.2125244140625,
+        "w": 103.8125,
+        "x": 1074.4000244140625,
+        "y": 1155.9000244140625
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 104,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Chill cuối tuần",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 15,
+      "clientWidth": 104,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1184.7000732421875,
+          "h": 12,
+          "right": 1178.2125244140625,
+          "w": 103.8125,
+          "x": 1074.4000244140625,
+          "y": 1172.7000732421875
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1186.9000244140625,
+        "h": 15,
+        "right": 1178.2125244140625,
+        "w": 103.8125,
+        "x": 1074.4000244140625,
+        "y": 1171.9000244140625
+      },
+      "scrollHeight": 15,
+      "scrollWidth": 104,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > p",
+      "tag": "P",
+      "text": "Thiên nhiên & thư giãn",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 138,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1235.9000244140625,
+          "h": 13.5999755859375,
+          "right": 1169.0625,
+          "w": 94.6624755859375,
+          "x": 1074.4000244140625,
+          "y": 1222.300048828125
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1237.5,
+        "h": 16,
+        "right": 1211.9125213623047,
+        "w": 137.5124969482422,
+        "x": 1074.4000244140625,
+        "y": 1221.5
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 138,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Đi cùng gia đình",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 15,
+      "clientWidth": 138,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1250.300048828125,
+          "h": 12,
+          "right": 1211.9124755859375,
+          "w": 137.512451171875,
+          "x": 1074.4000244140625,
+          "y": 1238.300048828125
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1252.5,
+        "h": 15,
+        "right": 1211.9125213623047,
+        "w": 137.5124969482422,
+        "x": 1074.4000244140625,
+        "y": 1237.5
+      },
+      "scrollHeight": 15,
+      "scrollWidth": 138,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > p",
+      "tag": "P",
+      "text": "An toàn, phù hợp mọi lứa tuổi",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 16,
+      "clientWidth": 144,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "fragments": [
+        {
+          "bottom": 1301.5,
+          "h": 13.5999755859375,
+          "right": 1176.125,
+          "w": 101.7249755859375,
+          "x": 1074.4000244140625,
+          "y": 1287.9000244140625
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "16px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1303.0999755859375,
+        "h": 16,
+        "right": 1218.8250274658203,
+        "w": 144.4250030517578,
+        "x": 1074.4000244140625,
+        "y": 1287.0999755859375
+      },
+      "scrollHeight": 16,
+      "scrollWidth": 144,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > h4",
+      "tag": "H4",
+      "text": "Check-in sống ảo",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    },
+    {
+      "clientHeight": 15,
+      "clientWidth": 144,
+      "clipping": [],
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fragments": [
+        {
+          "bottom": 1315.9000244140625,
+          "h": 12,
+          "right": 1218.8250732421875,
+          "w": 144.425048828125,
+          "x": 1074.4000244140625,
+          "y": 1303.9000244140625
+        }
+      ],
+      "letterSpacing": "normal",
+      "lineClamp": "",
+      "lineHeight": "15px",
+      "nativeControl": false,
+      "overflow": [
+        "visible",
+        "visible"
+      ],
+      "rect": {
+        "bottom": 1318.0999755859375,
+        "h": 15,
+        "right": 1218.8250274658203,
+        "w": 144.4250030517578,
+        "x": 1074.4000244140625,
+        "y": 1303.0999755859375
+      },
+      "scrollHeight": 15,
+      "scrollWidth": 144,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(4) > div:nth-of-type(2) > p",
+      "tag": "P",
+      "text": "Góc chụp ảnh đẹp nhất xứ Huế",
+      "textNFC": true,
+      "transforms": [],
+      "whiteSpace": "normal"
+    }
+  ],
+  "url": "http://127.0.0.1:3000/kham-pha",
+  "viewport": {
+    "clientHeight": 768,
+    "clientWidth": 1351,
+    "dpr": 1.0000000149011612,
+    "innerHeight": 768,
+    "innerWidth": 1366,
+    "scrollHeight": 2170,
+    "scrollWidth": 1351,
+    "scrollY": 0,
+    "visualScale": 1
+  }
+}

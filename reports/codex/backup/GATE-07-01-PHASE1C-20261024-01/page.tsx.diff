@@ -1,0 +1,111 @@
+diff --git "a/A:\\tr\303\255 tu\341\273\207 nh\303\242n t\341\272\241o\\BAI_3\\hue-travel-pro\\reports\\codex\\backup\\GATE-07-01-PHASE1C-20261024-01\\page.tsx.before" b/src/app/page.tsx
+index 75f81d6..622bf77 100644
+--- "a/A:\\tr\303\255 tu\341\273\207 nh\303\242n t\341\272\241o\\BAI_3\\hue-travel-pro\\reports\\codex\\backup\\GATE-07-01-PHASE1C-20261024-01\\page.tsx.before"	
++++ b/src/app/page.tsx
+@@ -18,14 +18,14 @@ export default function HomePage() {
+ 
+   return (
+     <div
+-      className="relative flex-1 flex flex-col justify-between w-full mx-auto max-w-[1536px] rounded-[24px] sm:rounded-[32px] lg:rounded-[36px] overflow-hidden border border-white/20 shadow-2xl shadow-indigo-950/25 bg-no-repeat bg-right-top bg-cover min-h-[calc(100vh-1.25rem)] sm:min-h-[calc(100vh-1.75rem)] lg:h-[calc(100vh-2rem)] lg:max-h-[960px] p-4 sm:p-6 lg:p-7 pt-20 sm:pt-24 lg:pt-20 transition-all"
++      className="relative flex-1 flex flex-col justify-between w-full mx-auto max-w-[1536px] rounded-[24px] sm:rounded-[32px] lg:rounded-[36px] overflow-hidden border border-white/20 shadow-2xl shadow-indigo-950/25 bg-no-repeat bg-right-top bg-cover min-h-[calc(100vh-1.25rem)] sm:min-h-[calc(100vh-1.75rem)] lg:min-h-[calc(100svh-2rem)] lg:flex-none p-4 sm:p-6 lg:p-7 pt-20 sm:pt-24 lg:pt-20 lg:[@media(max-height:820px)]:pt-[72px] lg:[@media(max-height:820px)]:pb-5 transition-all"
+       style={{
+-        backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.94) 0%, rgba(65, 38, 115, 0.82) 42%, rgba(37, 28, 57, 0.35) 100%), url('/images/heroes/hero_trang_chu.png')`,
++        backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.99) 0%, rgba(37, 28, 57, 0.96) 8%, rgba(65, 38, 115, 0.82) 42%, rgba(37, 28, 57, 0.35) 100%), url('/images/heroes/hero_trang_chu.png')`,
+       }}
+     >
+       {/* Hero Center-Left Content */}
+-      <Container className="my-auto py-2 sm:py-4">
+-        <div className="max-w-2xl space-y-4 sm:space-y-5">
++      <Container className="my-auto py-2 sm:py-4 lg:[@media(max-height:820px)]:py-2">
++        <div className="max-w-2xl space-y-4 sm:space-y-5 lg:[@media(max-height:820px)]:space-y-3">
+           {/* Tagline Badge */}
+           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-electric-lime text-xs font-semibold tracking-wider uppercase">
+             <Sparkles className="w-3.5 h-3.5" />
+@@ -34,7 +34,7 @@ export default function HomePage() {
+ 
+           {/* Main Hero Headings */}
+           <div className="space-y-0.5">
+-            <h1 className="font-serif font-black tracking-tight text-5xl sm:text-6xl lg:text-7xl xl:text-8xl text-white leading-none drop-shadow-md">
++            <h1 className="font-serif font-black tracking-tight text-5xl sm:text-6xl lg:text-7xl xl:text-8xl lg:[@media(max-height:820px)]:text-[80px] text-white leading-none drop-shadow-md">
+               HUẾ
+             </h1>
+             <div className="font-sans font-extrabold tracking-tight text-3xl sm:text-4xl lg:text-5xl xl:text-6xl text-[#E8EAFF] leading-tight drop-shadow-md">
+@@ -53,7 +53,7 @@ export default function HomePage() {
+           </p>
+ 
+           {/* Action CTAs (Xem video ẩn theo Gate 07-01 directive vì chưa có tệp video thực tế) */}
+-          <div className="flex flex-wrap items-center gap-4 pt-2">
++          <div className="flex flex-wrap items-center gap-4 pt-2 lg:[@media(max-height:820px)]:pt-0">
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+@@ -76,15 +76,15 @@ export default function HomePage() {
+ 
+       {/* Bottom Floating Glass Dock */}
+       <Container className="pt-2 pb-1 sm:pb-2">
+-        <Card variant="glass" className="p-3 sm:p-4 bg-black/40 backdrop-blur-xl border-white/20 rounded-2xl sm:rounded-3xl shadow-2xl">
++        <Card variant="glass" className="p-3 sm:p-4 lg:[@media(max-height:820px)]:p-3 bg-black/40 backdrop-blur-xl border-white/20 rounded-2xl sm:rounded-3xl shadow-2xl">
+           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 items-stretch">
+             {/* Card 1: Di tích - Lịch sử */}
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+-              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3"
++              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3 lg:[@media(max-height:820px)]:space-y-2"
+             >
+-              <div className="relative aspect-[16/9] w-full rounded-xl overflow-hidden bg-black/30">
++              <div className="relative aspect-[16/9] lg:[@media(max-height:820px)]:aspect-auto lg:[@media(max-height:820px)]:h-24 w-full rounded-xl overflow-hidden bg-black/30">
+                 <Image
+                   src="/images/cards/card_dai_noi.png"
+                   alt="Di tích Đại Nội Huế"
+@@ -99,7 +99,7 @@ export default function HomePage() {
+                   <h3 className="font-bold text-white text-sm sm:text-base leading-tight">
+                     Di tích - Lịch sử
+                   </h3>
+-                  <p className="text-xs text-white/80 mt-1 line-clamp-1">
++                  <p className="text-xs text-white/80 mt-1 line-clamp-1 lg:line-clamp-none">
+                     Khám phá dấu ấn triều Nguyễn
+                   </p>
+                 </div>
+@@ -113,9 +113,9 @@ export default function HomePage() {
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+-              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3"
++              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3 lg:[@media(max-height:820px)]:space-y-2"
+             >
+-              <div className="relative aspect-[16/9] w-full rounded-xl overflow-hidden bg-black/30">
++              <div className="relative aspect-[16/9] lg:[@media(max-height:820px)]:aspect-auto lg:[@media(max-height:820px)]:h-24 w-full rounded-xl overflow-hidden bg-black/30">
+                 <Image
+                   src="/images/cards/card_thien_mu.png"
+                   alt="Chùa Thiên Mụ"
+@@ -130,7 +130,7 @@ export default function HomePage() {
+                   <h3 className="font-bold text-white text-sm sm:text-base leading-tight">
+                     Văn hoá - Tâm linh
+                   </h3>
+-                  <p className="text-xs text-white/80 mt-1 line-clamp-1">
++                  <p className="text-xs text-white/80 mt-1 line-clamp-1 lg:line-clamp-none">
+                     Chạm vào hồn cốt xứ Huế
+                   </p>
+                 </div>
+@@ -144,9 +144,9 @@ export default function HomePage() {
+             <a
+               href="/kham-pha"
+               onClick={(e) => handleGo(e, "/kham-pha")}
+-              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3"
++              className="p-3 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/15 transition-all group flex flex-col justify-between cursor-pointer space-y-3 lg:[@media(max-height:820px)]:space-y-2"
+             >
+-              <div className="relative aspect-[16/9] w-full rounded-xl overflow-hidden bg-white/5 border border-white/10 flex flex-col items-center justify-center text-center p-3">
++              <div className="relative aspect-[16/9] lg:[@media(max-height:820px)]:aspect-auto lg:[@media(max-height:820px)]:h-24 w-full rounded-xl overflow-hidden bg-white/5 border border-white/10 flex flex-col items-center justify-center text-center p-3">
+                 <span className="text-[11px] font-semibold text-amber-200/90 tracking-wide uppercase">
+                   Đang chờ tư liệu ảnh
+                 </span>
+@@ -159,7 +159,7 @@ export default function HomePage() {
+                   <h3 className="font-bold text-white text-sm sm:text-base leading-tight">
+                     Ẩm thực Huế
+                   </h3>
+-                  <p className="text-xs text-white/80 mt-1 line-clamp-1">
++                  <p className="text-xs text-white/80 mt-1 line-clamp-1 lg:line-clamp-none">
+                     Tinh hoa hương vị cố đô
+                   </p>
+                 </div>

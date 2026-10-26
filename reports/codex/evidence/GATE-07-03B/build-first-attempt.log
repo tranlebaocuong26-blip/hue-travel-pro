@@ -1,0 +1,12 @@
+$ next build
+  ▲ Next.js 14.2.35
+  - Environments: .env
+
+   Creating an optimized production build ...
+Failed to compile.
+
+Error: EPERM: operation not permitted, mkdir 'A:\trí tuệ nhân tạo\BAI_3\hue-travel-pro\.next\types\app\tim-kiem'
+
+
+> Build failed because of webpack errors
+[ELIFECYCLE] Command failed with exit code 1.

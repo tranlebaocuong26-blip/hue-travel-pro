@@ -1,0 +1,2027 @@
+[
+  {
+    "vp": 1366,
+    "mode": "Enter",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Enter",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Enter",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Enter",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Enter",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Space",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Space",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Space",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Space",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Space",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Mouse",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Mouse",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Mouse",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Mouse",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1366,
+    "mode": "Mouse",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Enter",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Enter",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Enter",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Enter",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Enter",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Space",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Space",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Space",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Space",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Space",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Mouse",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Mouse",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Mouse",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Mouse",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1440,
+    "mode": "Mouse",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Enter",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Enter",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Enter",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Enter",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Enter",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Space",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Space",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Space",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Space",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Space",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Mouse",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Mouse",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Mouse",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Mouse",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1650,
+    "mode": "Mouse",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Enter",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Enter",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Enter",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Enter",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Enter",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Space",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Space",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Space",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Space",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Space",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Mouse",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Mouse",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Mouse",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Mouse",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 1920,
+    "mode": "Mouse",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Enter",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Enter",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Enter",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Enter",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Enter",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Space",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Space",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Space",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Space",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Space",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Mouse",
+    "card": "Homestay trung tâm",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=homestay&area=Trung+t%C3%A2m",
+      "values": [
+        "homestay",
+        "Trung tâm",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Mouse",
+    "card": "Khách sạn 3–5 sao",
+    "state": {
+      "details": 3,
+      "url": "http://192.168.1.12:3000/luu-tru?type=hotel",
+      "values": [
+        "hotel",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Mouse",
+    "card": "Ven sông Hương",
+    "state": {
+      "details": 2,
+      "url": "http://192.168.1.12:3000/luu-tru?area=s%C3%B4ng+H%C6%B0%C6%A1ng",
+      "values": [
+        "all",
+        "sông Hương",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Mouse",
+    "card": "Cho gia đình",
+    "state": {
+      "details": 6,
+      "url": "http://192.168.1.12:3000/luu-tru?amenity=wifi",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "wifi"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  },
+  {
+    "vp": 390,
+    "mode": "Mouse",
+    "card": "Resort sinh thái",
+    "state": {
+      "details": 1,
+      "url": "http://192.168.1.12:3000/luu-tru?type=resort",
+      "values": [
+        "resort",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "matchesBefore": true,
+    "reset": {
+      "details": 8,
+      "url": "http://192.168.1.12:3000/luu-tru",
+      "values": [
+        "all",
+        "all",
+        "all",
+        "all"
+      ]
+    },
+    "resetPass": true
+  }
+]

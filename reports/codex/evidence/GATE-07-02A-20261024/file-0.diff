@@ -1,0 +1,57 @@
+diff --git a/reports/codex/evidence/GATE-07-02A-20261024/file-0.before.tsx b/src/components/navigation/AdaptiveNavigation.tsx
+index 0f4bfa5..146d948 100644
+--- a/reports/codex/evidence/GATE-07-02A-20261024/file-0.before.tsx
++++ b/src/components/navigation/AdaptiveNavigation.tsx
+@@ -33,6 +33,16 @@ const activeColorMap: Record<string, string> = {
+   "luu-tru": "bg-[#E6D5B8] text-dark-ink font-semibold shadow-sm",
+ };
+ 
++const navigationLabels: Record<string, string> = {
++  "ve-hue": "Lịch sử",
++  "cam-nang": "Di chuyển",
++};
++
++const displayNavItems = MAIN_NAV_ITEMS.map((item) => ({
++  ...item,
++  label: navigationLabels[item.id] ?? item.label,
++}));
++
+ export default function AdaptiveNavigation() {
+   const pathname = usePathname();
+   const { phase, isTransitioning, targetHref, navigate, prefersReducedMotion } =
+@@ -115,7 +125,7 @@ export default function AdaptiveNavigation() {
+             transitionTimingFunction: "ease",
+           }}
+         >
+-          {MAIN_NAV_ITEMS.map((item) => {
++          {displayNavItems.map((item) => {
+             const isActive =
+               item.href === "/"
+                 ? activePath === "/"
+@@ -186,7 +196,7 @@ export default function AdaptiveNavigation() {
+               aria-label="Thanh điều hướng sidebar"
+               className="space-y-2 flex flex-col"
+             >
+-              {MAIN_NAV_ITEMS.map((item) => {
++              {displayNavItems.map((item) => {
+                 const isActive =
+                   item.href === "/"
+                     ? activePath === "/"
+@@ -336,7 +346,7 @@ export default function AdaptiveNavigation() {
+           {/* Mobile Drawer Menu */}
+           {mobileMenuOpen && (
+             <div className="mt-3 p-4 rounded-3xl bg-black/90 backdrop-blur-xl border border-white/20 shadow-2xl space-y-2">
+-              {MAIN_NAV_ITEMS.map((item) => {
++              {displayNavItems.map((item) => {
+                 const isActive = activePath === item.href;
+                 return (
+                   <a
+@@ -364,7 +374,7 @@ export default function AdaptiveNavigation() {
+           aria-label="Điều hướng di động chính"
+           className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-gray-200 grid grid-cols-5 items-center px-1 py-1 shadow-[0_-4px_20px_rgba(0,0,0,0.06)]"
+         >
+-          {MAIN_NAV_ITEMS.map((item) => {
++          {displayNavItems.map((item) => {
+             const isActive =
+               item.href === "/"
+                 ? activePath === "/"

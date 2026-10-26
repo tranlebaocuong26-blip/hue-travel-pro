@@ -1,0 +1,282 @@
+{
+  "390": {
+    "cardRect": {
+      "x": 38,
+      "y": 952.75,
+      "width": 314,
+      "height": 188
+    },
+    "span1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "13.75px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 200, 0.95)",
+      "rect": {
+        "x": 120.1875,
+        "y": 997.3125,
+        "width": 149.609375,
+        "height": 13.75
+      }
+    },
+    "span2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "15.125px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 136.28125,
+        "y": 1017.0625,
+        "width": 117.421875,
+        "height": 15.125
+      }
+    },
+    "title": {
+      "text": "Ẩm thực Huế",
+      "tag": "H3",
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "rect": {
+        "x": 51,
+        "y": 1086.75,
+        "width": 134.75,
+        "height": 17.5
+      }
+    }
+  },
+  "1366": {
+    "cardRect": {
+      "x": 640.796875,
+      "y": 554,
+      "width": 275.40625,
+      "height": 164
+    },
+    "span1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "13.75px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 200, 0.95)",
+      "rect": {
+        "x": 703.6875,
+        "y": 586.5625,
+        "width": 149.609375,
+        "height": 13.75
+      }
+    },
+    "span2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "15.125px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 719.78125,
+        "y": 606.3125,
+        "width": 117.421875,
+        "height": 15.125
+      }
+    },
+    "title": {
+      "text": "Ẩm thực Huế",
+      "tag": "H3",
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "rect": {
+        "x": 653.796875,
+        "y": 657.5,
+        "width": 134.75,
+        "height": 24
+      }
+    }
+  },
+  "1440": {
+    "cardRect": {
+      "x": 674.8125,
+      "y": 666,
+      "width": 292.421875,
+      "height": 176
+    },
+    "span1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "13.75px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 200, 0.95)",
+      "rect": {
+        "x": 746.21875,
+        "y": 704.5625,
+        "width": 149.609375,
+        "height": 13.75
+      }
+    },
+    "span2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "15.125px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 762.3125,
+        "y": 724.3125,
+        "width": 117.421875,
+        "height": 15.125
+      }
+    },
+    "title": {
+      "text": "Ẩm thực Huế",
+      "tag": "H3",
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "rect": {
+        "x": 687.8125,
+        "y": 781.5,
+        "width": 134.75,
+        "height": 24
+      }
+    }
+  },
+  "1650": {
+    "cardRect": {
+      "x": 774.03125,
+      "y": 572,
+      "width": 325.515625,
+      "height": 164
+    },
+    "span1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "13.75px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 200, 0.95)",
+      "rect": {
+        "x": 861.984375,
+        "y": 604.5625,
+        "width": 149.609375,
+        "height": 13.75
+      }
+    },
+    "span2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "15.125px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 878.078125,
+        "y": 624.3125,
+        "width": 117.421875,
+        "height": 15.125
+      }
+    },
+    "title": {
+      "text": "Ẩm thực Huế",
+      "tag": "H3",
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "rect": {
+        "x": 787.03125,
+        "y": 675.5,
+        "width": 134.75,
+        "height": 24
+      }
+    }
+  },
+  "1920": {
+    "cardRect": {
+      "x": 909.03125,
+      "y": 846,
+      "width": 325.515625,
+      "height": 176
+    },
+    "span1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "13.75px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 200, 0.95)",
+      "rect": {
+        "x": 996.984375,
+        "y": 884.5625,
+        "width": 149.609375,
+        "height": 13.75
+      }
+    },
+    "span2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "tag": "SPAN",
+      "fontFamily": "__notoSans_e65441, __notoSans_Fallback_e65441, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "15.125px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 1013.078125,
+        "y": 904.3125,
+        "width": 117.421875,
+        "height": 15.125
+      }
+    },
+    "title": {
+      "text": "Ẩm thực Huế",
+      "tag": "H3",
+      "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "rect": {
+        "x": 922.03125,
+        "y": 961.5,
+        "width": 134.75,
+        "height": 24
+      }
+    }
+  }
+}

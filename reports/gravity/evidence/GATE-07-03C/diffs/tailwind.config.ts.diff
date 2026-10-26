@@ -1,0 +1,10 @@
+--- before/tailwind.config.ts
++++ after/tailwind.config.ts
+@@ -30,6 +30,7 @@
+         ui: ["var(--font-ui)", "'Segoe UI'", "Arial", "sans-serif"],
+         editorial: ["var(--font-editorial)", "Georgia", "serif"],
+         brand: ["var(--font-sans)", "'Segoe UI'", "Roboto", "Arial", "sans-serif"],
++        bevietnam: ["var(--font-be-vietnam)", "'Segoe UI'", "Arial", "sans-serif"],
+       },
+     },
+   },

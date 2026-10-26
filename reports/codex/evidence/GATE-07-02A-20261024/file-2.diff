@@ -1,0 +1,28 @@
+diff --git a/reports/codex/evidence/GATE-07-02A-20261024/file-2.before.tsx b/src/app/cam-nang/page.tsx
+index 26ed230..98cc0e0 100644
+--- a/reports/codex/evidence/GATE-07-02A-20261024/file-2.before.tsx
++++ b/src/app/cam-nang/page.tsx
+@@ -133,12 +133,12 @@ function CamNangContent() {
+       >
+         <div className="max-w-2xl space-y-2.5 sm:space-y-3">
+           <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-warm-gold">
+-            <span>CẨM NANG</span>
++            <span>DI CHUYỂN</span>
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+           <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-tight">
+-            Cẩm nang Huế
++            Di chuyển ở Huế
+           </h1>
+ 
+           <p className="text-white/90 text-xs sm:text-sm lg:text-base leading-relaxed">
+@@ -589,7 +589,7 @@ export default function CamNangPage() {
+     <Suspense
+       fallback={
+         <div className="p-8 text-center text-gray-500 text-sm">
+-          Đang tải trang Cẩm nang...
++          Đang tải trang Di chuyển...
+         </div>
+       }
+     >

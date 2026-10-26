@@ -1,0 +1,10 @@
+@font-face{font-family:__geistSans_1e4310;src:url(/_next/static/media/4473ecc91f70f139-s.p.woff) format("woff");font-display:swap;font-weight:100 900}
+@font-face{font-family:__geistSans_Fallback_1e4310;src:local("Arial");ascent-override:85.83%;descent-override:20.52%;line-gap-override:9.33%;size-adjust:107.19%}
+@font-face{font-family:__beVietnamPro_6d36a9;src:url(/_next/static/media/922d93aed05560a1-s.ttf) format("truetype");font-display:swap;font-weight:400;font-style:normal}
+@font-face{font-family:__beVietnamPro_6d36a9;src:url(/_next/static/media/fb103191a9fcbee8-s.ttf) format("truetype");font-display:swap;font-weight:500;font-style:normal}
+@font-face{font-family:__beVietnamPro_6d36a9;src:url(/_next/static/media/e3ddbbbaad353e70-s.ttf) format("truetype");font-display:swap;font-weight:600;font-style:normal}
+@font-face{font-family:__beVietnamPro_6d36a9;src:url(/_next/static/media/4c736c78aed01585-s.ttf) format("truetype");font-display:swap;font-weight:700;font-style:normal}
+@font-face{font-family:__beVietnamPro_6d36a9;src:url(/_next/static/media/e38538470cc638e0-s.ttf) format("truetype");font-display:swap;font-weight:400;font-style:italic}
+@font-face{font-family:__beVietnamPro_Fallback_6d36a9;src:local("Arial");ascent-override:90.08%;descent-override:23.87%;line-gap-override:0.00%;size-adjust:111.01%}
+@font-face{font-family:"__notoSerif_9f29f9";src:url(/_next/static/media/d5eec4dc51bb9b32-s.ttf) format("truetype");font-display:swap;font-weight:100 900;font-style:normal}
+@font-face{font-family:"__notoSerif_Fallback_9f29f9";src:local("Arial");ascent-override:98.10%;descent-override:26.89%;line-gap-override:0.00%;size-adjust:108.97%}

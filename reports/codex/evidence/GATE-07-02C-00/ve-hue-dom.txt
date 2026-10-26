@@ -1,0 +1,88 @@
+- generic "Thanh điều hướng thích nghi":
+  - link "Trang chủ":
+    - /url: /
+  - link "Lịch sử":
+    - /url: /ve-hue
+  - link "Khám phá":
+    - /url: /kham-pha
+  - link "Di chuyển":
+    - /url: /cam-nang
+  - link "Lưu trú":
+    - /url: /luu-tru
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - navigation "Thanh điều hướng sidebar":
+    - link "Trang chủ":
+      - /url: /
+      - generic: Trang chủ
+    - link "Lịch sử":
+      - /url: /ve-hue
+      - generic: Lịch sử
+    - link "Khám phá":
+      - /url: /kham-pha
+      - generic: Khám phá
+    - link "Di chuyển":
+      - /url: /cam-nang
+      - generic: Di chuyển
+    - link "Lưu trú":
+      - /url: /luu-tru
+      - generic: Lưu trú
+  - generic: Phiên bản V2.3
+- banner:
+  - link "HUẾ Travel Pro":
+    - /url: /
+    - generic: HUẾ
+    - generic: Travel Pro
+  - link "Tìm kiếm":
+    - /url: /tim-kiem
+- main:
+  - textbox "Tìm kiếm nội dung Huế":
+    - /placeholder: Tìm địa điểm, món ăn, vùng đất...
+  - button "Tìm toàn site":
+    - generic: Tìm toàn site
+  - button "Yêu thích (tính năng đang phát triển)" [disabled]:
+  - generic "Huế Travel Pro":
+  - generic: LỊCH SỬ
+  - heading "Lịch sử Huế" [level=1]
+  - paragraph: Huế là sự giao hòa giữa lịch sử, văn hóa và nhịp sống hiện đại, nơi những giá trị truyền thống vẫn được gìn giữ và tiếp nối trong từng góc phố, dòng sông và con người.
+  - link "Khám phá ngay":
+    - /url: /kham-pha
+    - button "Khám phá ngay":
+      - generic: Khám phá ngay
+  - generic: Đại Nội Huế — Biểu tượng của một thời vàng son
+  - heading "Lịch sử hình thành" [level=3]
+  - paragraph: Từ vùng đất Phú Xuân trù phú đến kinh đô của triều đại nhà Nguyễn trải dài hơn một thế kỷ.
+  - heading "Di sản văn hóa" [level=3]
+  - paragraph: Quần thể di tích Cố đô, Nhã nhạc cung đình Huế và hệ thống mộc bản, châu bản vô giá.
+  - heading "Huế ngày nay" [level=3]
+  - paragraph: Thành phố di sản văn hóa, sinh thái, cảnh quan, thân thiện môi trường; chính thức trở thành Thành phố trực thuộc Trung ương từ 01/01/2025.
+  - heading "Con người & nhịp sống" [level=3]
+  - paragraph: Nét trầm tư, tinh tế trong giao tiếp, ẩm thực cung đình cầu kỳ kết hợp ẩm thực dân gian mộc mạc.
+  - generic: DÒNG THỜI GIAN
+  - heading "Hành trình lịch sử của Huế" [level=2]
+  - paragraph: Từ vùng đất Phú Xuân trù phú, Huế đã trải qua nhiều giai đoạn lịch sử quan trọng, trở thành kinh đô của triều Nguyễn và ngày nay là thành phố di sản.
+  - generic: Thế kỷ XVII
+  - heading "Chúa Nguyễn & Phú Xuân" [level=4]
+  - paragraph: Chúa Nguyễn Hoàng và các đời chúa kế nghiệp chọn vùng đất Phú Xuân làm trung tâm chính trị, văn hóa Đàng Trong.
+  - generic: "Nguồn: Đại Nam Thực Lục"
+  - generic: 1802 – 1945
+  - heading "Kinh đô Triều Nguyễn" [level=4]
+  - paragraph: Vua Gia Long thống nhất đất nước, định đô tại Huế. Xây dựng Kinh thành, Đại Nội và hệ thống lăng tẩm hoàng gia quy mô bậc nhất.
+  - generic: "Nguồn: Trung tâm Bảo tồn Di tích Cố đô Huế"
+  - generic: "1993"
+  - heading "Di sản Văn hóa Thế giới" [level=4]
+  - paragraph: Quần thể Di tích Cố đô Huế được UNESCO công nhận là Di sản Văn hóa Thế giới đầu tiên của Việt Nam.
+  - generic: "Nguồn: UNESCO World Heritage Centre"
+  - generic: "2025"
+  - heading "Thành phố trực thuộc TW" [level=4]
+  - paragraph: Huế chính thức trở thành Thành phố trực thuộc Trung ương từ ngày 01/01/2025 theo Nghị quyết của Quốc hội.
+  - generic: "Nguồn: Cổng TTĐT Chính phủ / Nghị quyết Quốc hội"
+  - generic: Cố đô bên dòng Hương Giang
+  - heading "Nét đẹp cố đô Huế" [level=3]
+  - paragraph: Trải nghiệm vẻ đẹp trầm mặc cổ kính hòa cùng nhịp sống hiện đại qua hệ thống di tích, cảnh quan thiên nhiên và ẩm thực truyền thống.
+  - link "Khám phá các điểm đến":
+    - /url: /kham-pha
+    - generic: Khám phá các điểm đến
+- alert

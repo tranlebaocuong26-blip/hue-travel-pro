@@ -1,0 +1,35 @@
+{
+  "base": "http://192.168.1.12:3000",
+  "captures": 20,
+  "routes": [
+    "ve-hue",
+    "kham-pha",
+    "cam-nang",
+    "luu-tru"
+  ],
+  "viewports": [
+    {
+      "width": 1366,
+      "height": 768
+    },
+    {
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "width": 1650,
+      "height": 786
+    },
+    {
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "documentHorizontalOverflow": 0,
+  "keyboardTest": "Tab skips five accommodation recommendation divs; focus passes from four selects to first accommodation name link",
+  "readOnly": true
+}

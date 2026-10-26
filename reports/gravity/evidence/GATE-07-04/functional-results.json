@@ -1,0 +1,20 @@
+{
+  "subpageMorph": {
+    "morphState": "sidebar",
+    "navWidth": "256px",
+    "h1Text": "Lịch sử Huế",
+    "h1Font": "__notoSerif_9f29f9, __notoSerif_Fallback_9f29f9, Georgia, serif"
+  },
+  "t05Rentals": {
+    "hasRentalSection": true,
+    "rentalCardsCount": 12
+  },
+  "t07Accommodations": {
+    "categoryButtonsCount": 6,
+    "hotelCardsCount": 16
+  },
+  "a01Accessibility": {
+    "activeTag": "A",
+    "activeHref": "/"
+  }
+}

@@ -1,0 +1,29 @@
+diff --git a/reports/codex/evidence/GATE-07-02A-20261024/file-3.before.tsx b/src/app/luu-tru/page.tsx
+index 2f3b0fe..bba74a6 100644
+--- a/reports/codex/evidence/GATE-07-02A-20261024/file-3.before.tsx
++++ b/src/app/luu-tru/page.tsx
+@@ -142,21 +142,16 @@ function LuuTruContent() {
+           backgroundSize: "cover",
+         }}
+       >
+-        <div className="max-w-2xl space-y-2.5 sm:space-y-3">
++        <div className="max-w-3xl space-y-2.5 sm:space-y-3">
+           <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-warm-gold">
+             <span>LƯU TRÚ</span>
+             <div className="w-8 h-px bg-warm-gold/60" />
+           </div>
+ 
+-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-tight">
+-            Nghỉ ngơi ở Huế
++          <h1 className="text-xl sm:text-2xl lg:text-[1.75rem] font-bold font-serif leading-snug text-white">
++            Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.
+           </h1>
+ 
+-          <p className="text-white/85 text-xs sm:text-sm lg:text-base leading-relaxed">
+-            Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú
+-            đầy cảm hứng cho hành trình của bạn.
+-          </p>
+-
+           {/* Category Chips */}
+           <div className="flex flex-wrap items-center gap-2 pt-2 text-xs">
+             {[

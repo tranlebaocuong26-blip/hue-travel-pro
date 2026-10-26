@@ -1,0 +1,300 @@
+{
+  "foodCardPlaceholder": {
+    "390": {
+      "cardRect": {
+        "x": 38,
+        "y": 952.75,
+        "width": 314,
+        "height": 188
+      },
+      "span1": {
+        "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "1.2px",
+        "color": "rgba(254, 243, 200, 0.9)",
+        "textTransform": "uppercase",
+        "rect": {
+          "x": 122.03125,
+          "y": 997.75,
+          "width": 145.921875,
+          "height": 15
+        }
+      },
+      "span2": {
+        "text": "Ẩm thực Cố Đô (Đợt 1)",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "color": "rgba(255, 255, 255, 0.6)",
+        "textTransform": "none",
+        "rect": {
+          "x": 142.078125,
+          "y": 1016.75,
+          "width": 105.828125,
+          "height": 15
+        }
+      },
+      "title": {
+        "text": "Ẩm thực Huế",
+        "tag": "H3",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "lineHeight": "17.5px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "none",
+        "rect": {
+          "x": 51,
+          "y": 1086.75,
+          "width": 134.75,
+          "height": 17.5
+        }
+      }
+    },
+    "1366": {
+      "cardRect": {
+        "x": 640.796875,
+        "y": 554,
+        "width": 275.40625,
+        "height": 164
+      },
+      "span1": {
+        "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "1.2px",
+        "color": "rgba(254, 243, 200, 0.9)",
+        "textTransform": "uppercase",
+        "rect": {
+          "x": 705.53125,
+          "y": 587,
+          "width": 145.921875,
+          "height": 15
+        }
+      },
+      "span2": {
+        "text": "Ẩm thực Cố Đô (Đợt 1)",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "color": "rgba(255, 255, 255, 0.6)",
+        "textTransform": "none",
+        "rect": {
+          "x": 725.578125,
+          "y": 606,
+          "width": 105.828125,
+          "height": 15
+        }
+      },
+      "title": {
+        "text": "Ẩm thực Huế",
+        "tag": "H3",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "none",
+        "rect": {
+          "x": 653.796875,
+          "y": 657.5,
+          "width": 134.75,
+          "height": 24
+        }
+      }
+    },
+    "1440": {
+      "cardRect": {
+        "x": 674.8125,
+        "y": 666,
+        "width": 292.421875,
+        "height": 176
+      },
+      "span1": {
+        "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "1.2px",
+        "color": "rgba(254, 243, 200, 0.9)",
+        "textTransform": "uppercase",
+        "rect": {
+          "x": 748.0625,
+          "y": 705,
+          "width": 145.921875,
+          "height": 15
+        }
+      },
+      "span2": {
+        "text": "Ẩm thực Cố Đô (Đợt 1)",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "color": "rgba(255, 255, 255, 0.6)",
+        "textTransform": "none",
+        "rect": {
+          "x": 768.109375,
+          "y": 724,
+          "width": 105.828125,
+          "height": 15
+        }
+      },
+      "title": {
+        "text": "Ẩm thực Huế",
+        "tag": "H3",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "none",
+        "rect": {
+          "x": 687.8125,
+          "y": 781.5,
+          "width": 134.75,
+          "height": 24
+        }
+      }
+    },
+    "1650": {
+      "cardRect": {
+        "x": 774.03125,
+        "y": 572,
+        "width": 325.515625,
+        "height": 164
+      },
+      "span1": {
+        "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "1.2px",
+        "color": "rgba(254, 243, 200, 0.9)",
+        "textTransform": "uppercase",
+        "rect": {
+          "x": 863.828125,
+          "y": 605,
+          "width": 145.921875,
+          "height": 15
+        }
+      },
+      "span2": {
+        "text": "Ẩm thực Cố Đô (Đợt 1)",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "color": "rgba(255, 255, 255, 0.6)",
+        "textTransform": "none",
+        "rect": {
+          "x": 883.875,
+          "y": 624,
+          "width": 105.828125,
+          "height": 15
+        }
+      },
+      "title": {
+        "text": "Ẩm thực Huế",
+        "tag": "H3",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "none",
+        "rect": {
+          "x": 787.03125,
+          "y": 675.5,
+          "width": 134.75,
+          "height": 24
+        }
+      }
+    },
+    "1920": {
+      "cardRect": {
+        "x": 909.03125,
+        "y": 846,
+        "width": 325.515625,
+        "height": 176
+      },
+      "span1": {
+        "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "1.2px",
+        "color": "rgba(254, 243, 200, 0.9)",
+        "textTransform": "uppercase",
+        "rect": {
+          "x": 998.828125,
+          "y": 885,
+          "width": 145.921875,
+          "height": 15
+        }
+      },
+      "span2": {
+        "text": "Ẩm thực Cố Đô (Đợt 1)",
+        "tag": "SPAN",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "color": "rgba(255, 255, 255, 0.6)",
+        "textTransform": "none",
+        "rect": {
+          "x": 1018.875,
+          "y": 904,
+          "width": 105.828125,
+          "height": 15
+        }
+      },
+      "title": {
+        "text": "Ẩm thực Huế",
+        "tag": "H3",
+        "fontFamily": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "none",
+        "rect": {
+          "x": 922.03125,
+          "y": 961.5,
+          "width": 134.75,
+          "height": 24
+        }
+      }
+    }
+  },
+  "routes": {}
+}

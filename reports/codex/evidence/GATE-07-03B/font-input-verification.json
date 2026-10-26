@@ -1,0 +1,32 @@
+[
+  {
+    "file": "BeVietnamPro-Regular.ttf",
+    "sha256": "CD1EF6E9D7DB28AD5CDB88A65CCBE693870E60D340B791F349D248342B4FE4C3",
+    "status": "MATCH_07_03A"
+  },
+  {
+    "file": "BeVietnamPro-Medium.ttf",
+    "sha256": "B60832BFA0FCD015158112C64D7E3FDAD3B0C6287D1823F85A3103636E845268",
+    "status": "MATCH_07_03A"
+  },
+  {
+    "file": "BeVietnamPro-SemiBold.ttf",
+    "sha256": "BD8E27EB02720B9D91E59E4F10A90878643219F25CE6A8D9A4F06A8A88D3BB71",
+    "status": "MATCH_07_03A"
+  },
+  {
+    "file": "BeVietnamPro-Bold.ttf",
+    "sha256": "7F738FE5C43C8872807B20E2D30D42163618DE8A4DAF7F48A939ADAC32C16847",
+    "status": "MATCH_07_03A"
+  },
+  {
+    "file": "BeVietnamPro-Italic.ttf",
+    "sha256": "A33EBB3F68E0E260A7D3874D64259AD309971A2DAF969E7CE5F444D70BCE535F",
+    "status": "MATCH_07_03A"
+  },
+  {
+    "file": "NotoSerif-VF.ttf",
+    "sha256": "4D8E6761424656867019081A1A01336F3CB086982682698714054FC33F782713",
+    "status": "MATCH_07_03A"
+  }
+]

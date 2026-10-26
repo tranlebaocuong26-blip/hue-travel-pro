@@ -1,0 +1,362 @@
+[
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+    "clientWidth": 1351,
+    "h1": "Lịch sử Huế",
+    "height": 394.5,
+    "position": "100% 50%, 100% 50%",
+    "route": "/ve-hue",
+    "scrollWidth": 1351,
+    "size": "cover, cover",
+    "viewport": [
+      1366,
+      768
+    ],
+    "width": 1031
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+    "clientWidth": 1351,
+    "h1": "Khám phá Huế",
+    "height": 292,
+    "position": "100% 20%, 100% 20%",
+    "route": "/kham-pha",
+    "scrollWidth": 1351,
+    "size": "cover, cover",
+    "viewport": [
+      1366,
+      768
+    ],
+    "width": 1031
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+    "clientWidth": 1351,
+    "h1": "Di chuyển ở Huế",
+    "height": 260,
+    "position": "100% 90%, 100% 90%",
+    "route": "/cam-nang",
+    "scrollWidth": 1351,
+    "size": "cover, cover",
+    "viewport": [
+      1366,
+      768
+    ],
+    "width": 1031
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+    "clientWidth": 1351,
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "height": 228,
+    "position": "100% 65%, 100% 65%",
+    "route": "/luu-tru",
+    "scrollWidth": 1351,
+    "size": "cover, cover",
+    "viewport": [
+      1366,
+      768
+    ],
+    "width": 1031
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+    "clientWidth": 1425,
+    "h1": "Lịch sử Huế",
+    "h1Box": {
+      "bottom": 238,
+      "top": 190
+    },
+    "height": 394.5,
+    "heroBox": {
+      "bottom": 504.5,
+      "top": 110
+    },
+    "nav": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "position": "100% 50%, 100% 50%",
+    "route": "/ve-hue",
+    "scrollWidth": 1425,
+    "size": "cover, cover",
+    "viewport": [
+      1440,
+      900
+    ],
+    "width": 1105
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+    "clientWidth": 1425,
+    "h1": "Khám phá Huế",
+    "h1Box": {
+      "bottom": 226,
+      "top": 178
+    },
+    "height": 292,
+    "heroBox": {
+      "bottom": 402,
+      "top": 110
+    },
+    "nav": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "position": "100% 20%, 100% 20%",
+    "route": "/kham-pha",
+    "scrollWidth": 1425,
+    "size": "cover, cover",
+    "viewport": [
+      1440,
+      900
+    ],
+    "width": 1105
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+    "clientWidth": 1425,
+    "h1": "Di chuyển ở Huế",
+    "height": 260,
+    "position": "100% 90%, 100% 90%",
+    "route": "/cam-nang",
+    "scrollWidth": 1425,
+    "size": "cover, cover",
+    "viewport": [
+      1440,
+      900
+    ],
+    "width": 1105
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+    "clientWidth": 1425,
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "h1Box": {
+      "bottom": 242,
+      "top": 178
+    },
+    "height": 228,
+    "heroBox": {
+      "bottom": 338,
+      "top": 110
+    },
+    "nav": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "position": "100% 65%, 100% 65%",
+    "route": "/luu-tru",
+    "scrollWidth": 1425,
+    "size": "cover, cover",
+    "viewport": [
+      1440,
+      900
+    ],
+    "width": 1105
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+    "clientWidth": 375,
+    "h1": "Lịch sử Huế",
+    "h1Box": {
+      "bottom": 168,
+      "top": 138
+    },
+    "height": 300,
+    "heroBox": {
+      "bottom": 390,
+      "top": 90
+    },
+    "nav": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "position": "100% 50%, 100% 50%",
+    "route": "/ve-hue",
+    "scrollWidth": 375,
+    "size": "cover, cover",
+    "viewport": [
+      390,
+      844
+    ],
+    "width": 347
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_kham_pha.png\")",
+    "clientWidth": 375,
+    "h1": "Khám phá Huế",
+    "h1Box": {
+      "bottom": 158,
+      "top": 128
+    },
+    "height": 271,
+    "heroBox": {
+      "bottom": 353,
+      "top": 82
+    },
+    "nav": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "position": "100% 20%, 100% 20%",
+    "route": "/kham-pha",
+    "scrollWidth": 375,
+    "size": "cover, cover",
+    "viewport": [
+      390,
+      844
+    ],
+    "width": 347
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+    "clientWidth": 375,
+    "h1": "Di chuyển ở Huế",
+    "height": 207,
+    "position": "100% 90%, 100% 90%",
+    "route": "/cam-nang",
+    "scrollWidth": 375,
+    "size": "cover, cover",
+    "viewport": [
+      390,
+      844
+    ],
+    "width": 347
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+    "clientWidth": 375,
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "h1Box": {
+      "bottom": 246,
+      "top": 136
+    },
+    "height": 274,
+    "heroBox": {
+      "bottom": 364,
+      "top": 90
+    },
+    "nav": [
+      {
+        "href": "/",
+        "text": "Trang chủ"
+      },
+      {
+        "href": "/ve-hue",
+        "text": "Lịch sử"
+      },
+      {
+        "href": "/kham-pha",
+        "text": "Khám phá"
+      },
+      {
+        "href": "/cam-nang",
+        "text": "Di chuyển"
+      },
+      {
+        "href": "/luu-tru",
+        "text": "Lưu trú"
+      }
+    ],
+    "position": "100% 65%, 100% 65%",
+    "route": "/luu-tru",
+    "scrollWidth": 375,
+    "size": "cover, cover",
+    "viewport": [
+      390,
+      844
+    ],
+    "width": 347
+  }
+]

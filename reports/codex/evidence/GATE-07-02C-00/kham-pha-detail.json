@@ -1,0 +1,28 @@
+{
+  "card": {
+    "height": 374,
+    "width": 328.328125,
+    "x": 288,
+    "y": 248
+  },
+  "image": {
+    "bg": "url(\"http://192.168.1.12:3000/images/cards/card_dai_noi.png\")",
+    "fit": "cover",
+    "height": 176,
+    "width": 326.328125,
+    "x": 289,
+    "y": 249
+  },
+  "map": {
+    "height": 303,
+    "width": 322.328125,
+    "x": 996.65625,
+    "y": 196
+  },
+  "mapHref": [
+    "https://www.google.com/maps/search/dia+diem+du+lich+hue",
+    "https://www.google.com/maps/search/dia+diem+du+lich+hue"
+  ],
+  "scrollY": 499,
+  "url": "http://192.168.1.12:3000/kham-pha"
+}

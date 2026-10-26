@@ -1,0 +1,384 @@
+// ==============================================================================
+// HUẾ TRAVEL PRO V2.3 — PRISMA SCHEMA DEFINITION (22 TABLES)
+// ==============================================================================
+// Reference: GATE-06B-FINAL-SPEC.md, GATE-06B-ERD.md, GATE-06B-CONSTRAINTS.md
+// Target DB: Supabase PostgreSQL DEV (Project ID: rgoqdykpqyedambkrlvr)
+// Status: FINAL SCHEMA ALIGNMENT — DO NOT RUN MIGRATION UNTIL OWNER APPROVAL
+// ==============================================================================
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// ------------------------------------------------------------------------------
+// 1. CONTENT ITEMS (ROOT CORE ENTITY)
+// ------------------------------------------------------------------------------
+model ContentItem {
+  id                 String   @id // Preserved original TS data IDs
+  kind               String   // "place" | "rental" | "accommodation" | "article"
+  slug               String   // kebab-case URL identifier
+  publicationStatus  String   @default("draft") @map("publication_status") // "draft" | "review" | "published" | "archived"
+  verificationStatus String   @default("reference_only") @map("verification_status") // "verified" | "reference_only" | "illustrative"
+  areaId             String?  @map("area_id")
+  createdAt          DateTime @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt          DateTime @updatedAt @map("updated_at") @db.Timestamptz
+
+  // Relations
+  area               Area?                @relation(fields: [areaId], references: [id], onDelete: Restrict)
+  place              Place?
+  rentalProvider     RentalProvider?
+  accommodation      Accommodation?
+  article            Article?
+  contentPrice       ContentPrice?
+  contentCategories  ContentCategory[]
+  contentTags        ContentTag[]
+  sourceAssertions   SourceAssertion[]
+  mediaLinks         MediaLink[]
+  contentRevisions   ContentRevision[]
+  auditLogs          AuditLog[]
+
+  @@unique([kind, slug])
+  @@unique([id, kind])
+  @@index([kind, publicationStatus])
+  @@index([areaId])
+  @@map("content_items")
+}
+
+// ------------------------------------------------------------------------------
+// 2. TAXONOMIES: AREAS, CATEGORIES, TAGS
+// ------------------------------------------------------------------------------
+model Area {
+  id              String        @id
+  slug            String        @unique
+  name            String
+  vietnameseLabel String        @map("vietnamese_label")
+  parentId        String?       @map("parent_id")
+  createdAt       DateTime      @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt       DateTime      @updatedAt @map("updated_at") @db.Timestamptz
+
+  // Self-relation
+  parent          Area?         @relation("AreaHierarchy", fields: [parentId], references: [id], onDelete: Restrict)
+  children        Area[]        @relation("AreaHierarchy")
+  contentItems    ContentItem[]
+
+  @@map("areas")
+}
+
+model Category {
+  id              String            @id
+  slug            String            @unique
+  name            String
+  vietnameseLabel String            @map("vietnamese_label")
+  createdAt       DateTime          @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt       DateTime          @updatedAt @map("updated_at") @db.Timestamptz
+
+  contentCategories ContentCategory[]
+
+  @@map("categories")
+}
+
+model Tag {
+  id              String       @id
+  slug            String       @unique
+  name            String
+  createdAt       DateTime     @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt       DateTime     @updatedAt @map("updated_at") @db.Timestamptz
+
+  contentTags     ContentTag[]
+
+  @@map("tags")
+}
+
+// ------------------------------------------------------------------------------
+// 3. M:N JUNCTION TABLES (TAXONOMY LINKS)
+// ------------------------------------------------------------------------------
+model ContentCategory {
+  contentId  String   @map("content_id")
+  categoryId String   @map("category_id")
+  createdAt  DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  contentItem ContentItem @relation(fields: [contentId], references: [id], onDelete: Restrict)
+  category    Category    @relation(fields: [categoryId], references: [id], onDelete: Restrict)
+
+  @@id([contentId, categoryId])
+  @@map("content_categories")
+}
+
+model ContentTag {
+  contentId String   @map("content_id")
+  tagId     String   @map("tag_id")
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  contentItem ContentItem @relation(fields: [contentId], references: [id], onDelete: Restrict)
+  tag         Tag         @relation(fields: [tagId], references: [id], onDelete: Restrict)
+
+  @@id([contentId, tagId])
+  @@map("content_tags")
+}
+
+// ------------------------------------------------------------------------------
+// 4. SUBTYPES: PLACES, RENTALS, ACCOMMODATIONS, ARTICLES
+// ------------------------------------------------------------------------------
+model Place {
+  contentId         String   @id @map("content_id")
+  kind              String   @default("place")
+  name              String
+  vietnameseTitle   String?  @map("vietnamese_title")
+  summary           String   @db.Text
+  description       String   @db.Text
+  historyHighlight  String?  @map("history_highlight") @db.Text
+  address           String
+  googleMapsUrl     String   @map("google_maps_url")
+  openingHours      String   @map("opening_hours")
+  suggestedDuration String?  @map("suggested_duration")
+  bestTimeToVisit   String?  @map("best_time_to_visit")
+  latitude          Decimal? @db.Decimal(9, 6)
+  longitude         Decimal? @db.Decimal(9, 6)
+
+  contentItem       ContentItem @relation(fields: [contentId, kind], references: [id, kind], onDelete: Restrict)
+
+  @@unique([contentId, kind])
+  @@map("places")
+}
+
+model RentalProvider {
+  contentId    String   @id @map("content_id")
+  kind         String   @default("rental")
+  name         String
+  brand        String
+  address      String
+  hotline      String
+  notes        String?  @db.Text
+
+  contentItem  ContentItem          @relation(fields: [contentId, kind], references: [id, kind], onDelete: Restrict)
+  vehicleTypes RentalVehicleType[]
+
+  @@unique([contentId, kind])
+  @@map("rental_providers")
+}
+
+model Accommodation {
+  contentId     String   @id @map("content_id")
+  kind          String   @default("accommodation")
+  name          String
+  type          String   // "homestay" | "khach-san" | "resort"
+  typeLabel     String   @map("type_label")
+  address       String
+  heroImage     String   @map("hero_image")
+  summary       String   @db.Text
+  description   String   @db.Text
+  googleMapsUrl String   @map("google_maps_url")
+  hotline       String?
+  website       String?
+
+  contentItem ContentItem            @relation(fields: [contentId, kind], references: [id, kind], onDelete: Restrict)
+  amenities   AccommodationAmenity[]
+
+  @@unique([contentId, kind])
+  @@map("accommodations")
+}
+
+model Article {
+  contentId   String    @id @map("content_id")
+  kind        String    @default("article")
+  title       String
+  excerpt     String    @db.Text
+  body        String    @db.Text
+  author      String?
+  publishedAt DateTime? @map("published_at") @db.Timestamptz
+
+  contentItem ContentItem @relation(fields: [contentId, kind], references: [id, kind], onDelete: Restrict)
+
+  @@unique([contentId, kind])
+  @@map("articles")
+}
+
+// ------------------------------------------------------------------------------
+// 5. SUBTYPE-SPECIFIC ATTRIBUTES: AMENITIES, VEHICLE TYPES
+// ------------------------------------------------------------------------------
+model Amenity {
+  id        String   @id
+  slug      String   @unique
+  name      String
+  icon      String?
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  accommodationAmenities AccommodationAmenity[]
+
+  @@map("amenities")
+}
+
+model AccommodationAmenity {
+  accommodationId String   @map("accommodation_id")
+  amenityId       String   @map("amenity_id")
+  createdAt       DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  accommodation Accommodation @relation(fields: [accommodationId], references: [contentId], onDelete: Restrict)
+  amenity       Amenity       @relation(fields: [amenityId], references: [id], onDelete: Restrict)
+
+  @@id([accommodationId, amenityId])
+  @@map("accommodation_amenities")
+}
+
+model VehicleType {
+  id              String   @id
+  slug            String   @unique
+  name            String
+  vietnameseLabel String   @map("vietnamese_label")
+  createdAt       DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  rentalVehicleTypes RentalVehicleType[]
+
+  @@map("vehicle_types")
+}
+
+model RentalVehicleType {
+  rentalId      String   @map("rental_id")
+  vehicleTypeId String   @map("vehicle_type_id")
+  createdAt     DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  rentalProvider RentalProvider @relation(fields: [rentalId], references: [contentId], onDelete: Restrict)
+  vehicleType    VehicleType    @relation(fields: [vehicleTypeId], references: [id], onDelete: Restrict)
+
+  @@id([rentalId, vehicleTypeId])
+  @@map("rental_vehicle_types")
+}
+
+// ------------------------------------------------------------------------------
+// 6. PRICING STRUCTURE (BIGINT VND, STRICT NULLABILITY)
+// ------------------------------------------------------------------------------
+model ContentPrice {
+  contentId    String    @id @map("content_id")
+  currency     String    @default("VND")
+  unit         String?   // "nguoi/luot" | "xe/ngay" | "phong/dem" | "thoa-thuan"
+  priceType    String    @map("price_type") // "unknown" | "contact" | "free" | "fixed" | "range"
+  amount       BigInt?   // Pure integer VND, NULL when unknown
+  minAmount    BigInt?   @map("min_amount")
+  maxAmount    BigInt?   @map("max_amount")
+  displayLabel String?   @map("display_label")
+  isFree       Boolean   @default(false) @map("is_free")
+  isVerified   Boolean   @default(false) @map("is_verified")
+  verifiedDate DateTime? @map("verified_date") @db.Timestamptz
+
+  contentItem  ContentItem @relation(fields: [contentId], references: [id], onDelete: Restrict)
+
+  @@map("content_prices")
+}
+
+// ------------------------------------------------------------------------------
+// 7. PROVENANCE: SOURCES & ASSERTIONS
+// ------------------------------------------------------------------------------
+model ContentSource {
+  id              String    @id
+  sourceUrl       String    @map("source_url")
+  publisherName   String    @map("publisher_name")
+  retrievedDate   DateTime? @map("retrieved_date") @db.Timestamptz
+  lastCheckedDate DateTime? @map("last_checked_date") @db.Timestamptz
+  sourceType      String?   @map("source_type")
+  licenseNotes    String?   @map("license_notes") @db.Text
+  createdAt       DateTime  @default(now()) @map("created_at") @db.Timestamptz
+
+  sourceAssertions SourceAssertion[]
+
+  @@map("content_sources")
+}
+
+model SourceAssertion {
+  id                 String   @id
+  contentId          String   @map("content_id")
+  sourceId           String   @map("source_id")
+  fieldKey           String   @map("field_key") // Specific field verified, e.g. "price", "hotline", "address"
+  excerpt            String?  @db.Text
+  verificationStatus String   @default("reference_only") @map("verification_status")
+  checkedAt          DateTime @default(now()) @map("checked_at") @db.Timestamptz
+
+  contentItem ContentItem   @relation(fields: [contentId], references: [id], onDelete: Restrict)
+  source      ContentSource @relation(fields: [sourceId], references: [id], onDelete: Restrict)
+
+  @@index([contentId, fieldKey])
+  @@map("source_assertions")
+}
+
+// ------------------------------------------------------------------------------
+// 8. MEDIA ASSETS & LINKS
+// ------------------------------------------------------------------------------
+model MediaAsset {
+  id            String   @id
+  storageBucket String   @map("storage_bucket")
+  objectKey     String   @map("object_key")
+  mimeType      String   @map("mime_type")
+  byteSize      Int      @map("byte_size")
+  altText       String   @map("alt_text")
+  credit        String?
+  licenseUrl    String?  @map("license_url")
+  isPublished   Boolean  @default(false) @map("is_published")
+  createdAt     DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  mediaLinks MediaLink[]
+
+  @@unique([storageBucket, objectKey])
+  @@map("media_assets")
+}
+
+model MediaLink {
+  contentId String   @map("content_id")
+  mediaId   String   @map("media_id")
+  role      String   @default("gallery") // "hero" | "gallery" | "thumbnail"
+  sortOrder Int      @default(0) @map("sort_order")
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  contentItem ContentItem @relation(fields: [contentId], references: [id], onDelete: Restrict)
+  mediaAsset  MediaAsset  @relation(fields: [mediaId], references: [id], onDelete: Restrict)
+
+  @@id([contentId, mediaId])
+  @@map("media_links")
+}
+
+// ------------------------------------------------------------------------------
+// 9. ADMIN & AUDIT LOGS
+// ------------------------------------------------------------------------------
+model AdminMembership {
+  id         String    @id
+  authUserId String    @unique @db.Uuid @map("auth_user_id") // Logic reference to Supabase auth.users
+  role       String    @default("editor") // "super_admin" | "editor" | "reviewer"
+  isActive   Boolean   @default(true) @map("is_active")
+  createdAt  DateTime  @default(now()) @map("created_at") @db.Timestamptz
+  revokedAt  DateTime? @map("revoked_at") @db.Timestamptz
+
+  @@map("admin_memberships")
+}
+
+model ContentRevision {
+  id                  String   @id
+  contentId           String   @map("content_id")
+  version             Int
+  snapshot            Json     @db.JsonB
+  createdByAuthUserId String?  @db.Uuid @map("created_by_auth_user_id")
+  createdAt           DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  contentItem ContentItem @relation(fields: [contentId], references: [id], onDelete: Restrict)
+
+  @@unique([contentId, version])
+  @@map("content_revisions")
+}
+
+model AuditLog {
+  id               String   @id
+  contentId        String?  @map("content_id")
+  action           String   // "CREATE" | "UPDATE" | "DELETE" | "PUBLISH" | "ARCHIVE"
+  actorAuthUserId  String?  @db.Uuid @map("actor_auth_user_id")
+  occurredAt       DateTime @default(now()) @map("occurred_at") @db.Timestamptz
+  details          Json?    @db.JsonB
+
+  contentItem ContentItem? @relation(fields: [contentId], references: [id], onDelete: Restrict)
+
+  @@index([occurredAt])
+  @@index([contentId])
+  @@map("audit_logs")
+}

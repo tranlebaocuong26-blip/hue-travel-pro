@@ -1,0 +1,111 @@
+[
+  {
+    "cards": [
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Đi Huế lần đầu"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Chill cuối tuần"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Đi cùng gia đình"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Check-in sống ảo"
+      }
+    ],
+    "h2Font": "\"Segoe UI\", Georgia, serif",
+    "url": "http://192.168.1.12:3000/kham-pha"
+  },
+  {
+    "cards": [
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Thuê xe tự lái"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Di chuyển nội thành"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Lưu ý khi thuê xe"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Mẹo cho người mới"
+      }
+    ],
+    "h2Font": "\"Segoe UI\", Georgia, serif",
+    "url": "http://192.168.1.12:3000/cam-nang"
+  },
+  {
+    "cards": [
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Homestay trung tâm"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Khách sạn 3–5 sao"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Ven sông Hương"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Cho gia đình"
+      },
+      {
+        "childrenFocusable": 0,
+        "role": null,
+        "tabIndex": -1,
+        "tag": "DIV",
+        "text": "Resort sinh thái"
+      }
+    ],
+    "h2Font": "\"Segoe UI\", Georgia, serif",
+    "url": "http://192.168.1.12:3000/luu-tru"
+  }
+]

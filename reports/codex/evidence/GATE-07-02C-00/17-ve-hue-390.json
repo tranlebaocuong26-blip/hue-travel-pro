@@ -1,0 +1,99 @@
+{
+  "doc": {
+    "client": 375,
+    "height": 2842,
+    "scroll": 375
+  },
+  "grids": [
+    {
+      "cols": "347px",
+      "gap": "16px",
+      "h": 975.5,
+      "w": 347,
+      "x": 14,
+      "y": 422
+    },
+    {
+      "cols": "347px",
+      "gap": "32px",
+      "h": 1300,
+      "w": 347,
+      "x": 14,
+      "y": 1429.5
+    },
+    {
+      "cols": "297px",
+      "gap": "16px",
+      "h": 681.5,
+      "w": 297,
+      "x": 39,
+      "y": 1614.5
+    }
+  ],
+  "h1": "Lịch sử Huế",
+  "headings": [
+    {
+      "font": "16px",
+      "h": 24,
+      "text": "Lịch sử hình thành",
+      "w": 297,
+      "x": 39,
+      "y": 511
+    },
+    {
+      "font": "16px",
+      "h": 24,
+      "text": "Di sản văn hóa",
+      "w": 297,
+      "x": 39,
+      "y": 754
+    },
+    {
+      "font": "16px",
+      "h": 24,
+      "text": "Huế ngày nay",
+      "w": 297,
+      "x": 39,
+      "y": 997
+    },
+    {
+      "font": "16px",
+      "h": 24,
+      "text": "Con người & nhịp sống",
+      "w": 297,
+      "x": 39,
+      "y": 1259.5
+    },
+    {
+      "font": "24px",
+      "h": 64,
+      "text": "Hành trình lịch sử của Huế",
+      "w": 297,
+      "x": 39,
+      "y": 1474.5
+    },
+    {
+      "font": "16px",
+      "h": 24,
+      "text": "Nét đẹp cố đô Huế",
+      "w": 297,
+      "x": 39,
+      "y": 2570
+    }
+  ],
+  "hero": {
+    "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_lich_su.png\")",
+    "h": 300,
+    "position": "100% 50%, 100% 50%",
+    "w": 347,
+    "x": 14,
+    "y": 90
+  },
+  "images": [],
+  "overflow": [],
+  "url": "http://192.168.1.12:3000/ve-hue",
+  "viewport": [
+    390,
+    844
+  ]
+}

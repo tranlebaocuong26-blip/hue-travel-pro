@@ -1,0 +1,455 @@
+{
+  "method": "Read cmap from installed/project font files. Missing codepoints alone do not prove per-character browser fallback or a shaping failure.",
+  "result": [
+    {
+      "file": "src/app/fonts/GeistVF.woff",
+      "container": "wOFF",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [
+        "ơ",
+        "ư",
+        "Ơ",
+        "Ư",
+        "Ế",
+        "ế",
+        "ề",
+        "ẩ",
+        "ị",
+        "ử",
+        "ả",
+        "ệ"
+      ],
+      "missingNFD": [
+        "̛",
+        "̉",
+        "̣"
+      ],
+      "missingVietnameseBlock": [
+        {
+          "char": "ơ",
+          "code": "U+1A1"
+        },
+        {
+          "char": "ư",
+          "code": "U+1B0"
+        },
+        {
+          "char": "Ơ",
+          "code": "U+1A0"
+        },
+        {
+          "char": "Ư",
+          "code": "U+1AF"
+        },
+        {
+          "char": "Ế",
+          "code": "U+1EBE"
+        },
+        {
+          "char": "ế",
+          "code": "U+1EBF"
+        },
+        {
+          "char": "ề",
+          "code": "U+1EC1"
+        },
+        {
+          "char": "ẩ",
+          "code": "U+1EA9"
+        },
+        {
+          "char": "ị",
+          "code": "U+1ECB"
+        },
+        {
+          "char": "ử",
+          "code": "U+1EED"
+        },
+        {
+          "char": "ả",
+          "code": "U+1EA3"
+        },
+        {
+          "char": "ệ",
+          "code": "U+1EC7"
+        },
+        {
+          "char": "Ạ",
+          "code": "U+1EA0"
+        },
+        {
+          "char": "ạ",
+          "code": "U+1EA1"
+        },
+        {
+          "char": "Ả",
+          "code": "U+1EA2"
+        },
+        {
+          "char": "Ấ",
+          "code": "U+1EA4"
+        },
+        {
+          "char": "ấ",
+          "code": "U+1EA5"
+        },
+        {
+          "char": "Ầ",
+          "code": "U+1EA6"
+        },
+        {
+          "char": "ầ",
+          "code": "U+1EA7"
+        },
+        {
+          "char": "Ẩ",
+          "code": "U+1EA8"
+        },
+        {
+          "char": "Ẫ",
+          "code": "U+1EAA"
+        },
+        {
+          "char": "ẫ",
+          "code": "U+1EAB"
+        },
+        {
+          "char": "Ậ",
+          "code": "U+1EAC"
+        },
+        {
+          "char": "ậ",
+          "code": "U+1EAD"
+        },
+        {
+          "char": "Ắ",
+          "code": "U+1EAE"
+        },
+        {
+          "char": "ắ",
+          "code": "U+1EAF"
+        },
+        {
+          "char": "Ằ",
+          "code": "U+1EB0"
+        },
+        {
+          "char": "ằ",
+          "code": "U+1EB1"
+        },
+        {
+          "char": "Ẳ",
+          "code": "U+1EB2"
+        },
+        {
+          "char": "ẳ",
+          "code": "U+1EB3"
+        },
+        {
+          "char": "Ẵ",
+          "code": "U+1EB4"
+        },
+        {
+          "char": "ẵ",
+          "code": "U+1EB5"
+        },
+        {
+          "char": "Ặ",
+          "code": "U+1EB6"
+        },
+        {
+          "char": "ặ",
+          "code": "U+1EB7"
+        },
+        {
+          "char": "Ẹ",
+          "code": "U+1EB8"
+        },
+        {
+          "char": "ẹ",
+          "code": "U+1EB9"
+        },
+        {
+          "char": "Ẻ",
+          "code": "U+1EBA"
+        },
+        {
+          "char": "ẻ",
+          "code": "U+1EBB"
+        },
+        {
+          "char": "Ề",
+          "code": "U+1EC0"
+        },
+        {
+          "char": "Ể",
+          "code": "U+1EC2"
+        },
+        {
+          "char": "ể",
+          "code": "U+1EC3"
+        },
+        {
+          "char": "Ễ",
+          "code": "U+1EC4"
+        },
+        {
+          "char": "ễ",
+          "code": "U+1EC5"
+        },
+        {
+          "char": "Ệ",
+          "code": "U+1EC6"
+        },
+        {
+          "char": "Ỉ",
+          "code": "U+1EC8"
+        },
+        {
+          "char": "ỉ",
+          "code": "U+1EC9"
+        },
+        {
+          "char": "Ị",
+          "code": "U+1ECA"
+        },
+        {
+          "char": "Ọ",
+          "code": "U+1ECC"
+        },
+        {
+          "char": "ọ",
+          "code": "U+1ECD"
+        },
+        {
+          "char": "Ỏ",
+          "code": "U+1ECE"
+        },
+        {
+          "char": "ỏ",
+          "code": "U+1ECF"
+        },
+        {
+          "char": "Ố",
+          "code": "U+1ED0"
+        },
+        {
+          "char": "ố",
+          "code": "U+1ED1"
+        },
+        {
+          "char": "Ồ",
+          "code": "U+1ED2"
+        },
+        {
+          "char": "ồ",
+          "code": "U+1ED3"
+        },
+        {
+          "char": "Ổ",
+          "code": "U+1ED4"
+        },
+        {
+          "char": "ổ",
+          "code": "U+1ED5"
+        },
+        {
+          "char": "Ỗ",
+          "code": "U+1ED6"
+        },
+        {
+          "char": "ỗ",
+          "code": "U+1ED7"
+        },
+        {
+          "char": "Ộ",
+          "code": "U+1ED8"
+        },
+        {
+          "char": "ộ",
+          "code": "U+1ED9"
+        },
+        {
+          "char": "Ớ",
+          "code": "U+1EDA"
+        },
+        {
+          "char": "ớ",
+          "code": "U+1EDB"
+        },
+        {
+          "char": "Ờ",
+          "code": "U+1EDC"
+        },
+        {
+          "char": "ờ",
+          "code": "U+1EDD"
+        },
+        {
+          "char": "Ở",
+          "code": "U+1EDE"
+        },
+        {
+          "char": "ở",
+          "code": "U+1EDF"
+        },
+        {
+          "char": "Ỡ",
+          "code": "U+1EE0"
+        },
+        {
+          "char": "ỡ",
+          "code": "U+1EE1"
+        },
+        {
+          "char": "Ợ",
+          "code": "U+1EE2"
+        },
+        {
+          "char": "ợ",
+          "code": "U+1EE3"
+        },
+        {
+          "char": "Ụ",
+          "code": "U+1EE4"
+        },
+        {
+          "char": "ụ",
+          "code": "U+1EE5"
+        },
+        {
+          "char": "Ủ",
+          "code": "U+1EE6"
+        },
+        {
+          "char": "ủ",
+          "code": "U+1EE7"
+        },
+        {
+          "char": "Ứ",
+          "code": "U+1EE8"
+        },
+        {
+          "char": "ứ",
+          "code": "U+1EE9"
+        },
+        {
+          "char": "Ừ",
+          "code": "U+1EEA"
+        },
+        {
+          "char": "ừ",
+          "code": "U+1EEB"
+        },
+        {
+          "char": "Ử",
+          "code": "U+1EEC"
+        },
+        {
+          "char": "Ữ",
+          "code": "U+1EEE"
+        },
+        {
+          "char": "ữ",
+          "code": "U+1EEF"
+        },
+        {
+          "char": "Ự",
+          "code": "U+1EF0"
+        },
+        {
+          "char": "ự",
+          "code": "U+1EF1"
+        },
+        {
+          "char": "Ỵ",
+          "code": "U+1EF4"
+        },
+        {
+          "char": "ỵ",
+          "code": "U+1EF5"
+        },
+        {
+          "char": "Ỷ",
+          "code": "U+1EF6"
+        },
+        {
+          "char": "ỷ",
+          "code": "U+1EF7"
+        }
+      ]
+    },
+    {
+      "file": "C:/Windows/Fonts/arial.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/arialbd.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/segoeui.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/seguisb.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/segoeuib.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/pala.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [
+        "̆",
+        "̂",
+        "̛"
+      ],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/palai.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [
+        "̆",
+        "̂",
+        "̛"
+      ],
+      "missingVietnameseBlock": []
+    },
+    {
+      "file": "C:/Windows/Fonts/times.ttf",
+      "container": "\u0000\u0001\u0000\u0000",
+      "sample": "ăâêôơưđĂÂÊÔƠƯĐ HUẾ Huế có chi hay? Về Huế Khám phá Huế Cẩm nang Lưu trú Di tích - Lịch sử Văn hoá - Tâm linh Di sản Trải nghiệm",
+      "missingSample": [],
+      "missingNFD": [],
+      "missingVietnameseBlock": []
+    }
+  ]
+}

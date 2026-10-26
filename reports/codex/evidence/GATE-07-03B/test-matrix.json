@@ -1,0 +1,1097 @@
+[
+  {
+    "phase": "before",
+    "route": "home",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1366,
+      1366
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "ve-hue",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "kham-pha",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "cam-nang",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "luu-tru",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "home",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "ve-hue",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "kham-pha",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "cam-nang",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "luu-tru",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "home",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1650,
+      1650
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "ve-hue",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "kham-pha",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "cam-nang",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "luu-tru",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "home",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "ve-hue",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "kham-pha",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "cam-nang",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "luu-tru",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "home",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "ve-hue",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "kham-pha",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "cam-nang",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "before",
+    "route": "luu-tru",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "stage-ab",
+    "route": "home",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1366,
+      1366
+    ]
+  },
+  {
+    "phase": "stage-ab",
+    "route": "ve-hue",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "stage-ab",
+    "route": "home",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "stage-c-nav",
+    "route": "home",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1366,
+      1366
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "home",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1366,
+      1366
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "home",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "home",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1650,
+      1650
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "home",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "home",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "cam-nang",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "luu-tru",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "stage-c-ui",
+    "route": "luu-tru",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "stage-c-restart",
+    "route": "home",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1366,
+      1366
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "home",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1366,
+      1366
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "ve-hue",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "kham-pha",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "home",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "ve-hue",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "kham-pha",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "home",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1650,
+      1650
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "ve-hue",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "kham-pha",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "home",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1920,
+      1920
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "ve-hue",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "kham-pha",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "home",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "ve-hue",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "kham-pha",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1366,
+    "h": 768,
+    "actual": [
+      1366,
+      768
+    ],
+    "status": "loaded",
+    "doc": [
+      1351,
+      1351
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1440,
+    "h": 900,
+    "actual": [
+      1440,
+      900
+    ],
+    "status": "loaded",
+    "doc": [
+      1425,
+      1425
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1650,
+    "h": 786,
+    "actual": [
+      1650,
+      786
+    ],
+    "status": "loaded",
+    "doc": [
+      1635,
+      1635
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 1920,
+    "h": 1080,
+    "actual": [
+      1920,
+      1080
+    ],
+    "status": "loaded",
+    "doc": [
+      1905,
+      1905
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "cam-nang",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  },
+  {
+    "phase": "after",
+    "route": "luu-tru",
+    "w": 390,
+    "h": 844,
+    "actual": [
+      390,
+      844
+    ],
+    "status": "loaded",
+    "doc": [
+      375,
+      375
+    ]
+  }
+]

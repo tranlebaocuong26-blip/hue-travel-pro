@@ -1,0 +1,1317 @@
+[
+  {
+    "cards": [
+      {
+        "align": "left",
+        "bg": "rgba(255, 251, 235, 0.7)",
+        "children": [
+          {
+            "color": "rgb(180, 83, 9)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 303,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 166.59375,
+            "x": 303,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 166.59375,
+            "x": 303,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "type": "button",
+        "w": 196.59375,
+        "x": 288,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(239, 246, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(29, 78, 216)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 511.59375,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 166.59375,
+            "x": 511.59375,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 166.59375,
+            "x": 511.59375,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "type": "button",
+        "w": 196.59375,
+        "x": 496.59375,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(240, 253, 250, 0.7)",
+        "children": [
+          {
+            "color": "rgb(15, 118, 110)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 720.1875,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 166.609375,
+            "x": 720.1875,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 166.609375,
+            "x": 720.1875,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "type": "button",
+        "w": 196.609375,
+        "x": 705.1875,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(250, 245, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(126, 34, 206)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 928.796875,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 166.59375,
+            "x": 928.796875,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 166.59375,
+            "x": 928.796875,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "type": "button",
+        "w": 196.59375,
+        "x": 913.796875,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(255, 241, 242, 0.7)",
+        "children": [
+          {
+            "color": "rgb(190, 18, 60)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 1137.390625,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 166.609375,
+            "x": 1137.390625,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 166.609375,
+            "x": 1137.390625,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "type": "button",
+        "w": 196.609375,
+        "x": 1122.390625,
+        "y": 613
+      }
+    ],
+    "doc": [
+      1351,
+      1351
+    ],
+    "grid": {
+      "columns": "196.594px 196.594px 196.609px 196.594px 196.609px",
+      "gap": "12px",
+      "h": 89,
+      "w": 1031,
+      "x": 288,
+      "y": 613
+    },
+    "hero": {
+      "h": 228,
+      "w": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "scrollY": 0,
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "vp": [
+      1366,
+      768
+    ]
+  },
+  {
+    "cards": [
+      {
+        "align": "left",
+        "bg": "rgba(255, 251, 235, 0.7)",
+        "children": [
+          {
+            "color": "rgb(180, 83, 9)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 303,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 181.390625,
+            "x": 303,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 181.390625,
+            "x": 303,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "type": "button",
+        "w": 211.390625,
+        "x": 288,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(239, 246, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(29, 78, 216)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 526.390625,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 181.40625,
+            "x": 526.390625,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 181.40625,
+            "x": 526.390625,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "type": "button",
+        "w": 211.40625,
+        "x": 511.390625,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(240, 253, 250, 0.7)",
+        "children": [
+          {
+            "color": "rgb(15, 118, 110)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 749.796875,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 181.390625,
+            "x": 749.796875,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 181.390625,
+            "x": 749.796875,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "type": "button",
+        "w": 211.390625,
+        "x": 734.796875,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(250, 245, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(126, 34, 206)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 973.1875,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 181.40625,
+            "x": 973.1875,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 181.40625,
+            "x": 973.1875,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "type": "button",
+        "w": 211.40625,
+        "x": 958.1875,
+        "y": 613
+      },
+      {
+        "align": "left",
+        "bg": "rgba(255, 241, 242, 0.7)",
+        "children": [
+          {
+            "color": "rgb(190, 18, 60)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 1196.59375,
+            "y": 628
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 181.390625,
+            "x": 1196.59375,
+            "y": 652
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 181.390625,
+            "x": 1196.59375,
+            "y": 672
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "type": "button",
+        "w": 211.390625,
+        "x": 1181.59375,
+        "y": 613
+      }
+    ],
+    "doc": [
+      1425,
+      1425
+    ],
+    "grid": {
+      "columns": "211.391px 211.406px 211.391px 211.406px 211.391px",
+      "gap": "12px",
+      "h": 89,
+      "w": 1105,
+      "x": 288,
+      "y": 613
+    },
+    "hero": {
+      "h": 228,
+      "w": 1105,
+      "x": 288,
+      "y": 110
+    },
+    "scrollY": 0,
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "vp": [
+      1440,
+      900
+    ]
+  },
+  {
+    "cards": [
+      {
+        "align": "left",
+        "bg": "rgba(255, 251, 235, 0.7)",
+        "children": [
+          {
+            "color": "rgb(180, 83, 9)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 352.5,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 352.5,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 352.5,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "type": "button",
+        "w": 233.59375,
+        "x": 337.5,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(239, 246, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(29, 78, 216)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 598.09375,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 598.09375,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 598.09375,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "type": "button",
+        "w": 233.59375,
+        "x": 583.09375,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(240, 253, 250, 0.7)",
+        "children": [
+          {
+            "color": "rgb(15, 118, 110)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 843.6875,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 843.6875,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 843.6875,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "type": "button",
+        "w": 233.609375,
+        "x": 828.6875,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(250, 245, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(126, 34, 206)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 1089.296875,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 1089.296875,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 1089.296875,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "type": "button",
+        "w": 233.59375,
+        "x": 1074.296875,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(255, 241, 242, 0.7)",
+        "children": [
+          {
+            "color": "rgb(190, 18, 60)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 1334.890625,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 1334.890625,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 1334.890625,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "type": "button",
+        "w": 233.609375,
+        "x": 1319.890625,
+        "y": 557
+      }
+    ],
+    "doc": [
+      1635,
+      1635
+    ],
+    "grid": {
+      "columns": "233.594px 233.594px 233.609px 233.594px 233.609px",
+      "gap": "12px",
+      "h": 89,
+      "w": 1216,
+      "x": 337.5,
+      "y": 557
+    },
+    "hero": {
+      "h": 228,
+      "w": 1216,
+      "x": 337.5,
+      "y": 110
+    },
+    "scrollY": 0,
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "vp": [
+      1650,
+      786
+    ]
+  },
+  {
+    "cards": [
+      {
+        "align": "left",
+        "bg": "rgba(255, 251, 235, 0.7)",
+        "children": [
+          {
+            "color": "rgb(180, 83, 9)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 487.5,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 487.5,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 487.5,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "type": "button",
+        "w": 233.59375,
+        "x": 472.5,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(239, 246, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(29, 78, 216)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 733.09375,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 733.09375,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 733.09375,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "type": "button",
+        "w": 233.59375,
+        "x": 718.09375,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(240, 253, 250, 0.7)",
+        "children": [
+          {
+            "color": "rgb(15, 118, 110)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 978.6875,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 978.6875,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 978.6875,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "type": "button",
+        "w": 233.609375,
+        "x": 963.6875,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(250, 245, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(126, 34, 206)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 1224.296875,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 1224.296875,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.59375,
+            "x": 1224.296875,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "type": "button",
+        "w": 233.59375,
+        "x": 1209.296875,
+        "y": 557
+      },
+      {
+        "align": "left",
+        "bg": "rgba(255, 241, 242, 0.7)",
+        "children": [
+          {
+            "color": "rgb(190, 18, 60)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 1469.890625,
+            "y": 572
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 1469.890625,
+            "y": 596
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 203.609375,
+            "x": 1469.890625,
+            "y": 616
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "type": "button",
+        "w": 233.609375,
+        "x": 1454.890625,
+        "y": 557
+      }
+    ],
+    "doc": [
+      1905,
+      1905
+    ],
+    "grid": {
+      "columns": "233.594px 233.594px 233.609px 233.594px 233.609px",
+      "gap": "12px",
+      "h": 89,
+      "w": 1216,
+      "x": 472.5,
+      "y": 557
+    },
+    "hero": {
+      "h": 228,
+      "w": 1216,
+      "x": 472.5,
+      "y": 110
+    },
+    "scrollY": 0,
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "vp": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "cards": [
+      {
+        "align": "left",
+        "bg": "rgba(255, 251, 235, 0.7)",
+        "children": [
+          {
+            "color": "rgb(180, 83, 9)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 29,
+            "y": 792
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 29,
+            "y": 816
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 29,
+            "y": 836
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "type": "button",
+        "w": 167.5,
+        "x": 14,
+        "y": 777
+      },
+      {
+        "align": "left",
+        "bg": "rgba(239, 246, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(29, 78, 216)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 208.5,
+            "y": 792
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 208.5,
+            "y": 816
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 208.5,
+            "y": 836
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "type": "button",
+        "w": 167.5,
+        "x": 193.5,
+        "y": 777
+      },
+      {
+        "align": "left",
+        "bg": "rgba(240, 253, 250, 0.7)",
+        "children": [
+          {
+            "color": "rgb(15, 118, 110)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 29,
+            "y": 893
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 29,
+            "y": 917
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 29,
+            "y": 937
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "type": "button",
+        "w": 167.5,
+        "x": 14,
+        "y": 878
+      },
+      {
+        "align": "left",
+        "bg": "rgba(250, 245, 255, 0.7)",
+        "children": [
+          {
+            "color": "rgb(126, 34, 206)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 208.5,
+            "y": 893
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 208.5,
+            "y": 917
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 208.5,
+            "y": 937
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "type": "button",
+        "w": 167.5,
+        "x": 193.5,
+        "y": 878
+      },
+      {
+        "align": "left",
+        "bg": "rgba(255, 241, 242, 0.7)",
+        "children": [
+          {
+            "color": "rgb(190, 18, 60)",
+            "font": "16px",
+            "h": 20,
+            "line": "24px",
+            "tag": "svg",
+            "w": 20,
+            "x": 29,
+            "y": 994
+          },
+          {
+            "color": "rgb(37, 28, 57)",
+            "font": "12px",
+            "h": 16,
+            "line": "16px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 29,
+            "y": 1018
+          },
+          {
+            "color": "rgb(107, 114, 128)",
+            "font": "10px",
+            "h": 15,
+            "line": "15px",
+            "tag": "SPAN",
+            "w": 137.5,
+            "x": 29,
+            "y": 1038
+          }
+        ],
+        "font": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+        "h": 89,
+        "nested": 0,
+        "padding": "14px",
+        "tabIndex": 0,
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "type": "button",
+        "w": 167.5,
+        "x": 14,
+        "y": 979
+      }
+    ],
+    "doc": [
+      375,
+      375
+    ],
+    "grid": {
+      "columns": "167.5px 167.5px",
+      "gap": "12px",
+      "h": 291,
+      "w": 347,
+      "x": 14,
+      "y": 777
+    },
+    "hero": {
+      "h": 274,
+      "w": 347,
+      "x": 14,
+      "y": 90
+    },
+    "scrollY": 0,
+    "url": "http://192.168.1.12:3000/luu-tru",
+    "vp": [
+      390,
+      844
+    ]
+  }
+]

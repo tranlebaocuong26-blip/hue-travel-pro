@@ -1,0 +1,68 @@
+[
+  {
+    "href": null,
+    "label": null,
+    "tag": "BUTTON",
+    "text": "Tất cả"
+  },
+  {
+    "href": null,
+    "label": null,
+    "tag": "BUTTON",
+    "text": "Homestay"
+  },
+  {
+    "href": null,
+    "label": null,
+    "tag": "BUTTON",
+    "text": "Khách sạn"
+  },
+  {
+    "href": null,
+    "label": null,
+    "tag": "BUTTON",
+    "text": "Resort"
+  },
+  {
+    "href": null,
+    "label": "Loại hình lưu trú",
+    "tag": "SELECT",
+    "text": "Loại hình: Tất cảHomestay mộc mạcKhách sạn tiện nghiKhu nghỉ dưỡng (Re"
+  },
+  {
+    "href": null,
+    "label": "Khu vực lưu trú",
+    "tag": "SELECT",
+    "text": "Khu vực: Tất cảTrung tâm TP. HuếVen sông HươngGần Đại Nội / Thành NộiN"
+  },
+  {
+    "href": null,
+    "label": "Khoảng giá phòng",
+    "tag": "SELECT",
+    "text": "Khoảng giá: Tham khảo chung theo mùaPhân khúc phổ thông (Cần kiểm chứn"
+  },
+  {
+    "href": null,
+    "label": "Tiện nghi lưu trú",
+    "tag": "SELECT",
+    "text": "Tiện nghi: Tất cảCó Wi-Fi tốc độ caoBữa sáng / Quán cà phêCó hồ bơiBãi"
+  },
+  {
+    "href": "/luu-tru/lucia-homestay-coffee",
+    "label": null,
+    "tag": "A",
+    "text": "Lucia Homestay & Coffee"
+  },
+  {
+    "href": "/luu-tru/lucia-homestay-coffee",
+    "label": null,
+    "tag": "A",
+    "text": "Chi tiết"
+  },
+  {
+    "href": "https://www.google.com/maps/search/?api=1&query=Lucia%20Homestay%20%26%20Coffee%20Hu%E1%BA%BF",
+    "label": null,
+    "tag": "A",
+    "text": "Vị trí"
+  }
+]

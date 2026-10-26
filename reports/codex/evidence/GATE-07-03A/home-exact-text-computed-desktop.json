@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "22.5px",
+      "size": "18px",
+      "spacing": "0.9px",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "weight": "700"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "22.5px",
+      "size": "18px",
+      "spacing": "0.9px",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "weight": "700"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "20px",
+      "size": "16px",
+      "spacing": "0.8px",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "weight": "700"
+    },
+    {
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "line": "96px",
+      "size": "96px",
+      "spacing": "-2.4px",
+      "style": "normal",
+      "tag": "H1",
+      "text": "HUẾ",
+      "weight": "400"
+    },
+    {
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "line": "50.4px",
+      "size": "48px",
+      "spacing": "0.72px",
+      "style": "normal",
+      "tag": "DIV",
+      "text": "TRAVEL PRO",
+      "weight": "400"
+    },
+    {
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "line": "48.6px",
+      "size": "36px",
+      "spacing": "normal",
+      "style": "italic",
+      "tag": "P",
+      "text": "Huế có chi hay?",
+      "weight": "400"
+    }
+  ],
+  "vp": [
+    1366,
+    768
+  ]
+}

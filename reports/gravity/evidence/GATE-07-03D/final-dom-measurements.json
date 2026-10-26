@@ -1,0 +1,174 @@
+{
+  "390": {
+    "viewport": {
+      "w": 390,
+      "h": 844
+    },
+    "scroll": {
+      "scrollH": 1274,
+      "clientH": 844,
+      "hasVerticalScroll": true
+    },
+    "nav": {
+      "width": "530px",
+      "left": "calc(50% - 265px)",
+      "top": "28px",
+      "items": [
+        "Trang chủ",
+        "Về Huế",
+        "Khám phá",
+        "Cẩm nang",
+        "Lưu trú",
+        "HUẾTravel Pro",
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 0,
+      "h": 0
+    },
+    "cta": {
+      "text": "Khám phá Huế ngay",
+      "bg": "rgb(210, 248, 1)",
+      "color": "rgb(30, 20, 53)"
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ]
+  },
+  "1366": {
+    "viewport": {
+      "w": 1366,
+      "h": 768
+    },
+    "scroll": {
+      "scrollH": 768,
+      "clientH": 768,
+      "hasVerticalScroll": false
+    },
+    "nav": {
+      "width": "530px",
+      "left": "418px",
+      "top": "28px",
+      "items": [
+        "Trang chủ",
+        "Về Huế",
+        "Khám phá",
+        "Cẩm nang",
+        "Lưu trú",
+        "HUẾ\nTRAVEL PRO",
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 48,
+      "h": 48
+    },
+    "cta": {
+      "text": "Khám phá Huế ngay",
+      "bg": "rgb(210, 248, 1)",
+      "color": "rgb(30, 20, 53)"
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ]
+  },
+  "1440": {
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    },
+    "scroll": {
+      "scrollH": 900,
+      "clientH": 900,
+      "hasVerticalScroll": false
+    },
+    "nav": {
+      "width": "530px",
+      "left": "455px",
+      "top": "28px",
+      "items": [
+        "Trang chủ",
+        "Về Huế",
+        "Khám phá",
+        "Cẩm nang",
+        "Lưu trú",
+        "HUẾ\nTRAVEL PRO",
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 48,
+      "h": 48
+    },
+    "cta": {
+      "text": "Khám phá Huế ngay",
+      "bg": "rgb(210, 248, 1)",
+      "color": "rgb(30, 20, 53)"
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ]
+  },
+  "1920": {
+    "viewport": {
+      "w": 1920,
+      "h": 1080
+    },
+    "scroll": {
+      "scrollH": 1080,
+      "clientH": 1080,
+      "hasVerticalScroll": false
+    },
+    "nav": {
+      "width": "530px",
+      "left": "695px",
+      "top": "28px",
+      "items": [
+        "Trang chủ",
+        "Về Huế",
+        "Khám phá",
+        "Cẩm nang",
+        "Lưu trú",
+        "HUẾ\nTRAVEL PRO",
+        "Trang chủ",
+        "Lịch sử",
+        "Khám phá",
+        "Di chuyển",
+        "Lưu trú"
+      ]
+    },
+    "logo": {
+      "w": 48,
+      "h": 48
+    },
+    "cta": {
+      "text": "Khám phá Huế ngay",
+      "bg": "rgb(210, 248, 1)",
+      "color": "rgb(30, 20, 53)"
+    },
+    "cards": [
+      "Di tích - Lịch sử",
+      "Văn hoá - Tâm linh",
+      "Ẩm thực Huế"
+    ]
+  }
+}

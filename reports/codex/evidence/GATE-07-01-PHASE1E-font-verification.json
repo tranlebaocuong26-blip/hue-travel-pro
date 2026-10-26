@@ -1,0 +1,20 @@
+{
+  "method": "Read installed Windows TTF cmap tables; no download or font installation.",
+  "firstTestText": "HUẾ TRAVEL PRO Huế có chi hay?",
+  "firstResults": [
+    {"file":"C:/Windows/Fonts/georgia.ttf","missing":["Ế","ế"]},
+    {"file":"C:/Windows/Fonts/georgiai.ttf","missing":["Ế","ế"]},
+    {"file":"C:/Windows/Fonts/segoesc.ttf","missing":["Ế","ế"]},
+    {"file":"C:/Windows/Fonts/segoepr.ttf","missing":["Ế","ế"]}
+  ],
+  "secondTestText": "HUẾ TRAVEL PRO Huế có chi hay? Khám phá cố đô",
+  "secondResults": [
+    {"file":"C:/Windows/Fonts/pala.ttf","missing":[]},
+    {"file":"C:/Windows/Fonts/palai.ttf","missing":[]},
+    {"file":"C:/Windows/Fonts/times.ttf","missing":[]},
+    {"file":"C:/Windows/Fonts/timesi.ttf","missing":[]}
+  ],
+  "appliedHomepageStack": "Palatino Linotype, Times New Roman, serif",
+  "taglineStatus": "Installed serif italic alternative; NEEDS FONT APPROVAL for an exact handwriting/script direction.",
+  "limits": "Coverage checks apply to the stated strings and installed font versions, not every Unicode glyph or every operating system."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "test": "drawer-history",
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "h1": "Khám phá Huế",
+    "url": "http://192.168.1.12:3000/kham-pha"
+  },
+  {
+    "h1": "Di chuyển ở Huế",
+    "url": "http://192.168.1.12:3000/cam-nang"
+  },
+  {
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "url": "http://192.168.1.12:3000/luu-tru"
+  },
+  {
+    "h1": "HUẾ",
+    "url": "http://192.168.1.12:3000/"
+  }
+]

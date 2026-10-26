@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #FAFAFC;
+  --foreground: #251C39;
+  --color-lavender: #C2C6FA;
+  --color-deep-violet: #4D3087;
+  --color-soft-purple: #9075F4;
+  --color-electric-lime: #CAFA35;
+  --color-off-white: #FAFAFC;
+  --color-dark-ink: #251C39;
+  --color-warm-lavender: #E8DDF5;
+  --color-imperial-plum: #513568;
+  --color-warm-ivory: #FFF9F2;
+  --color-warm-gold: #F2C675;
+
+  /* Gate 03: Transition Timing Tokens */
+  --ease-morph: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-morph: 350ms;
+  --duration-fade: 250ms;
+  --duration-total: 550ms;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Accessibility: Strict Reduced Motion Override */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Gate 03: GPU Accelerated Morph Transition */
+  .transition-morph {
+    transition: all var(--duration-morph) var(--ease-morph);
+    will-change: transform, width, height, background-color, border-radius;
+  }
+
+  .transition-crossfade {
+    transition: opacity var(--duration-fade) ease, transform var(--duration-fade) ease;
+    will-change: opacity, transform;
+  }
+}

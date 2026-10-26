@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="vi">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Phase 1E — Logo preview, chưa tích hợp</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f5f1fa;color:#302540;font-family:"Segoe UI",sans-serif;padding:40px}main{max-width:1000px;margin:auto}h1{font-size:24px;font-weight:600;margin:0 0 10px}p{font-size:14px;line-height:1.6;color:#665776}section{margin-top:24px;border:1px solid #ddd3e8;border-radius:20px;background:white;padding:24px}.examples{display:grid;grid-template-columns:1fr 1fr;gap:20px}.label{font-size:12px;margin-bottom:12px;color:#665776}.stage{background:#382750;border-radius:12px;padding:28px 20px;display:flex;align-items:center;justify-content:center;min-height:150px}.lockup{display:flex;align-items:center;gap:12px;color:#fff9f2}.symbol{width:84px;height:84px;flex:none;object-fit:contain}.ivory{background:#fff9f2;mask:url('GATE-07-01-PHASE1E-lotus-source.png') center/contain no-repeat;-webkit-mask:url('GATE-07-01-PHASE1E-lotus-source.png') center/contain no-repeat}.wordmark{font-family:"Palatino Linotype","Times New Roman",serif;font-size:38px;line-height:1.1;letter-spacing:.02em}.submark{font-family:"Segoe UI",sans-serif;font-size:10px;letter-spacing:.25em;line-height:1.5;margin-top:2px;white-space:nowrap}.detail{margin-top:20px;background:#382750;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px}.detail .symbol{width:220px;height:220px}.note{font-size:12px;color:#665776;margin-bottom:0}@media(max-width:650px){body{padding:20px}.examples{grid-template-columns:1fr}}
+</style>
+<main>
+<h1>HUẾ TRAVEL PRO — Logo lockup preview</h1>
+<p>PHASE 1E · CHƯA TÍCH HỢP WEBSITE · CHỜ OWNER DUYỆT</p>
+<section>
+<div class="examples">
+<div><div class="label">Tham chiếu hình gốc — giữ nguyên màu hồng</div><div class="stage"><div class="lockup"><img class="symbol" src="GATE-07-01-PHASE1E-lotus-source.png" alt="Hoa sen gốc Owner cung cấp"><div><div class="wordmark">HUẾ</div><div class="submark">TRAVEL PRO</div></div></div></div></div>
+<div><div class="label">Phương án ưu tiên — trắng/ngà trên nền tím</div><div class="stage"><div class="lockup"><div class="symbol ivory" role="img" aria-label="Cùng hình sen gốc, đổi màu hiển thị qua alpha mask"></div><div><div class="wordmark">HUẾ</div><div class="submark">TRAVEL PRO</div></div></div></div></div>
+</div>
+<p class="note">Icon dùng chính PNG gốc, không vẽ lại và không dùng hình AI. Bản ngà dùng alpha mask trong CSS; file gốc không đổi pixel. Wordmark dùng Palatino Linotype có sẵn, không tải font.</p>
+</section>
+<section>
+<div class="label">Kiểm tra đường nét và alpha ở tỷ lệ lớn</div>
+<div class="detail"><div class="symbol ivory" role="img" aria-label="Phóng lớn alpha của hình sen gốc"></div></div>
+<p class="note">Nguồn có viền/đốm alpha nhìn thấy; preview không tự làm sạch. Cần Owner duyệt hình, màu, tỷ lệ icon–chữ và chất lượng master trước khi được phép tích hợp navigation.</p>
+</section>
+</main>
+</html>

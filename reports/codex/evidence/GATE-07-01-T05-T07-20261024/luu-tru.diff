@@ -1,0 +1,13 @@
+diff --git a/reports/codex/evidence/GATE-07-01-T05-T07-20261024/luu-tru.before.tsx b/src/app/luu-tru/page.tsx
+index 06033ca..2f3b0fe 100644
+--- a/reports/codex/evidence/GATE-07-01-T05-T07-20261024/luu-tru.before.tsx
++++ b/src/app/luu-tru/page.tsx
+@@ -187,7 +187,7 @@ function LuuTruContent() {
+ 
+       {/* Filter Control Bar with URL persistence */}
+       <div className="p-4 sm:p-5 rounded-2xl bg-white border border-gray-100 shadow-sm space-y-3 w-full">
+-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3 w-full">
++        <div className="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_minmax(20rem,1.5fr)_minmax(0,1fr)] gap-2.5 sm:gap-3 w-full">
+           {/* Loại hình */}
+           <select
+             value={selectedType}

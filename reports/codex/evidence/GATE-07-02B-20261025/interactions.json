@@ -1,0 +1,37 @@
+[
+  {
+    "count": "Hiển thị 4 cơ sở lưu trú",
+    "filter": "homestay",
+    "test": "Homestay chip",
+    "url": "http://192.168.1.12:3000/luu-tru?type=homestay"
+  },
+  {
+    "targetTop": 0,
+    "test": "Rental CTA anchor",
+    "url": "http://192.168.1.12:3000/cam-nang#thue-xe-danh-sach"
+  },
+  {
+    "heading": "Khám phá Huế",
+    "test": "History CTA then discovery tag",
+    "url": "http://192.168.1.12:3000/kham-pha?q=%C4%90%E1%BA%A1i+N%E1%BB%99i"
+  },
+  {
+    "logo": [
+      {
+        "loaded": true,
+        "width": 44
+      },
+      {
+        "loaded": true,
+        "width": 40
+      }
+    ],
+    "sidebar": true,
+    "test": "Home to History",
+    "url": "http://192.168.1.12:3000/ve-hue"
+  },
+  {
+    "test": "Sidebar to Home",
+    "url": "http://192.168.1.12:3000/"
+  }
+]

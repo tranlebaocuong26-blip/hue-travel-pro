@@ -1,0 +1,344 @@
+{
+  "card-1a": {
+    "card": {
+      "x": 30,
+      "y": 195.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "GeistVF, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "lineHeight": "15px",
+      "letterSpacing": "1.2px",
+      "color": "rgba(254, 243, 199, 0.9)",
+      "rect": {
+        "x": 109.84375,
+        "y": 245.390625,
+        "width": 140.3125,
+        "height": 15
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "GeistVF, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "rect": {
+        "x": 128.609375,
+        "y": 264.390625,
+        "width": 102.78125,
+        "height": 15
+      }
+    }
+  },
+  "card-1b": {
+    "card": {
+      "x": 350,
+      "y": 195.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "BeVietnamPro, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "lineHeight": "15px",
+      "letterSpacing": "1.2px",
+      "color": "rgba(254, 243, 199, 0.9)",
+      "rect": {
+        "x": 427.34375,
+        "y": 245.390625,
+        "width": 145.3125,
+        "height": 15
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "BeVietnamPro, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "rect": {
+        "x": 444.953125,
+        "y": 264.390625,
+        "width": 110.078125,
+        "height": 15
+      }
+    }
+  },
+  "card-1c": {
+    "card": {
+      "x": 670,
+      "y": 195.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "NotoSans, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "500",
+      "lineHeight": "15px",
+      "letterSpacing": "1.2px",
+      "color": "rgba(254, 243, 199, 0.9)",
+      "rect": {
+        "x": 748.875,
+        "y": 245.390625,
+        "width": 142.234375,
+        "height": 15
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "NotoSans, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "rect": {
+        "x": 767.5,
+        "y": 264.390625,
+        "width": 104.984375,
+        "height": 15
+      }
+    }
+  },
+  "card-2a": {
+    "card": {
+      "x": 30,
+      "y": 470.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "GeistVF, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "16px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 199, 0.95)",
+      "rect": {
+        "x": 106.875,
+        "y": 519.390625,
+        "width": 146.25,
+        "height": 16
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "GeistVF, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 122.359375,
+        "y": 539.390625,
+        "width": 115.28125,
+        "height": 16
+      }
+    }
+  },
+  "card-2b": {
+    "card": {
+      "x": 350,
+      "y": 470.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "BeVietnamPro, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "16px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 199, 0.95)",
+      "rect": {
+        "x": 423.984375,
+        "y": 519.390625,
+        "width": 152.03125,
+        "height": 16
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "BeVietnamPro, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 439.078125,
+        "y": 539.390625,
+        "width": 121.828125,
+        "height": 16
+      }
+    }
+  },
+  "card-2c": {
+    "card": {
+      "x": 670,
+      "y": 470.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "NotoSans, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "600",
+      "lineHeight": "16px",
+      "letterSpacing": "0.88px",
+      "color": "rgba(254, 243, 199, 0.95)",
+      "rect": {
+        "x": 745.1875,
+        "y": 519.390625,
+        "width": 149.609375,
+        "height": 16
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "NotoSans, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "11px",
+      "fontWeight": "500",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 761.28125,
+        "y": 539.390625,
+        "width": 117.421875,
+        "height": 16
+      }
+    }
+  },
+  "card-3a": {
+    "card": {
+      "x": 30,
+      "y": 745.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "GeistVF, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "16px",
+      "letterSpacing": "0.72px",
+      "color": "rgba(254, 243, 199, 0.95)",
+      "rect": {
+        "x": 102.625,
+        "y": 794.390625,
+        "width": 154.75,
+        "height": 16
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "GeistVF, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 117.109375,
+        "y": 814.390625,
+        "width": 125.765625,
+        "height": 16
+      }
+    }
+  },
+  "card-3b": {
+    "card": {
+      "x": 350,
+      "y": 745.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "BeVietnamPro, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "16px",
+      "letterSpacing": "0.72px",
+      "color": "rgba(254, 243, 199, 0.95)",
+      "rect": {
+        "x": 419.46875,
+        "y": 794.390625,
+        "width": 161.0625,
+        "height": 16
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "BeVietnamPro, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 433.546875,
+        "y": 814.390625,
+        "width": 132.890625,
+        "height": 16
+      }
+    }
+  },
+  "card-3c": {
+    "card": {
+      "x": 670,
+      "y": 745.390625,
+      "width": 300,
+      "height": 182
+    },
+    "line1": {
+      "text": "ĐANG CHỜ TƯ LIỆU ẢNH",
+      "fontFamily": "NotoSans, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "16px",
+      "letterSpacing": "0.72px",
+      "color": "rgba(254, 243, 199, 0.95)",
+      "rect": {
+        "x": 740.796875,
+        "y": 794.390625,
+        "width": 158.40625,
+        "height": 16
+      }
+    },
+    "line2": {
+      "text": "Ẩm thực Cố Đô (Đợt 1)",
+      "fontFamily": "NotoSans, \"Segoe UI\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "color": "rgba(255, 255, 255, 0.85)",
+      "rect": {
+        "x": 755.953125,
+        "y": 814.390625,
+        "width": 128.09375,
+        "height": 16
+      }
+    }
+  }
+}

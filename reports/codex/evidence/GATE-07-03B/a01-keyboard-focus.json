@@ -1,0 +1,817 @@
+[
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "forward": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          246.328125,
+          528.15625,
+          204.921875,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          487.25,
+          300.5625,
+          198.9375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          704.90625,
+          299.96875,
+          196.703125,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          913.796875,
+          300,
+          196.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1122.390625,
+          299,
+          196.609375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "unobscured": false
+      }
+    ],
+    "reverse": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          913.796875,
+          299,
+          196.59375,
+          89
+        ],
+        "shadow": "rgba(255, 255, 255, 0.03) 0px 0px 0px 0.0638573px, rgba(77, 48, 135, 0.03) 0px 0px 0px 0.127715px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          705.1875,
+          299,
+          196.609375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          496.59375,
+          299,
+          196.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          288,
+          299,
+          196.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "forward": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          288,
+          594,
+          211.390625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          511.390625,
+          365,
+          211.40625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          734.796875,
+          365,
+          211.390625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          958.1875,
+          365,
+          211.40625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1181.59375,
+          365,
+          211.390625,
+          89
+        ],
+        "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 3.72555e-08px, rgba(77, 48, 135, 0) 0px 0px 0px 7.45111e-08px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "unobscured": false
+      }
+    ],
+    "reverse": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          958.1875,
+          365,
+          211.40625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          734.796875,
+          365,
+          211.390625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          511.390625,
+          365,
+          211.40625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          288,
+          365,
+          211.390625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1650,
+      786
+    ],
+    "forward": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          337.5,
+          537,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          583.09375,
+          308,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          828.6875,
+          308,
+          233.609375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1074.296875,
+          308,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1319.890625,
+          308,
+          233.609375,
+          89
+        ],
+        "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 4.17922e-08px, rgba(77, 48, 135, 0) 0px 0px 0px 8.35844e-08px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "unobscured": false
+      }
+    ],
+    "reverse": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1074.296875,
+          308,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          828.6875,
+          308,
+          233.609375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          583.09375,
+          308,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          337.5,
+          308,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "forward": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          472.5,
+          557,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          718.09375,
+          455,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          963.6875,
+          455,
+          233.609375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1209.296875,
+          455,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1454.890625,
+          455,
+          233.609375,
+          89
+        ],
+        "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 5.97114e-07px, rgba(77, 48, 135, 0) 0px 0px 0px 1.19423e-06px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "unobscured": false
+      }
+    ],
+    "reverse": [
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          1209.296875,
+          455,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          963.6875,
+          455,
+          233.609375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          718.09375,
+          455,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": false
+      },
+      {
+        "bottomNav": [
+          0,
+          0
+        ],
+        "focusVisible": true,
+        "rect": [
+          472.5,
+          455,
+          233.59375,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": false
+      }
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "forward": [
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          185.75,
+          127.21875,
+          81.625,
+          136
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          233.796875,
+          71,
+          127.203125,
+          105
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          66.359375,
+          418.5,
+          141.3125,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          201.9375,
+          321.5,
+          159.0625,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          21.15625,
+          411,
+          163.921875,
+          89
+        ],
+        "shadow": "rgba(255, 255, 255, 0) 0px 0px 0px 5.15352e-10px, rgba(77, 48, 135, 0) 0px 0px 0px 1.0307e-09px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Resort sinh tháiKhông gian xanh",
+        "unobscured": true
+      }
+    ],
+    "reverse": [
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          193.5,
+          236,
+          167.5,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Cho gia đìnhPhòng rộng, tiện nghi",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          14,
+          337,
+          167.5,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Ven sông HươngThư giãn, thơ mộng",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          193.5,
+          236,
+          167.5,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Khách sạn 3–5 saoTiện nghi, view đẹp",
+        "unobscured": true
+      },
+      {
+        "bottomNav": [
+          784.5,
+          59.5
+        ],
+        "focusVisible": true,
+        "rect": [
+          14,
+          337,
+          167.5,
+          89
+        ],
+        "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        "tag": "BUTTON",
+        "text": "Homestay trung tâmẤm cúng, giá tốt",
+        "unobscured": true
+      }
+    ]
+  }
+]

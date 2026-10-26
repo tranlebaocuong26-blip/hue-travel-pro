@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "16px",
+      "size": "12px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "A",
+      "text": "Lịch sử",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "16px",
+      "size": "12px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "A",
+      "text": "Khám phá",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "16px",
+      "size": "12px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "A",
+      "text": "Di chuyển",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "16px",
+      "size": "12px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "A",
+      "text": "Lưu trú",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "22.5px",
+      "size": "18px",
+      "spacing": "0.9px",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "weight": "700"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "20px",
+      "size": "14px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "Lịch sử",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "20px",
+      "size": "14px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "Khám phá",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "20px",
+      "size": "14px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "Di chuyển",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "20px",
+      "size": "14px",
+      "spacing": "normal",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "Lưu trú",
+      "weight": "500"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "22.5px",
+      "size": "18px",
+      "spacing": "0.9px",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "weight": "700"
+    },
+    {
+      "family": "__geistSans_1e4310, __geistSans_Fallback_1e4310, \"Segoe UI\", Roboto, Arial, sans-serif",
+      "line": "20px",
+      "size": "16px",
+      "spacing": "0.8px",
+      "style": "normal",
+      "tag": "SPAN",
+      "text": "HUẾ",
+      "weight": "700"
+    },
+    {
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "line": "72px",
+      "size": "72px",
+      "spacing": "-1.8px",
+      "style": "normal",
+      "tag": "H1",
+      "text": "HUẾ",
+      "weight": "400"
+    },
+    {
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "line": "42px",
+      "size": "40px",
+      "spacing": "0.6px",
+      "style": "normal",
+      "tag": "DIV",
+      "text": "TRAVEL PRO",
+      "weight": "400"
+    },
+    {
+      "family": "\"Palatino Linotype\", \"Times New Roman\", serif",
+      "line": "40.5px",
+      "size": "30px",
+      "spacing": "normal",
+      "style": "italic",
+      "tag": "P",
+      "text": "Huế có chi hay?",
+      "weight": "400"
+    }
+  ],
+  "url": "http://192.168.1.12:3000/",
+  "vp": [
+    390,
+    844
+  ]
+}

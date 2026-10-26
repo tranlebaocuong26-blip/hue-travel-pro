@@ -1,0 +1,91 @@
+{
+  "doc": {
+    "client": 1635,
+    "height": 2131,
+    "scroll": 1635
+  },
+  "grids": [
+    {
+      "cols": "292px 292px 292px 292px",
+      "gap": "16px",
+      "h": 74,
+      "w": 1216,
+      "x": 337.5,
+      "y": 402
+    },
+    {
+      "cols": "72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px 72px",
+      "gap": "32px",
+      "h": 1435.75,
+      "w": 1216,
+      "x": 337.5,
+      "y": 663
+    },
+    {
+      "cols": "390px 390px",
+      "gap": "20px",
+      "h": 1165,
+      "w": 800,
+      "x": 337.5,
+      "y": 715
+    },
+    {
+      "cols": "191px 191px 191px 191px",
+      "gap": "12px",
+      "h": 130.75,
+      "w": 800,
+      "x": 337.5,
+      "y": 1968
+    }
+  ],
+  "h1": "Di chuyển ở Huế",
+  "headings": [
+    {
+      "font": "20px",
+      "h": 28,
+      "text": "Đơn vị thuê xe tham khảo(6 cơ sở)",
+      "w": 337.109375,
+      "x": 337.5,
+      "y": 663
+    },
+    {
+      "font": "16px",
+      "h": 24,
+      "text": "Kinh nghiệm & lưu ý quan trọng",
+      "w": 800,
+      "x": 337.5,
+      "y": 1928
+    },
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Checklist thuê xe an toàn",
+      "w": 199.9375,
+      "x": 1190.5,
+      "y": 684
+    },
+    {
+      "font": "14px",
+      "h": 20,
+      "text": "Gợi ý hướng di chuyển",
+      "w": 342,
+      "x": 1190.5,
+      "y": 972
+    }
+  ],
+  "hero": {
+    "bg": "linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_di_chuyen.png\")",
+    "h": 260,
+    "position": "100% 90%, 100% 90%",
+    "w": 1216,
+    "x": 337.5,
+    "y": 110
+  },
+  "images": [],
+  "overflow": [],
+  "url": "http://192.168.1.12:3000/cam-nang",
+  "viewport": [
+    1650,
+    786
+  ]
+}

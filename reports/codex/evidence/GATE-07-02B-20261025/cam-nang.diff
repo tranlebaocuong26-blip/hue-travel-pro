@@ -1,0 +1,15 @@
+diff --git a/reports/codex/evidence/GATE-07-02B-20261025/cam-nang.before.tsx b/src/app/cam-nang/page.tsx
+index 98cc0e0..69ff507 100644
+--- a/reports/codex/evidence/GATE-07-02B-20261025/cam-nang.before.tsx
++++ b/src/app/cam-nang/page.tsx
+@@ -126,8 +126,8 @@ function CamNangContent() {
+       <div
+         className="w-full rounded-2xl sm:rounded-3xl p-5 sm:p-8 lg:p-10 text-white bg-cover bg-center shadow-lg relative overflow-hidden"
+         style={{
+-          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.95) 0%, rgba(242, 153, 74, 0.75) 55%, rgba(37, 28, 57, 0.3) 100%), url('/images/heroes/hero_cam_nang.png')`,
+-          backgroundPosition: "right center",
++          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url('/images/heroes/hero_di_chuyen.png')`,
++          backgroundPosition: "right 90%",
+           backgroundSize: "cover",
+         }}
+       >

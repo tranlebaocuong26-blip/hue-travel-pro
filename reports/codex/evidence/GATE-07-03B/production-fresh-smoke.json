@@ -1,0 +1,47 @@
+[
+  {
+    "route": "home",
+    "actual": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "evidence": "production-fresh-home-1366.png"
+  },
+  {
+    "route": "ve-hue",
+    "actual": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "evidence": "production-fresh-ve-hue-1366.png"
+  },
+  {
+    "route": "kham-pha",
+    "actual": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "evidence": "production-fresh-kham-pha-1366.png"
+  },
+  {
+    "route": "cam-nang",
+    "actual": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "evidence": "production-fresh-cam-nang-1366.png"
+  },
+  {
+    "route": "luu-tru",
+    "actual": [
+      1366,
+      768
+    ],
+    "fontStatus": "loaded",
+    "evidence": "production-fresh-luu-tru-1366.png"
+  }
+]

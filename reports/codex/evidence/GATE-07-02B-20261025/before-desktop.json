@@ -1,0 +1,46 @@
+[
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.95) 0%, rgba(37, 28, 57, 0.75) 50%, rgba(37, 28, 57, 0.3) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_ve_hue.png\")",
+    "h1": "Lịch sử Huế",
+    "hero": {
+      "height": 394.5,
+      "width": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "route": "/ve-hue"
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.95) 0%, rgba(77, 48, 135, 0.75) 55%, rgba(37, 28, 57, 0.3) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_trang_chu.png\")",
+    "h1": "Khám phá Huế",
+    "hero": {
+      "height": 292,
+      "width": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "route": "/kham-pha"
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.95) 0%, rgba(242, 153, 74, 0.75) 55%, rgba(37, 28, 57, 0.3) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_cam_nang.png\")",
+    "h1": "Di chuyển ở Huế",
+    "hero": {
+      "height": 260,
+      "width": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "route": "/cam-nang"
+  },
+  {
+    "background": "linear-gradient(to right, rgba(37, 28, 57, 0.95) 0%, rgba(139, 92, 246, 0.7) 55%, rgba(37, 28, 57, 0.3) 100%), url(\"http://192.168.1.12:3000/images/heroes/hero_luu_tru.png\")",
+    "h1": "Những homestay xinh xắn, khách sạn tiện nghi và không gian lưu trú đầy cảm hứng cho hành trình của bạn.",
+    "hero": {
+      "height": 228,
+      "width": 1031,
+      "x": 288,
+      "y": 110
+    },
+    "route": "/luu-tru"
+  }
+]
