@@ -127,7 +127,7 @@ function AnUongContent() {
       <div
         className="w-full rounded-2xl sm:rounded-3xl p-5 sm:p-8 lg:p-10 text-white shadow-lg relative overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.92) 0%, rgba(37, 28, 57, 0.68) 50%, rgba(37, 28, 57, 0.18) 100%), url('/images/heroes/hero_an_uong.png')`,
+          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.92) 0%, rgba(37, 28, 57, 0.68) 50%, rgba(37, 28, 57, 0.18) 100%), url('/images/heroes/hero_an_uong.webp')`,
           backgroundPosition: "right center",
           backgroundSize: "cover",
         }}

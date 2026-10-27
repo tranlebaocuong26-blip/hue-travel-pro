@@ -137,7 +137,7 @@ function LuuTruContent() {
       <div
         className="w-full rounded-2xl sm:rounded-3xl p-5 sm:p-8 lg:p-10 text-white bg-cover bg-center shadow-lg relative overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url('/images/heroes/hero_luu_tru.png')`,
+          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 55%, rgba(37, 28, 57, 0.08) 100%), url('/images/heroes/hero_luu_tru.webp')`,
           backgroundPosition: "right 65%",
           backgroundSize: "cover",
         }}

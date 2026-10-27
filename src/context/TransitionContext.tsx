@@ -47,10 +47,15 @@ export function TransitionProvider({
   const isNavigatingRef = useRef(false);
   const currentPathRef = useRef(pathname);
 
-  // Keep track of current path
+  // Prefetch all main routes into memory on client mount for instant (<50ms) page switches
   useEffect(() => {
-    currentPathRef.current = pathname;
-  }, [pathname]);
+    const mainRoutes = ["/", "/ve-hue", "/kham-pha", "/an-uong", "/cam-nang", "/luu-tru"];
+    mainRoutes.forEach((route) => {
+      try {
+        router.prefetch(route);
+      } catch {}
+    });
+  }, [router]);
 
   // Check prefers-reduced-motion
   useEffect(() => {
@@ -78,6 +83,37 @@ export function TransitionProvider({
     return () => window.removeEventListener("popstate", handlePopState);
   }, []);
 
+  // Lifecycle-driven transition settlement:
+  // Only settle to IDLE once pathname has ACTUALLY reached targetHref!
+  useEffect(() => {
+    currentPathRef.current = pathname;
+
+    if (
+      targetHref &&
+      (pathname === targetHref || (targetHref !== "/" && pathname.startsWith(targetHref)))
+    ) {
+      // The destination page has mounted! Allow 350ms CSS morph animation to complete smoothly
+      const timer = setTimeout(() => {
+        setPhase("IDLE");
+        setTargetHref(null);
+        isNavigatingRef.current = false;
+      }, 350);
+
+      return () => clearTimeout(timer);
+    }
+  }, [pathname, targetHref]);
+
+  // Safety watchdog: if route navigation takes unusually long or fails, release lock after 6s
+  useEffect(() => {
+    if (!targetHref) return;
+    const watchdog = setTimeout(() => {
+      setPhase("IDLE");
+      setTargetHref(null);
+      isNavigatingRef.current = false;
+    }, 6000);
+    return () => clearTimeout(watchdog);
+  }, [targetHref]);
+
   const navigate = useCallback(
     (href: string) => {
       const current = currentPathRef.current;
@@ -102,41 +138,16 @@ export function TransitionProvider({
       if (isCurrentLanding && !isTargetLanding) {
         // Landing -> Subpage (Hero-to-Sidebar Morph)
         setPhase("LANDING_TO_SUBPAGE");
-
-        // Immediately push route so destination page renders concurrently without blank screen
-        router.push(href);
-
-        // Morph runs 350ms, settles completely at 550ms
-        setTimeout(() => {
-          setPhase("IDLE");
-          setTargetHref(null);
-          isNavigatingRef.current = false;
-        }, 550);
       } else if (!isCurrentLanding && isTargetLanding) {
         // Subpage -> Landing (Sidebar-to-Hero Reverse Morph)
         setPhase("SUBPAGE_TO_LANDING");
-
-        // Immediately push route so landing hero renders concurrently without blank screen
-        router.push(href);
-
-        // Reverse morph settles at 550ms
-        setTimeout(() => {
-          setPhase("IDLE");
-          setTargetHref(null);
-          isNavigatingRef.current = false;
-        }, 550);
       } else {
-        // Subpage -> Subpage (Stationary Sidebar, Subtle Content Crossfade)
+        // Subpage -> Subpage
         setPhase("SUBPAGE_TO_SUBPAGE");
-
-        router.push(href);
-
-        setTimeout(() => {
-          setPhase("IDLE");
-          setTargetHref(null);
-          isNavigatingRef.current = false;
-        }, 320);
       }
+
+      // Immediately push route so destination page loads concurrently
+      router.push(href);
     },
     [prefersReducedMotion, router]
   );
@@ -145,7 +156,7 @@ export function TransitionProvider({
     <TransitionContext.Provider
       value={{
         phase,
-        isTransitioning: phase !== "IDLE",
+        isTransitioning: phase !== "IDLE" || targetHref !== null,
         targetHref,
         navigate,
         prefersReducedMotion,

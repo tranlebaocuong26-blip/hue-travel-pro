@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useTransition } from "@/context/TransitionContext";
 import { MAIN_NAV_ITEMS } from "@/types/navigation";
 import {
@@ -57,15 +57,15 @@ const HOMEPAGE_CAPSULE_ITEMS = [
 
 export default function AdaptiveNavigation() {
   const pathname = usePathname();
-  const { phase, isTransitioning, targetHref, navigate, prefersReducedMotion } =
+  const router = useRouter();
+  const { isTransitioning, targetHref, navigate, prefersReducedMotion } =
     useTransition();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const isCurrentLanding = pathname === "/";
-  // The visual state of the navigation: Sidebar vs Capsule
-  const isSidebarVisual =
-    phase === "LANDING_TO_SUBPAGE" ||
-    (!isCurrentLanding && phase !== "SUBPAGE_TO_LANDING");
+  // The visual state of the navigation: Sidebar vs Capsule based on active target or current path
+  const effectivePath = targetHref ?? pathname;
+  const isSidebarVisual = effectivePath !== "/";
 
   // Effective active path (updates immediately to targetHref during transition for responsive feedback)
   const activePath = isTransitioning && targetHref ? targetHref : pathname;
@@ -120,6 +120,7 @@ export default function AdaptiveNavigation() {
                 "box-shadow 350ms cubic-bezier(0.25, 1, 0.5, 1)",
               ].join(", "),
           willChange: "top, left, width, height, border-radius, background-color",
+          transform: "translateZ(0)",
         }}
       >
         {/* =====================================================================
@@ -148,6 +149,7 @@ export default function AdaptiveNavigation() {
                 key={item.id}
                 href={item.href}
                 onClick={(e) => handleItemClick(e, item.href)}
+                onMouseEnter={() => router.prefetch(item.href)}
                 aria-current={isActive ? "page" : undefined}
                 className={`px-3 py-1.5 rounded-full text-[12.5px] transition-all duration-200 select-none cursor-pointer ${
                   isActive
@@ -391,6 +393,7 @@ export default function AdaptiveNavigation() {
                 key={item.id}
                 href={item.href}
                 onClick={(e) => handleItemClick(e, item.href)}
+                onMouseEnter={() => router.prefetch(item.href)}
                 aria-current={isActive ? "page" : undefined}
                 className={`flex flex-col items-center justify-center min-h-[48px] py-1 px-0.5 rounded-xl text-[10px] transition-colors w-full select-none ${
                   isActive

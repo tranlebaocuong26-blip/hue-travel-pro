@@ -2,10 +2,12 @@
 
 import React from "react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { useTransition } from "@/context/TransitionContext";
 import { ArrowRight, MapPin, Users, Star, Sparkles } from "lucide-react";
 
 export default function HomePage() {
+  const router = useRouter();
   const { navigate } = useTransition();
 
   const handleGo = (e: React.MouseEvent | null, href: string) => {
@@ -17,7 +19,7 @@ export default function HomePage() {
     <div
       className="relative flex-1 flex flex-col w-full mx-auto max-w-[1536px] 2xl:max-w-[1720px] 3xl:max-w-[1880px] rounded-[24px] sm:rounded-[32px] lg:rounded-[36px] overflow-hidden border border-white/20 shadow-2xl shadow-indigo-950/30 bg-no-repeat bg-right-top bg-cover min-h-[calc(100vh-1.25rem)] sm:min-h-[calc(100vh-1.75rem)] lg:min-h-[calc(100svh-2rem)] lg:flex-none p-4 sm:p-6 lg:p-7 2xl:p-9 pt-6 sm:pt-8 md:pt-20 lg:pt-[124px] 2xl:pt-[130px] lg:[@media(max-height:940px)]:pt-[158px] lg:[@media(max-height:940px)]:pb-3.5 transition-all"
       style={{
-        backgroundImage: `linear-gradient(to right, rgba(29, 31, 65, 0.94) 0%, rgba(36, 34, 75, 0.82) 34%, rgba(55, 38, 92, 0.35) 65%, rgba(0, 0, 0, 0) 100%), url('/images/heroes/hero_trang_chu.png')`,
+        backgroundImage: `linear-gradient(to right, rgba(29, 31, 65, 0.94) 0%, rgba(36, 34, 75, 0.82) 34%, rgba(55, 38, 92, 0.35) 65%, rgba(0, 0, 0, 0) 100%), url('/images/heroes/hero_trang_chu.webp')`,
       }}
     >
       {/* Hero Center-Left Content */}
@@ -93,6 +95,7 @@ export default function HomePage() {
             <a
               href="/kham-pha"
               onClick={(e) => handleGo(e, "/kham-pha")}
+              onMouseEnter={() => router.prefetch("/kham-pha")}
               className="font-ui inline-flex items-center gap-3.5 px-6 py-3.5 lg:[@media(max-height:940px)]:py-2 lg:[@media(max-height:940px)]:px-4.5 lg:[@media(max-height:940px)]:text-[13.5px] rounded-full bg-[#D2F801] hover:bg-[#c4eb00] text-[#1E1435] font-bold text-base shadow-2xl transition-all duration-300 hover:scale-105 group"
             >
               <span>Khám phá Huế ngay</span>
@@ -111,11 +114,12 @@ export default function HomePage() {
           <a
             href="/kham-pha"
             onClick={(e) => handleGo(e, "/kham-pha")}
+            onMouseEnter={() => router.prefetch("/kham-pha")}
             className="relative min-h-[170px] sm:min-h-[176px] lg:min-h-[164px] 2xl:min-h-[190px] lg:[@media(max-height:940px)]:min-h-[142px] rounded-2xl overflow-hidden border border-white/20 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer shadow-lg hover:scale-[1.02]"
           >
             <div className="absolute inset-0">
               <Image
-                src="/images/cards/card_di_tich.png"
+                src="/images/cards/card_di_tich.webp"
                 alt="Di tích - Lịch sử"
                 fill
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
@@ -142,11 +146,12 @@ export default function HomePage() {
           <a
             href="/kham-pha"
             onClick={(e) => handleGo(e, "/kham-pha")}
+            onMouseEnter={() => router.prefetch("/kham-pha")}
             className="relative min-h-[170px] sm:min-h-[176px] lg:min-h-[164px] 2xl:min-h-[190px] lg:[@media(max-height:940px)]:min-h-[142px] rounded-2xl overflow-hidden border border-white/20 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer shadow-lg hover:scale-[1.02]"
           >
             <div className="absolute inset-0">
               <Image
-                src="/images/cards/card_van_hoa.png"
+                src="/images/cards/card_van_hoa.webp"
                 alt="Văn hoá - Tâm linh"
                 fill
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
@@ -173,11 +178,12 @@ export default function HomePage() {
           <a
             href="/an-uong"
             onClick={(e) => handleGo(e, "/an-uong")}
+            onMouseEnter={() => router.prefetch("/an-uong")}
             className="relative min-h-[170px] sm:min-h-[176px] lg:min-h-[164px] 2xl:min-h-[190px] lg:[@media(max-height:940px)]:min-h-[142px] rounded-2xl overflow-hidden border border-white/20 bg-dark-ink/30 transition-all group flex flex-col justify-end cursor-pointer shadow-lg hover:scale-[1.02]"
           >
             <div className="absolute inset-0">
               <Image
-                src="/images/cards/card_am_thuc.png"
+                src="/images/cards/card_am_thuc.webp"
                 alt="Ẩm thực Huế"
                 fill
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"

@@ -98,7 +98,7 @@ export default function VeHuePage() {
       <div
         className="relative rounded-2xl sm:rounded-3xl overflow-hidden min-h-[300px] sm:min-h-[360px] p-5 sm:p-8 md:p-12 flex flex-col justify-between text-white bg-cover bg-center shadow-lg"
         style={{
-          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url('/images/heroes/hero_lich_su.png')`,
+          backgroundImage: `linear-gradient(to right, rgba(37, 28, 57, 0.82) 0%, rgba(37, 28, 57, 0.55) 50%, rgba(37, 28, 57, 0.08) 100%), url('/images/heroes/hero_lich_su.webp')`,
           backgroundPosition: "right center",
           backgroundSize: "cover",
         }}

@@ -63,6 +63,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi">
+      <head>
+        <link
+          rel="preload"
+          as="image"
+          href="/images/heroes/hero_trang_chu.webp"
+          type="image/webp"
+          fetchPriority="high"
+        />
+      </head>
       <body className={`${geistSans.variable} ${notoSans.variable} ${beVietnamPro.variable} ${notoSerif.variable} ${playfair.variable} font-ui antialiased`}>
         <TransitionProvider>
           <Shell>{children}</Shell>
